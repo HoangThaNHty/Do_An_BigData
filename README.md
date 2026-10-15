@@ -29,7 +29,7 @@ Trình duyệt → Next.js :3000 → proxy /api → FastAPI :8000
  └─ Thử tin mẫu: bộ quy tắc kiểm tra bằng Spark
 ```
 
-Web **suy luận**, không huấn luyện lại theo từng request. Giá người dùng đang cân nhắc chỉ để đối chiếu, không đưa vào feature dự đoán. Một phần thống kê đọc bằng PyArrow; không phải mọi lần đổi filter đều tạo job Spark.
+Web **suy luận**, không huấn luyện lại theo từng request. Kế hoạch mua nhà là bộ tính kịch bản TypeScript chạy trên trình duyệt, không phải mô hình dự báo tài chính; dữ liệu thu nhập/chi tiêu không gửi lên API. Giá người dùng đang cân nhắc chỉ để đối chiếu, không đưa vào feature dự đoán. Một phần thống kê đọc bằng PyArrow; không phải mọi lần đổi filter đều tạo job Spark.
 
 | Công nghệ | Vai trò |
 |---|---|
@@ -239,18 +239,29 @@ npm.cmd exec -- next start --hostname 0.0.0.0 --port 3000
 
 Thiết bị cùng mạng mở `http://IP-LAN-CUA-MAY-CHAY:3000`; xem IPv4 bằng `ipconfig`. `127.0.0.1` trên máy thứ hai trỏ chính máy thứ hai. Firewall/mạng phải cho phép cổng web trên mạng Private. API vẫn ở loopback qua proxy; LAN không phải publish Internet.
 
-### Demo sáu màn hình
+### Demo năm mục chính và phần phương pháp phụ
 
 | Trang | Thao tác | Giải thích |
 |---|---|---|
 | Tổng quan | Đổi loại/tháng, xem chỉ số, xuất CSV | Tập tin được chọn; CSV web là tổng hợp, khác raw toàn nguồn |
-| Tìm khu vực | Căn hộ 3–4 tỷ, 60–80 m²; áp dụng; chọn 2–3 vùng so sánh | Cùng điều kiện; số tin không là số tài sản duy nhất đang còn bán |
-| Bản đồ giá | Bấm vùng, đổi lớp giá/m²/giá tổng/số tin | Polygon lịch sử; nền online phụ trợ, không có GPS từng căn |
+| Khám phá khu vực | Căn hộ 3–4 tỷ, 60–80 m²; áp dụng; chọn 2–3 vùng so sánh | Cùng điều kiện; số tin không là số tài sản duy nhất đang còn bán |
+| Bản đồ trong Khám phá khu vực | Đổi Bản đồ/Danh sách, bấm vùng, đổi lớp giá/m²/giá tổng/số tin | Một bộ lọc chung; polygon lịch sử và offline vẫn giữ, không có GPS từng căn |
 | Ước tính | Căn hộ 70 m², Thủ Đức, 2 PN/2 WC, giá cân nhắc 4,2 tỷ; chạy/lưu A; đổi 90 m², chạy lại B, so | Giá cân nhắc chỉ đối chiếu; A/B không chứng minh quan hệ nhân quả |
 | Độ chính xác | Chọn điểm/tin, đọc giá nguồn/dự đoán/chênh lệch | Chỉ số toàn test khác mẫu scatter 300 điểm; công bố cả lỗi lớn |
-| Dữ liệu & phương pháp | Xem sáu bước, thử bán/thuê/trả trước | Bộ quy tắc Spark thật; ví dụ không thêm vào train, không xác minh tin thật |
+| Kế hoạch mua nhà | Nhập giá/tiền hiện có/dự phòng/thu nhập/chi tiêu; tính ba mức giá, vốn ban đầu, trả nợ và tăng lãi | Công thức theo giả định tự nhập, không dự báo giá/lợi nhuận hoặc phê duyệt vay |
+| Dữ liệu & phương pháp (liên kết phụ) | Xem pipeline; mở minh họa kỹ thuật rồi thử bán/thuê/trả trước | Bộ quy tắc Spark thật; mặc định thu gọn form kỹ thuật, không mất nội dung môn học |
 
 [Lời dẫn thuyết trình đầy đủ](docs/plans/PLAN_THUYET_TRINH_CUOI_KY.md) · [Spark từng bước](docs/guide/DEMO_QUY_TRINH_SPARK.md) · [Tester](docs/guide/TESTER_CHECKLIST.md).
+
+### Kế hoạch mua nhà: cách dùng và giới hạn
+
+Menu chính có Tổng quan, Khám phá khu vực, Ước tính giá rao bán, Kế hoạch mua nhà, Độ chính xác dự đoán. Không còn mục Bản đồ giá riêng; bản đồ nằm trong Khám phá khu vực với cùng bộ lọc, lớp màu và tối đa ba vùng so sánh. Không nhập ngân sách/diện tích thì xem toàn địa bàn; nút Bỏ giới hạn giữ loại nhà/tháng và vùng đã chọn.
+
+Từ kết quả ước tính chọn **Lập kế hoạch với căn này** để lấy đúng snapshot giá/dải lịch sử. Hoặc mở Kế hoạch mua nhà và nhập ba mức giá. Nhập tiền hiện có, khoản dự phòng, thu nhập/chi tiêu/nợ, chi phí nhà sau mua, vốn tối thiểu, kỳ hạn, lãi và chi phí mua giả định; nhấn **Tính kế hoạch mua nhà**. Draft và kết quả giữ qua điều hướng trong phiên, không giữ sau refresh.
+
+Kết quả tách thời gian mua không vay, đủ vốn ban đầu và đủ vốn kèm dòng tiền tháng đầu không âm. Có bảng ba mức giá, đường tích lũy/mục tiêu, lịch nợ và kiểm tra tăng lãi. Lãi vay 8% và các số mặc định chỉ minh họa, không là báo giá ngân hàng. Chi phí mua 0% nghĩa là chưa tính chi phí đó. Nợ/chi tiêu hiện tại được giữ sau mua; không tự bỏ tiền thuê hoặc kết thúc nợ cũ.
+
+Không lấy R²/MAE để suy ra xác suất mua được nhà. Dải lịch sử không dự báo giá tương lai. Ba mức giá chỉ cho thấy độ nhạy theo giả định; chưa có tư vấn đầu tư/lướt sóng, lịch lãi ưu đãi hoặc thuế/phí tự tính. [Phương pháp và công thức kế hoạch](docs/plans/PLAN_KE_HOACH_MUA_NHA_V1.md).
 
 ## 8. Huấn luyện lại trực tiếp — tùy chọn
 
@@ -314,6 +325,21 @@ Tại root:
 ```
 
 `check_repo` kiểm SHA-256 của 264 artifact demo. `audit_github` rà file Git và một số dấu hiệu token/private key; không phải kiểm toán bảo mật toàn diện.
+
+Kiểm phép tính tài chính không cần API (Node đã kiểm thử ở phiên bản 26):
+
+```powershell
+node scripts/check_home_plan.mjs
+```
+
+Kiểm UI V5 cần API/web đã chạy và Edge + Playwright QA trong `.runtime/qa` theo SETUP:
+
+```powershell
+node scripts/check_product_v5.cjs
+node scripts/check_ui_ux_v4_errors.cjs
+```
+
+Tên script errors giữ để tương thích; nội dung đã cập nhật năm mục chính và phương pháp phụ. `check_web.cjs`/`check_ui_ux_v4.cjs` là alias chạy suite V5, không cần chạy lặp cả ba. Test nền ngoài chỉ kiểm fallback, không chứng nhận tải tile Internet thành công.
 
 | Triệu chứng | Xử lý |
 |---|---|
@@ -388,6 +414,7 @@ Do_An_BigData/                         # Tên folder clone; máy nghiên cứu c
 │   ├── app/                          # Trang gốc, layout, CSS, icon
 │   ├── components/                   # Dashboard, tìm vùng, map, dự đoán, so sánh
 │   ├── lib/                          # Kiểu dữ liệu, request, tiện ích giao diện
+│   │   └── home-plan.ts              # Công thức tích lũy/vay/kịch bản, độc lập Spark
 │   ├── next.config.ts                # Proxy /api về backend
 │   ├── package.json                  # Lệnh build/start/dev và dependencies
 │   ├── package-lock.json             # Khóa dependencies npm
@@ -404,6 +431,8 @@ Do_An_BigData/                         # Tên folder clone; máy nghiên cứu c
 │   ├── bootstrap_geo.py              # Chuẩn bị nguồn địa danh/ranh giới
 │   ├── build_local_fs.ps1            # Build adapter Java Windows
 │   ├── export_source_csv.py          # Xuất CSV toàn nguồn và kiểm số bản ghi
+│   ├── check_home_plan.mjs           # Oracle/invariant cho công thức tài chính
+│   ├── check_product_v5.cjs           # Hành trình UI hợp nhất + kế hoạch mua nhà
 │   ├── check_repo.py                 # Kiểm checksum 264 artifact demo
 │   ├── audit_github.py               # Rà file sẽ đưa lên Git
 │   ├── check_*.py / check_*.cjs       # Kiểm thử API, UI và tình huống lỗi

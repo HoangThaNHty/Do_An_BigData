@@ -1,3 +1,5 @@
+> **Bổ sung V5:** Kiểm Khám phá khu vực thay hai menu cũ; đổi map/list phải giữ criteria/lớp màu/vùng so sánh, thống kê khớp cùng API. Kiểm Kế hoạch mua nhà với vốn 500 triệu và tích lũy 20 triệu/tháng ở giá 2,8/3,5/4,2 tỷ (115/150/185 tháng, 0 lãi/0 phí/giá cố định), dự phòng vượt vốn, thu nhập 0, lịch vay 0%, tăng lãi, sửa chưa áp dụng, giữ draft qua điều hướng, chuyển đúng giá/dải từ kết quả. Phương pháp ở liên kết phụ, minh họa kỹ thuật mặc định đóng; test mobile. Xem PLAN_KE_HOACH_MUA_NHA_V1 và check_product_v5.cjs.
+
 # Tester thủ công và hiểu các chức năng
 
 Mục tiêu: kiểm tra thao tác có tác dụng, số liệu có cùng điều kiện, trạng thái có dễ hiểu và không hứa quá phạm vi dữ liệu. Đánh dấu Đạt/Lỗi/Chưa thử, ghi input và ảnh bằng TEST_RESULT_TEMPLATE.md. Người dùng/nhóm thực hiện thêm kiểm thử thật; không đánh dấu trước rằng các thiết bị của nhóm đều đạt.

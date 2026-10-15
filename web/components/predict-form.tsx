@@ -7,7 +7,7 @@ import PropertyComparison from './property-comparison';
 import PriceScale from './price-scale';
 import {useWorkspace,type EstimateDraft,type Reference} from './workspace-state';
 import {request,type Kind,type Filters,type Estimate,billions,percent,count,decimal} from '@/lib/types';
-export default function PredictForm(){
+export default function PredictForm({onPlan}:{onPlan:()=>void}){
  const {estimateDraft,setEstimateDraft,scenario,setScenario,saved,setSaved,setNotice,estimateBusy:busy,setEstimateBusy:setBusy,estimateError:error,setEstimateError:setError,referenceError:refError,setReferenceError:setRefError}=useWorkspace();
  const {kind,district,area,ward,project,quoted,optional}=estimateDraft;
  const update=(changes:Partial<EstimateDraft>)=>setEstimateDraft(d=>({...d,...changes}));
@@ -42,6 +42,7 @@ export default function PredictForm(){
  </form><div className="result-column"><PropertyComparison/><div className={'estimate-card '+(result?'has-result':'')}><span className="eyebrow">GIÁ THEO DỮ LIỆU 06/2025–03/2026</span><h2>{result?<>{billions(result.estimated_asking_price_vnd)} <span>tỷ VND</span></>:<>Một góc nhìn<br/>từ dữ liệu.</>}</h2>
  {result?<><div className="estimate-range"><span>Dải tham khảo</span><strong>{billions(result.reference_range_vnd[0])} – {billions(result.reference_range_vnd[1])} tỷ</strong></div><p>Dải chứa {percent(result.test_empirical_range_coverage)} giá nguồn trong tập test cùng loại nhà. Không bảo đảm cho từng tài sản.</p><PriceScale estimated={result.estimated_asking_price_vnd} range={result.reference_range_vnd} asking={difference===null?null:asking}/><div className="result-meta"><Check size={15}/> Mô hình đã huấn luyện · {result.elapsed_ms} ms</div></>:<p>Nhập thông tin để xem giá ước tính, đối chiếu giá rao và lưu căn này rồi ước tính căn tiếp theo để so sánh.</p>}</div>
  {result&&difference!==null&&<ExplorePanel title="Đối chiếu giá rao bạn nhập"><div className="price-comparison"><strong>{billions(asking)} tỷ VND</strong><p>{difference>=0?'Cao hơn':'Thấp hơn'} ước tính mô hình <b>{percent(Math.abs(difference))}</b> ({billions(Math.abs(asking-result.estimated_asking_price_vnd))} tỷ).</p><p>{asking<result.reference_range_vnd[0]?'Nằm dưới':asking>result.reference_range_vnd[1]?'Nằm trên':'Nằm trong'} dải tham khảo mô hình.</p></div><p className="caption">Không kết luận tài sản rẻ/đắt hoặc giá hợp lý hiện tại. Mô hình chưa biết đầy đủ pháp lý, chất lượng, vị trí chi tiết và tình trạng.</p></ExplorePanel>}
+ {result&&<Button className="plan-from-estimate" onClick={onPlan}>Lập kế hoạch với căn này</Button>}
  {scenario&&scenario!==saved&&<Button variant="outline" className="save-property-button" onClick={()=>{setSaved(scenario);setNotice('Đã lưu căn để so sánh. Thẻ căn đã lưu hiện ngay cạnh kết quả. Đổi đầu vào rồi ước tính căn tiếp theo.');}}>{saved?'Thay căn đã lưu bằng căn này':'Lưu căn này để so sánh'}</Button>}
  {result?.warnings.map(w=><div className="notice" key={w}><Info size={17}/><p>{w}</p></div>)}<div className="panel small-panel"><h3>Đọc đúng phạm vi</h3><p>Khu vực TP.HCM trước hợp nhất; chưa bao phủ Bình Dương/Bà Rịa–Vũng Tàu cũ. Không tự chuyển phường mới sang phường lịch sử.</p><p>Nhà diện tích lớn, dự án mới hoặc ít mẫu có thể có sai số cao. Không dùng kết quả như chứng thư thẩm định.</p></div></div></div>
  {refError&&<div className="notice"><p>{refError}</p></div>}

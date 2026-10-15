@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "checks": [
+    "five primary pages, no duplicate map navigation",
+    "cash scenarios independent 115/150/185 month oracle; invalid reserve; no income; state survives navigation",
+    "map/list exact data agreement; 22 polygons; metric and 3 selections persist; dialog ESC",
+    "zero filtered data comparison; remove budget preserves selection; online failure retains polygons (live external tiles not tested)",
+    "predict 429 recovery; actual Spark 70/90 sqm inference; A snapshot; plan uses model result/range and preserves financial draft",
+    "auxiliary method link; technical demo collapsed; three real Spark rule cases and model error explorer",
+    "all primary and auxiliary pages at 390x844; no horizontal overflow"
+  ],
+  "errors": [],
+  "external_live_tiles_tested": false
+}

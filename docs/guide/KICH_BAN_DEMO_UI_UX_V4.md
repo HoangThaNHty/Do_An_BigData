@@ -1,3 +1,5 @@
+> **Phiên bản mới V5:** Tham khảo PLAN_THUYET_TRINH_CUOI_KY trong docs/plans. Tìm khu vực và Bản đồ đã gộp thành Khám phá khu vực, thêm kế hoạch mua nhà từ kết quả, phương pháp chuyển liên kết phụ. Các bước V4 bên dưới là lịch sử; không tìm menu map riêng hoặc dùng driver 4 GB như mặc định API hiện tại (2 GB).
+
 # Kịch bản demo UI/UX V4 — 14/10/2026
 
 ## Khởi động trong VS Code

@@ -45,6 +45,7 @@ Thumbs.db
 !/artifacts/verification/product_features_api.json
 !/artifacts/verification/ui-ux-v4/
 !/artifacts/verification/github-clone/
+!/artifacts/verification/product-v5/
 
 # Local submission ZIPs / Office snapshots, not needed to run the web.
 /deliverables/*

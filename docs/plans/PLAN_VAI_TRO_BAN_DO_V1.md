@@ -1,6 +1,8 @@
-# Tìm khu vực và Bản đồ giá — đề xuất gộp, bản trao đổi v2
+> **Đã triển khai V5 — 15/10/2026:** Người dùng đã duyệt. Một mục Khám phá khu vực, mặc định bản đồ/toàn địa bàn, Danh sách/Bản đồ cùng criteria và lựa chọn so sánh, giữ lớp màu/chi tiết/offline. Không còn menu Bản đồ giá riêng. Đọc NGHIEM_THU_SAN_PHAM_V5 trong guide; các dòng chưa triển khai bên dưới là lịch sử đề xuất.
 
-Ngày 15/10/2026. **Chỉ trao đổi, chưa triển khai/xóa trang.** Giữ tên file V1 để không hỏng link; hướng ưu tiên mới là gộp theo đề xuất người dùng, chưa coi là đã duyệt mọi chi tiết UI. Phân tích hai trang riêng ở cuối được giữ làm bối cảnh.
+# Tìm khu vực và Bản đồ giá — V5 đã gộp, kèm lịch sử đề xuất
+
+Ngày 15/10/2026. Hướng gộp đã được duyệt và triển khai. Giữ tên file V1 để không hỏng link; các mục dưới lưu đặc tả và phương án trước triển khai, kết quả thực tế đọc biên bản V5.
 
 ## 1. Khuyến nghị hiện tại: một mục điều hướng, hai cách xem
 

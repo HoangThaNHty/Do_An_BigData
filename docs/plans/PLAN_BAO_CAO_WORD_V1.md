@@ -1,3 +1,5 @@
+> **Cập nhật sản phẩm V5 — 15/10/2026:** Chương 3 mô tả Khám phá khu vực đã gộp map/list và Kế hoạch mua nhà đã triển khai bằng bộ tính TypeScript. Giữ Spark ETL/ML là lõi; phần tài chính cần sơ đồ luồng dữ liệu, công thức tích lũy/annuity/gốc đều, giả định, kiểm thử 0%/dòng tiền âm và ba mức giá. Nguồn giá từ model là lịch sử, không dự báo tương lai. Dữ liệu & phương pháp ở liên kết phụ, minh họa quy tắc mặc định đóng. Chưa tạo lại DOCX/PPT.
+
 # Plan báo cáo Word cuối kỳ — bản chốt cấu trúc v2
 
 Ngày: 15/10/2026. **Đã hoàn thiện cấu trúc ba cấp theo yêu cầu mới; chưa soạn lại Word/PPT, chưa sửa/xóa chức năng web.** Giữ tên file V1 để các link bàn giao vẫn dùng được; nội dung hiện hành là v2.
@@ -132,13 +134,13 @@ Các dòng dưới là outline, không phải những đoạn đã viết xong. 
 **3.6 Sản phẩm web và trực quan hóa**
 
 - 3.6.1 Tổng quan tập tin và bộ lọc.
-- 3.6.2 Tìm khu vực theo nhu cầu và so sánh vùng.
-- 3.6.3 Bản đồ, lớp màu và chi tiết địa bàn.
+- 3.6.2 Khám phá khu vực: Bản đồ/Danh sách, lớp màu, bộ lọc và so sánh vùng.
+- 3.6.3 Kế hoạch mua nhà: tích lũy, vốn ban đầu, dòng tiền và lịch vay theo ba mức giá.
 - 3.6.4 Ước tính giá rao, đối chiếu giá cân nhắc và so sánh hai căn.
 - 3.6.5 Khám phá sai số mô hình.
 - 3.6.6 Dữ liệu/phương pháp và kiểm tra một tin bằng Spark.
 
-Tên/nội dung 3.6.3 khớp chức năng đã nghiệm thu khi viết. Không mô tả hướng nâng cấp bản đồ theo tháng như đã có nếu chưa triển khai; nếu gộp trang thì cập nhật outline tương ứng.
+Mục 3.6.2 mô tả khám phá hợp nhất; 3.6.3 mô tả bộ tính mua nhà, thêm công thức và kiểm thử riêng. Bản đồ so sánh hai tháng vẫn là hướng phát triển chưa triển khai.
 
 **3.7 Kiểm thử và tổ chức demo**
 
@@ -199,6 +201,7 @@ Font TNR cho văn bản, font toán của Word cho ký hiệu cần thiết. Li�
 | S05 | Pipeline ML | Fit tiền xử lý trên train, transform val/test, chọn trên val, khóa test |
 | S06 | Sequence ước tính | Web/proxy → API → pipeline nạp sẵn → giá/dải/cảnh báo; giá cân nhắc không làm feature |
 | S07 | Triển khai local/LAN | Một máy chạy API/Next/Spark JVM, máy nhóm mở browser; cổng/tài nguyên đúng |
+| S08 | Luồng kế hoạch mua nhà | Snapshot giá/dải từ Spark hoặc giá tự nhập → giả định tài chính → tính tích lũy/vốn/vay theo ba mức giá; engine TypeScript, không gửi thu nhập lên Spark |
 | B01 | Số lượng sau các bước | Manifest thật, không ghép mẫu số khác phạm vi |
 | B02 | Phân bố giá/diện tích/vùng/tháng | Có đơn vị/cỡ mẫu, giải thích trục log nếu dùng |
 | B03 | So sánh mô hình | Val/test tách rõ, baseline, đầy đủ chỉ số |
@@ -219,6 +222,7 @@ y: giá rao nguồn đã chuẩn hóa VND; y_hat: dự đoán VND; n: số mẫu
 - Baseline trung vị theo loại nhà/khu vực trên train, nhóm tối thiểu 20 tin; fallback trung vị loại nhà.
 - q=percentile_90(|ln(y)-ln(y_hat)|) trên validation; dải=[y_hat×exp(-q), y_hat×exp(q)]; coverage test là tỉ lệ y nằm trong dải. Không cam kết 90% cho từng căn.
 - Giảm MAE=100×(MAE_baseline-MAE_model)/MAE_baseline.
+- Phần kế hoạch mua nhà V5: công thức tích lũy theo tháng, tăng giá/thu nhập/chi phí giả định, annuity và gốc đều, trường hợp lãi 0; đối chiếu PLAN_KE_HOACH_MUA_NHA_V1 và engine home-plan.ts. Phân biệt đủ vốn ban đầu với dòng tiền tháng đầu không âm; ba mức giá không tạo khoảng thời gian có xác suất bảo đảm.
 
 RF/GBT giải thích ensemble/loss/tham số đúng regression implementation; dẫn nguồn chính thức/học thuật, không dùng công thức classification thay regression. Wilson review chỉ dùng khi giải thích kiểm tra mẫu và hạn chế nhãn AI; không diễn giải 98/100 là chất lượng toàn dataset. Mỗi công thức có ký hiệu/đơn vị/ý nghĩa/nguồn và vị trí áp dụng; nghiệm thu đối chiếu với code, không chỉ xem trình bày.
 

@@ -1,5 +1,5 @@
 export type Kind='house'|'apartment';
-export type Page='overview'|'market'|'map'|'predict'|'models'|'method';
+export type Page='overview'|'market'|'plan'|'predict'|'models'|'method';
 export interface Summary {count:number;median_price_vnd:number|null;median_area_m2:number|null;median_unit_price_vnd:number|null;}
 export interface Overview extends Summary {area_histogram:{label:string;count:number}[];}
 export interface District extends Summary {district_code:string;district_label:string;small_sample:boolean;}

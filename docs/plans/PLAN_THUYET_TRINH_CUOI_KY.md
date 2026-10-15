@@ -1,3 +1,15 @@
+> **Kịch bản đã cập nhật theo sản phẩm V5:** Menu còn năm mục chính. Phần 5.2 và 5.3 là hai cách xem trong Khám phá khu vực, không chuyển sang menu map riêng. Sau 5.4 dùng Lập kế hoạch với căn này và lời dẫn mới dưới đây. Dữ liệu & phương pháp là liên kết phụ; mở Minh họa kỹ thuật trước các ví dụ. Phần dưới giữ bố cục nghiên cứu để không mất nội dung Spark.
+
+### Lời dẫn bổ sung: Kế hoạch mua nhà (1–2 phút)
+
+Sau dự đoán, bấm **Lập kế hoạch với căn này**. Chỉ vào giá/dải đã lấy từ kết quả vừa tính; nhập tiền hiện có, dự phòng, thu nhập và chi tiêu, giả định vay rồi bấm tính.
+
+> Từ giá tham chiếu, nhóm bổ sung bộ tính để người dùng thấy tác động của ngân sách và mức giá tới thời gian tích lũy. Đây là công thức theo giả định, không huấn luyện thêm model và không dự báo giá tương lai. Kết quả tách đủ tiền mua không vay, đủ vốn ban đầu và mốc có vốn kèm dòng tiền tháng đầu không âm. Có thể đủ vốn nhưng khoản trả nợ vẫn vượt phần thu nhập còn lại.
+
+Chỉ bảng ba mức giá, biểu đồ tích lũy và dòng kiểm tra tăng lãi. Nêu rõ lãi/chi phí mặc định là minh họa, không báo giá ngân hàng; 0 phí là chưa tính phí. Nếu đủ thời gian đổi lãi và tính lại để thấy dòng tiền thay đổi. Ví dụ độc lập: vốn khả dụng 500 triệu, 20 triệu/tháng, giá không đổi/0 lãi/0 phí → 2,8/3,5/4,2 tỷ cần 115/150/185 tháng. Không biến dải lịch sử thành xác suất thời gian mua.
+
+Bản 10–12 phút rút bớt phần đọc map/scatter chi tiết để dành một phút cho chức năng này, không kéo dài ngầm hoặc bỏ phần giới hạn.
+
 # Kế hoạch và lời dẫn thuyết trình cuối kỳ — toàn bộ project
 
 Ngày 15/10/2026. Tài liệu diễn tập cho cả hai thành viên; không phải slide đã tạo hoặc xác nhận nhóm đã trình bày thành công. Mã nguồn thực: `D:\slider\real-estate-bigdata`; có bản sao tài liệu trong `D:\slider\FolderDoAnBigData`.
@@ -206,7 +218,7 @@ Mở http://127.0.0.1:3000. Nếu API chưa ready, tiếp tục giải thích b�
 
 **Chứng minh:** filter phản ánh vào số liệu, không chỉ một ảnh dashboard cố định.
 
-### 5.2 Tìm khu vực và so sánh — 1–1,5 phút
+### 5.2 Khám phá khu vực và so sánh — 1–1,5 phút
 
 **Làm:** chọn căn hộ; ngân sách 3–4 tỷ; diện tích 60–80 m² → áp dụng tìm kiếm; chọn Tân Phú, Quận 7 và Thủ Đức nếu có trong kết quả → mở so sánh. Nếu tên/điều kiện không cho ba vùng đó thì chọn các vùng thực có; không sửa dữ liệu để có kết quả mong muốn.
 
@@ -218,7 +230,7 @@ Mở http://127.0.0.1:3000. Nếu API chưa ready, tiếp tục giải thích b�
 
 ### 5.3 Bản đồ — 40–60 giây
 
-**Làm:** chuyển sang Bản đồ giá; bấm một vùng; đổi lớp giá/m² sang số tin; quan sát vùng so sánh được giữ.
+**Làm:** trong Khám phá khu vực chọn cách xem Bản đồ; bấm một vùng; đổi lớp giá/m² sang số tin; quan sát vùng so sánh được giữ.
 
 **Nói:**
 
@@ -250,7 +262,7 @@ Mở http://127.0.0.1:3000. Nếu API chưa ready, tiếp tục giải thích b�
 
 ### 5.6 Dữ liệu/phương pháp và thử tin bằng Spark — 1–1,5 phút
 
-**Làm:** mở quy trình sáu bước; chọn lần lượt ví dụ bán rõ, thuê, trả trước; với mỗi ví dụ bấm phân tích rồi đọc kết quả trước khi chuyển ví dụ khác. Nếu thiếu thời gian, chạy bán và một ví dụ không phù hợp.
+**Làm:** mở Dữ liệu & phương pháp qua liên kết phụ, xem quy trình sáu bước và mở Minh họa kỹ thuật; chọn lần lượt ví dụ bán rõ, thuê, trả trước; với mỗi ví dụ bấm phân tích rồi đọc kết quả trước khi chuyển ví dụ khác. Nếu thiếu thời gian, chạy bán và một ví dụ không phù hợp.
 
 **Nói:**
 

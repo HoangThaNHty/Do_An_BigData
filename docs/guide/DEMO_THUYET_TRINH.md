@@ -1,3 +1,5 @@
+> **Cập nhật V5:** Tìm khu vực và Bản đồ đã gộp thành Khám phá khu vực. Sau demo ước tính thêm Lập kế hoạch với căn này → giả định dòng tiền → ba mức giá/vốn/vay; đây là bộ tính công thức, không phải dự báo mới. Dữ liệu & phương pháp là liên kết phụ, minh họa kiểm tra tin cần mở details. Ưu tiên lời dẫn đầy đủ đã cập nhật trong PLAN_THUYET_TRINH_CUOI_KY.
+
 # Kế hoạch mô phỏng và lời dẫn thuyết trình demo
 
 **Bản đầy đủ mới 15/10/2026:** đọc [PLAN_THUYET_TRINH_CUOI_KY.md](../plans/PLAN_THUYET_TRINH_CUOI_KY.md) để có lời nói mẫu từ bài toán/dữ liệu/Spark/ML đến sáu màn hình, phân vai, bảng công nghệ, phản biện và phiếu nhớ. Nội dung dưới đây là bản rút gọn 8–10 phút tập trung sản phẩm; không thay thế kịch bản đầy đủ.
@@ -16,8 +18,8 @@ Thời lượng gợi ý **8–10 phút**. Đây là kịch bản rehearsal, kh�
 | Phút | Màn hình / thao tác | Lời dẫn gợi ý / điều muốn chứng minh |
 |---|---|---|
 |0–1| Tổng quan, kỳ dữ liệu |“Đồ án phân tích tin rao và ước tính giá rao bán. Dữ liệu 06/2025–03/2026, địa bàn TP.HCM trước hợp nhất; chưa phải giá giao dịch hoặc giá hiện tại.”|
-|1–2,5| Tìm khu vực 3–4 tỷ, 60–80 m²; chọn Tân Phú, Quận 7, Thủ Đức→so sánh |“Người dùng bắt đầu từ ngân sách và diện tích. Chúng em trả các khu vực có dữ liệu phù hợp và đối chiếu theo cùng điều kiện, không chỉ show dashboard.”|
-|2,5–3,5| Bản đồ: giá/m²→số tin; bấm vùng |“Bản đồ giúp đọc khác biệt không gian. Lớp màu theo phân vị, viền vàng là vùng so sánh; polygon lịch sử, không có GPS từng căn.”|
+|1–2,5| Khám phá khu vực 3–4 tỷ, 60–80 m²; chọn Tân Phú, Quận 7, Thủ Đức→so sánh |“Người dùng bắt đầu từ ngân sách và diện tích. Chúng em trả các khu vực có dữ liệu phù hợp và đối chiếu theo cùng điều kiện, không chỉ show dashboard.”|
+|2,5–3,5| Trong Khám phá khu vực: bản đồ giá/m²→số tin; bấm vùng |“Bản đồ giúp đọc khác biệt không gian. Lớp màu theo phân vị, viền vàng là vùng so sánh; polygon lịch sử, không có GPS từng căn.”|
 |3,5–5,5| Ước tính 70 m²; nhập 4,2 tỷ; lưu; sửa 90 m²; chạy; so sánh |“Model đã học trước. Người mua đối chiếu giá rao, người bán tham khảo giá đăng. Giá nhập chỉ đối chiếu, không đưa vào model. Căn đã lưu giữ nguyên, ước tính căn tiếp theo có kết quả riêng.”|
 |5,5–6,5| Độ chính xác: bấm/chọn một tin; giải thích MAE |“Mô hình có sai số. Mẫu test này cho thấy giá nguồn, giá dự đoán và chênh lệch. Chọn model bằng validation trước test; không sửa test để tăng thành tích.”|
 |6,5–8| Pipeline; phân tích mẫu bán/thuê/trả trước |“Spark không chỉ dùng để đặt tên công nghệ. Bộ quy tắc thật tách giao dịch, kiểm tra giá tổng, diện tích và phạm vi; tránh trộn giá thuê tháng/trả trước vào giá bán.”|

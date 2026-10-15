@@ -1,3 +1,5 @@
+> **Điều hướng V5:** Sau khi vào web, dùng Khám phá khu vực (Bản đồ/Danh sách chung); không tìm menu Bản đồ giá riêng. Sau ước tính chọn Lập kế hoạch với căn này, nhập dòng tiền và tính các mốc/ba mức giá. Bộ tính tài chính không phải model ML, không train lại. Mở Dữ liệu & phương pháp qua liên kết phụ, mở Minh họa kỹ thuật trước khi chạy ví dụ tin Spark. Các bước Terminal 0/1/2 không đổi.
+
 # Demo từ dữ liệu nguồn đến web — hướng dẫn hai thành viên
 
 Ngày 15/10/2026. **Chưa commit/push GitHub** theo yêu cầu mới; chỉ push khi cả hai thực hiện được quy trình. Phần demo nghiên cứu cần raw/ETL/cohort đầy đủ ở máy nghiên cứu, không chỉ clone demo gọn.

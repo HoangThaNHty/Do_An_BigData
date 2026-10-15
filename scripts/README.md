@@ -9,7 +9,8 @@
 | Regression health khi Spark dừng | .venv/Scripts/python.exe -m scripts.check_health |
 | Rà file đưa vào Git | python scripts/audit_github.py |
 | API đối chiếu dữ liệu/model | check_api.py, check_product_features.py |
-| UI cơ bản / hành trình / lỗi | check_web.cjs, check_ui_ux_v4.cjs, check_ui_ux_v4_errors.cjs |
+| UI V5 / lỗi và độ tương phản | check_product_v5.cjs, check_ui_ux_v4_errors.cjs; check_web/check_ui_ux_v4 là alias, không chạy lặp |
+| Công thức tài chính độc lập | node scripts/check_home_plan.mjs |
 | Tải JDK/nguồn pinned/địa giới | bootstrap_data.py, bootstrap_geo.py |
 | Java adapter Windows | build_local_fs.ps1 (setup tự gọi) |
 | Phân tích model / khóa dependencies | model_diagnostics.py, lock_python.py |

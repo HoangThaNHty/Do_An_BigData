@@ -1,3 +1,5 @@
+> **QA V5:** check_product_v5.cjs là suite hiện hành cho khám phá hợp nhất, kế hoạch tài chính và phương pháp phụ. Các entry check_web/check_ui_ux_v4 chuyển tiếp tới suite này; không cần chạy lặp. Tải tile Internet thật không thuộc suite V5, chỉ có kiểm tra fallback.
+
 # Clone, cài và chạy trên Windows / VS Code
 
 ## Chuẩn bị
@@ -59,8 +61,8 @@ Cả web/API cần đang chạy; chạy lần lượt để Spark không bị g�
 .venv/Scripts/python.exe scripts/check_api.py
 .venv/Scripts/python.exe scripts/check_product_features.py
 npm install --prefix .runtime/qa playwright
-node scripts/check_web.cjs
-node scripts/check_ui_ux_v4.cjs
+node scripts/check_home_plan.mjs
+node scripts/check_product_v5.cjs
 node scripts/check_ui_ux_v4_errors.cjs
 ```
 

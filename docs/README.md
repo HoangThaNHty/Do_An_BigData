@@ -1,5 +1,7 @@
 # Đọc tài liệu theo mục đích
 
+- **Sản phẩm V5 đã triển khai:** [kế hoạch và công thức mua nhà](plans/PLAN_KE_HOACH_MUA_NHA_V1.md), [biên bản nghiệm thu](guide/NGHIEM_THU_SAN_PHAM_V5.md).
+
 - **Kịch bản thuyết trình toàn đồ án, lời dẫn và phản biện:** [plans/PLAN_THUYET_TRINH_CUOI_KY.md](plans/PLAN_THUYET_TRINH_CUOI_KY.md).
 
 - **Demo từng bước Spark → mô hình → web, ba terminal và HDFS:** [guide/DEMO_QUY_TRINH_SPARK.md](guide/DEMO_QUY_TRINH_SPARK.md).
