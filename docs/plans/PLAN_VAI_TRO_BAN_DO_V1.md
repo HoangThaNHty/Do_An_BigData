@@ -1,6 +1,66 @@
-# Phân biệt Tìm khu vực và Bản đồ giá — đề xuất v1
+# Tìm khu vực và Bản đồ giá — đề xuất gộp, bản trao đổi v2
 
-Ngày 15/10/2026. **Chỉ trao đổi, chưa triển khai/xóa trang.**
+Ngày 15/10/2026. **Chỉ trao đổi, chưa triển khai/xóa trang.** Giữ tên file V1 để không hỏng link; hướng ưu tiên mới là gộp theo đề xuất người dùng, chưa coi là đã duyệt mọi chi tiết UI. Phân tích hai trang riêng ở cuối được giữ làm bối cảnh.
+
+## 1. Khuyến nghị hiện tại: một mục điều hướng, hai cách xem
+
+Tên đề xuất: **Khám phá khu vực**. Trong một không gian làm việc có **Bản đồ / Danh sách**, dùng cùng loại nhà, tháng, điều kiện ngân sách/diện tích, vùng đang xem và lựa chọn so sánh. Không đưa hai trang cũ vào hai tab nhưng để mỗi tab tự giữ bộ lọc/API khác nghĩa.
+
+Hai câu hỏi cùng được giữ:
+
+- Không giới hạn ngân sách/diện tích: xem giá rao và mức độ có dữ liệu trên toàn địa bàn nghiên cứu.
+- Có nhu cầu cụ thể: lọc các tin phù hợp, xem những khu vực có dữ liệu và đối chiếu trước khi sang ước tính.
+
+Không cần hai bộ lọc hoặc thêm một hệ thống dữ liệu. Nút **Bỏ giới hạn ngân sách và diện tích** giữ nguyên loại nhà/tháng để người dùng biết chính xác phạm vi sau thao tác. Chuyển Bản đồ/Danh sách không tự reset hoặc đổi điều kiện.
+
+## 2. Bố cục đề xuất
+
+1. Đầu trang: mô tả ngắn phạm vi và một thanh lọc loại nhà/tháng, ngân sách/diện tích tùy chọn; hiển thị điều kiện đã áp dụng.
+2. Chuyển cách xem: Bản đồ / Danh sách. Khi sửa form nhưng chưa áp dụng, thể hiện rõ dữ liệu vẫn thuộc điều kiện cũ.
+3. Bản đồ: giữ định hướng UI B xanh than, bản đồ là trọng tâm; thanh lớp màu giá/m², tổng giá, số tin; legend có đơn vị. Desktop có khung kết quả/chi tiết vùng bên cạnh, mobile mở khung chi tiết gọn thay vì ép hai cột.
+4. Danh sách: các vùng cùng kết quả với map, có chỉ số/cỡ mẫu, Định vị, So sánh, Ước tính ở đây. Nút Định vị mở cách xem Bản đồ và focus vùng, không chuyển sang một mục menu khác.
+5. Một thanh chọn so sánh chung, tối đa ba vùng, mở cùng một bảng/modal so sánh.
+
+Có thể mặc định mở Bản đồ để giữ định hướng thiết kế đã chọn; vị trí và chiều rộng panel cần kiểm thử trên viewport thật trước khi chốt. Không tạo một bản đồ nhỏ trùng cạnh một bản đồ lớn trong cùng cách xem.
+
+## 3. Các chức năng phải giữ
+
+| Từ tìm khu vực | Từ bản đồ |
+|---|---|
+| Lọc ngân sách/diện tích, áp dụng rõ ràng | Xem toàn địa bàn khi không giới hạn nhu cầu |
+| Số tin phù hợp, danh sách các vùng | Polygon lịch sử, zoom/pan, focus vùng |
+| Giá/diện tích và cỡ mẫu theo điều kiện | Lớp giá/m², tổng giá, số tin và legend |
+| Chọn 2–3 vùng để đối chiếu | Chi tiết vùng, nền online/offline |
+| Chuyển sang form ước tính có ngữ cảnh | Liên kết vùng/so sánh/ước tính nhất quán |
+
+Đổi lớp màu chỉ đổi cách thể hiện, không đổi dataset hoặc âm thầm bỏ bộ lọc. Chọn vùng trên bản đồ là focus để xem chi tiết, không tự thay ngân sách hoặc loại hết các vùng khác khỏi danh sách.
+
+Map giữ geometry toàn địa bàn; vùng có 0 tin theo điều kiện dùng màu/nhãn **Không có tin phù hợp**, không gán trung vị giá bằng 0. Ít mẫu cần cảnh báo; nếu vùng đã chọn so sánh không còn tin sau đổi filter thì giữ lựa chọn với trạng thái thiếu dữ liệu và cho bỏ, không hiển thị số cũ hoặc tự biến mất không giải thích.
+
+## 4. Lý do chọn gộp và phạm vi thực hiện nếu được chốt
+
+Hiện `MarketFinder` đã có cách xem map/list, còn `MapWorkspace` có lớp màu và panel chi tiết. Chúng chia sẻ một phần state nhưng gọi các luồng dữ liệu riêng. Hướng hợp lý là hợp nhất ý nghĩa bộ lọc/kết quả, tái sử dụng map/selection/comparison, rồi bỏ mục menu trùng; không chỉ ẩn menu và để nút gọi trang cũ bị mất.
+
+Nếu triển khai: rà request/search/map theo cùng criteria → thống nhất state → một điểm điều hướng → tích hợp lớp màu/chi tiết vào cách xem map → sửa Định vị/liên kết quay lại/ước tính → nghiệm thu desktop/mobile. Model, ETL, train/test và phạm vi dữ liệu không đổi.
+
+Chưa cần thêm so sánh hai tháng/biểu đồ mới ở vòng gộp đầu. Đó là nâng cấp sau, không phải điều kiện để giữ đầy đủ hai chức năng hiện có. Leaflet/polygon hiện tại đủ; Google Maps không giải quyết vấn đề hai luồng đang trùng nhau.
+
+## 5. Tiêu chí nghiệm thu sau khi triển khai
+
+- Cùng bộ lọc phải cho cùng số tin/tập vùng/thống kê ở Danh sách, Bản đồ, panel và so sánh.
+- Chuyển cách xem không mất draft/applied criteria, focused region hoặc lựa chọn so sánh; request trả chậm không ghi đè kết quả mới.
+- Kiểm tra tất cả lớp màu, đơn vị/legend, vùng 0/ít tin, trạng thái đang tải/lỗi/retry và nền offline.
+- Nút Định vị, thêm/bỏ so sánh, giới hạn ba vùng, Ước tính ở đây và quay lại phải hoạt động.
+- Mobile, bàn phím/focus và đóng panel/modal có đường thao tác rõ.
+- Sau nghiệm thu mới cập nhật README, kịch bản demo, plan Word, ảnh và test selector theo một mục khám phá; chưa nói sản phẩm đã gộp khi code chưa đổi.
+
+## 6. Còn cần thống nhất khi trao đổi
+
+Tên menu đề xuất là Khám phá khu vực; mặc định map hay list và bố trí panel sẽ chốt trước thiết kế/triển khai. Tinh thần đề xuất: **một trang, một bộ điều kiện, hai cách xem và một luồng so sánh**, giữ khả năng xem toàn địa bàn lẫn tìm theo nhu cầu.
+
+---
+
+## Phương án hai trang riêng đã trao đổi trước đó — không còn là ưu tiên
 
 Vấn đề: UI V4 đã có bản đồ trong Tìm khu vực. Trang bản đồ riêng nếu chỉ lặp chọn vùng/trung vị/thêm so sánh sẽ trùng nhiệm vụ.
 

@@ -350,22 +350,111 @@ Tin 06/2025–03/2026 gồm trước/sau sáp nhập, phân tích theo **TP.HCM 
 
 ## 12. Cấu trúc repo và tài liệu
 
+Đây là cây rút gọn theo vai trò, không liệt kê từng part/stage của Spark. **`[local]` là dữ liệu hoặc môi trường không có trong bản clone GitHub**, được tạo/tải ở máy nghiên cứu hoặc khi setup.
+
 ```text
-src/                      API, ETL, model, cấu hình, Java adapter
-web/                      Next.js/React, proxy, giao diện
-scripts/                  Setup, run, demo, QA, tải nguồn, xuất CSV
-artifacts/models/v1/      Pipeline thật, selection/results, test predictions
-artifacts/market/         Serving Parquet và catalog/thống kê
-artifacts/geography/      Polygon địa bàn nghiên cứu
-artifacts/etl/            Summary, không phải ETL Parquet đầy đủ
-artifacts/verification/   Bằng chứng kiểm thử đã lưu
-data/                     Manifest/metadata; raw/cohort đầy đủ ở máy nghiên cứu
-docs/guide/               Setup, tester, demo, GitHub, bàn giao
-docs/plans/               Word, thuyết trình, hướng sản phẩm
-docs/research/            Phương pháp, dữ liệu, kết quả
-docs/history/             Mốc cũ để truy vết, không là hướng dẫn hiện hành
-archive/                  Crawler/audit cũ, không tham gia runtime
+Do_An_BigData/                         # Tên folder clone; máy nghiên cứu có thể dùng tên khác
+├── README.md                         # Hướng dẫn chính: setup, Terminal 0 → 1 → 2
+├── LICENSE                           # MIT cho mã nguồn; dữ liệu có giấy phép riêng
+├── THIRD_PARTY_NOTICES.md             # Nguồn dữ liệu, giấy phép, ghi công
+├── HUONG_DAN_CHAY.md                  # Điểm vào hướng dẫn chạy chi tiết
+├── .gitignore                        # Loại raw lớn, môi trường, cache và file local
+├── .gitattributes                    # Quy ước file/line ending
+├── .vscode/                          # Tasks và settings cho VS Code
+├── requirements*.txt                 # Dependency Python và lockfile
+│
+├── src/                              # Backend và quy trình nghiên cứu
+│   ├── api/
+│   │   ├── serve.py                  # Entry chạy API một worker ở Terminal 1
+│   │   ├── main.py                   # FastAPI, lifecycle Spark, endpoint
+│   │   ├── explore.py                # Tra cứu/phân tích phục vụ sản phẩm
+│   │   └── tiles.py                  # Relay/cache tạm cho nền bản đồ online
+│   ├── config/spark.py               # Spark session, mặc định local[4]
+│   ├── etl/
+│   │   ├── build.py                  # Chạy ETL ra phiên bản output mới
+│   │   ├── rules.py                  # Quy tắc giao dịch và chuẩn hóa
+│   │   ├── quality.py                # Kiểm tra chất lượng/đối chiếu trường
+│   │   ├── core.py                   # Review, proxy đăng lại, cohort/split
+│   │   ├── geography.py              # Địa danh và ranh giới tham chiếu
+│   │   └── serving.py                # Xuất lớp dữ liệu gọn cho API/web
+│   ├── models/
+│   │   ├── features.py               # Tiền xử lý/feature fit trên train
+│   │   ├── train.py                  # So sánh mô hình, chọn val, đánh giá test
+│   │   ├── inference.py              # Nạp pipeline và ước tính
+│   │   └── predict.py                # Suy luận qua dòng lệnh
+│   └── java/ProjectLocalFileSystem.java # Adapter filesystem Windows
+│
+├── web/                              # Frontend Next.js
+│   ├── app/                          # Trang gốc, layout, CSS, icon
+│   ├── components/                   # Dashboard, tìm vùng, map, dự đoán, so sánh
+│   ├── lib/                          # Kiểu dữ liệu, request, tiện ích giao diện
+│   ├── next.config.ts                # Proxy /api về backend
+│   ├── package.json                  # Lệnh build/start/dev và dependencies
+│   ├── package-lock.json             # Khóa dependencies npm
+│   ├── .env.example                  # Cấu hình mẫu, không chứa credentials
+│   ├── node_modules/                 # [local] Dependency npm sau setup
+│   └── .next/                        # [local] Build frontend
+│
+├── scripts/
+│   ├── setup.ps1                     # Cài lần đầu, JDK/adapter/dependency/build
+│   ├── run.ps1                       # Chạy module Python cùng cấu hình Java/Spark
+│   ├── start-local.ps1               # Launcher gộp API + web
+│   ├── demo_spark.py                 # Terminal 0, đọc/đếm và các điểm dừng demo
+│   ├── bootstrap_data.py             # Tải raw pinned/JDK
+│   ├── bootstrap_geo.py              # Chuẩn bị nguồn địa danh/ranh giới
+│   ├── build_local_fs.ps1            # Build adapter Java Windows
+│   ├── export_source_csv.py          # Xuất CSV toàn nguồn và kiểm số bản ghi
+│   ├── check_repo.py                 # Kiểm checksum 264 artifact demo
+│   ├── audit_github.py               # Rà file sẽ đưa lên Git
+│   ├── check_*.py / check_*.cjs       # Kiểm thử API, UI và tình huống lỗi
+│   ├── package_handoff.py            # Đóng gói bàn giao local
+│   └── README.md                     # Danh mục script còn lại
+│
+├── data/
+│   ├── README.md                     # Phân biệt demo và tái hiện nghiên cứu
+│   ├── demo_manifest.json            # Danh sách/hash runtime artifacts
+│   ├── raw/
+│   │   ├── oceanng/
+│   │   │   ├── manifest.json         # Revision/hash nguồn đã cố định
+│   │   │   ├── DATASET_CARD.md        # Mô tả và giấy phép nguồn
+│   │   │   ├── shard_*.parquet        # [local] 10 shard, 3.500.744 dòng
+│   │   │   └── vietnam_real_estates_full.csv # [local] CSV toàn nguồn, khoảng 3,27 GB
+│   │   └── geography/                # Nguồn admin/ranh giới và giấy phép trong Git
+│   └── processed/
+│       ├── etl_v4/                   # [local] ETL đầy đủ, gồm listings/
+│       └── core_v1/
+│           ├── manifest.json         # Metadata cohort trong Git
+│           ├── excluded_review_ids.json # ID băm loại khỏi nghiên cứu, trong Git
+│           └── listings/             # [local] Cohort đầy đủ 133.779 tin để train
+│
+├── artifacts/
+│   ├── models/v1/                    # Pipeline và kết quả thật, đi cùng Git
+│   │   ├── house_lr/                 # Model nhà được chọn; metadata/stages/part-*
+│   │   ├── apartment_lr/             # Model căn hộ được chọn
+│   │   ├── ...                       # Các pipeline so sánh khác
+│   │   ├── selection.json            # Chọn theo validation
+│   │   ├── results.json              # Validation/test/coverage
+│   │   └── test_predictions_*/       # Dự đoán test để đánh giá/kiểm chứng
+│   ├── market/                       # Catalog/thống kê gọn và serving/*.parquet
+│   ├── geography/                    # Polygon 22 nhóm địa bàn nghiên cứu
+│   ├── etl/                          # Summary trong Git; không phải ETL đầy đủ
+│   ├── figures/                      # Biểu đồ thực nghiệm
+│   ├── verification/                 # Bằng chứng kiểm thử được chọn để chia sẻ
+│   └── review/                       # [local] Review có nội dung tin/provenance
+│
+├── docs/
+│   ├── README.md                     # Danh mục tài liệu
+│   ├── guide/                        # Setup, tester, Spark demo, GitHub, bàn giao
+│   ├── plans/                        # Plan Word, thuyết trình và hướng sản phẩm
+│   ├── research/                     # Phương pháp, dữ liệu, kết quả mô hình
+│   └── history/                      # Các mốc cũ, không phải hướng dẫn hiện hành
+├── archive/                          # Crawler/audit cũ, không tham gia runtime
+├── deliverables/                     # README trong Git; Word/PPT/ZIP chỉ [local]
+├── .venv/                            # [local] Python environment sau setup
+└── .runtime/                         # [local] JDK, Java adapter, temp và biên nhận
 ```
+
+Đọc code theo luồng: `src/etl` → `src/models` → `src/api` → `web`. Để chạy máy mới, bắt đầu từ `scripts/setup.ps1`; để hiểu demo, đọc `scripts/demo_spark.py` và tài liệu hướng dẫn. Bản clone có model/serving nhưng không có các mục `[local]` cho tới khi chúng được chuẩn bị riêng.
 
 Không xóa `stages`, `metadata`, `_SUCCESS`, `part-*` như rác: đó là cấu trúc model Spark. Môi trường, cache, `.next`, raw/CSV lớn, review và Office/ZIP local được ignore Git.
 
