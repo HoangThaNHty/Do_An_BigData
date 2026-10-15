@@ -1,0 +1,210 @@
+{
+  "house": {
+    "largest_errors": [
+      {
+        "row_id": "efacc649553b2cc8a188608d64e42c94c19966d11ee45768885df5031c5081bb",
+        "property_type_name": "nhà",
+        "district_code": "765",
+        "area": 948.0,
+        "price": 800000000000.0,
+        "predicted_price_vnd": 83395725180.93597,
+        "absolute_error_vnd": 716604274819.064
+      },
+      {
+        "row_id": "c231a837c1445607ddb2b8f7234edbfbbf3082854f2d0495bb1bc575808b98e9",
+        "property_type_name": "nhà",
+        "district_code": "760",
+        "area": 915.0,
+        "price": 850000000000.0,
+        "predicted_price_vnd": 152343545329.90097,
+        "absolute_error_vnd": 697656454670.099
+      },
+      {
+        "row_id": "3e63e75179b389013a39abbbd2ef739a3280689007a3caabb4840941ce93491b",
+        "property_type_name": "nhà",
+        "district_code": "768",
+        "area": 330.0,
+        "price": 450000000000.0,
+        "predicted_price_vnd": 41840593723.76555,
+        "absolute_error_vnd": 408159406276.23444
+      },
+      {
+        "row_id": "3fc722db797a05f8e1654764b096f676a58178b0c86275ad3159dfce17b7f343",
+        "property_type_name": "nhà",
+        "district_code": "770",
+        "area": 183.0,
+        "price": 300000000000.0,
+        "predicted_price_vnd": 39042962426.49421,
+        "absolute_error_vnd": 260957037573.5058
+      },
+      {
+        "row_id": "67d0052ffb04716797bec953c238281438569efea6704658d8e7846f8ee0a917",
+        "property_type_name": "nhà",
+        "district_code": "770",
+        "area": 367.0,
+        "price": 320000000000.0,
+        "predicted_price_vnd": 64091204313.773636,
+        "absolute_error_vnd": 255908795686.22638
+      },
+      {
+        "row_id": "572c3daa1e2edd9719241ac91c41709b02cfef89843cd9eaab40d0b6a4fd5a64",
+        "property_type_name": "nhà",
+        "district_code": "760",
+        "area": 432.0,
+        "price": 295000000000.0,
+        "predicted_price_vnd": 89263084326.3121,
+        "absolute_error_vnd": 205736915673.6879
+      },
+      {
+        "row_id": "567e76984fe913a879b013eea469426d29e3cb4c86e691cc8c5c7663f209e8fe",
+        "property_type_name": "nhà",
+        "district_code": "770",
+        "area": 815.0,
+        "price": 310000000000.0,
+        "predicted_price_vnd": 111934962214.66464,
+        "absolute_error_vnd": 198065037785.33536
+      },
+      {
+        "row_id": "56337cf3a522a85f225300de18439b32b74b31ea546eb926420e978a816b1ce6",
+        "property_type_name": "nhà",
+        "district_code": "778",
+        "area": 431.0,
+        "price": 230000000000.0,
+        "predicted_price_vnd": 48137765982.68039,
+        "absolute_error_vnd": 181862234017.3196
+      },
+      {
+        "row_id": "51c860d588a66b19ada882c1ff9eb3fd0223236d59fa42da9597bb7508b1eaf4",
+        "property_type_name": "nhà",
+        "district_code": "773",
+        "area": 216.0,
+        "price": 120000000000.0,
+        "predicted_price_vnd": 20784929746.299423,
+        "absolute_error_vnd": 99215070253.70058
+      },
+      {
+        "row_id": "ad2406af01aeaab85bfa9172c62655a986a57c23b8ed6521a3816ced2ef7b798",
+        "property_type_name": "nhà",
+        "district_code": "773",
+        "area": 207.0,
+        "price": 100000000000.0,
+        "predicted_price_vnd": 25115087876.86515,
+        "absolute_error_vnd": 74884912123.13486
+      }
+    ],
+    "test_price_quantiles_vnd": [
+      650000000.0,
+      7700000000.0,
+      15500000000.0,
+      54880000000.00011,
+      302960000000.00275,
+      850000000000.0
+    ],
+    "squared_error_fraction_top10": 0.9220466782398927,
+    "selection_unchanged": true
+  },
+  "apartment": {
+    "largest_errors": [
+      {
+        "row_id": "d218e3f3c092c74316d9d165ec753ce8c2b0772dfb19a8d33f934d5592e09329",
+        "property_type_name": "căn hộ chung cư",
+        "district_code": "769",
+        "area": 407.0,
+        "price": 360000000000.0,
+        "predicted_price_vnd": 83821231408.06976,
+        "absolute_error_vnd": 276178768591.93024
+      },
+      {
+        "row_id": "cb2e2de4dfcab5792c11bfa346c2bfea21cfa42dec1e63efde440cb3de517ff2",
+        "property_type_name": "căn hộ chung cư",
+        "district_code": "769",
+        "area": 407.0,
+        "price": 360000000000.0,
+        "predicted_price_vnd": 84951604333.94933,
+        "absolute_error_vnd": 275048395666.05066
+      },
+      {
+        "row_id": "5fb5c21e0509982890cf0c689e082ae537d360554762af655523287117e5e6b5",
+        "property_type_name": "căn hộ chung cư",
+        "district_code": "769",
+        "area": 376.0,
+        "price": 230000000000.0,
+        "predicted_price_vnd": 73665500103.64502,
+        "absolute_error_vnd": 156334499896.35498
+      },
+      {
+        "row_id": "2b2e088db80b7658abc47d0258693fdeaa18180a98764e71fe45c24124c0f7e5",
+        "property_type_name": "căn hộ chung cư",
+        "district_code": "769",
+        "area": 376.0,
+        "price": 230000000000.0,
+        "predicted_price_vnd": 73665500103.64502,
+        "absolute_error_vnd": 156334499896.35498
+      },
+      {
+        "row_id": "20e815e3849fcae14b2e95b7605dcbad4a8acfbce99f0cb3746abe27fe945420",
+        "property_type_name": "căn hộ chung cư",
+        "district_code": "769",
+        "area": 407.0,
+        "price": 230000000000.0,
+        "predicted_price_vnd": 83821231408.06976,
+        "absolute_error_vnd": 146178768591.93024
+      },
+      {
+        "row_id": "c507af4fa84c00fd3b76b5c3f8be34f4a1af880519f5e66d77907418497b2eb3",
+        "property_type_name": "căn hộ chung cư",
+        "district_code": "769",
+        "area": 570.0,
+        "price": 200000000000.0,
+        "predicted_price_vnd": 59305424388.43364,
+        "absolute_error_vnd": 140694575611.56635
+      },
+      {
+        "row_id": "691f01b54be1a7d3298f60d59557b204b40817d1325dcef610ff5aa4305e5f1f",
+        "property_type_name": "căn hộ chung cư",
+        "district_code": "769",
+        "area": 360.0,
+        "price": 180000000000.0,
+        "predicted_price_vnd": 52857950397.20323,
+        "absolute_error_vnd": 127142049602.79677
+      },
+      {
+        "row_id": "55552db9a5a7e7e2beb148d7c2b3fa91cfd1361d065ee5b73e39e1adea467f3b",
+        "property_type_name": "căn hộ chung cư",
+        "district_code": "769",
+        "area": 360.0,
+        "price": 180000000000.0,
+        "predicted_price_vnd": 59584978779.665985,
+        "absolute_error_vnd": 120415021220.33401
+      },
+      {
+        "row_id": "8d90351be9dceb16a91f636a13ccf3bc4690461b09a7cfb4937bb5eb0a929024",
+        "property_type_name": "căn hộ chung cư",
+        "district_code": "769",
+        "area": 376.0,
+        "price": 190000000000.0,
+        "predicted_price_vnd": 80729161905.30719,
+        "absolute_error_vnd": 109270838094.69281
+      },
+      {
+        "row_id": "ed073038489a18b0c02577af285660bbbd9cef6bee4a3e88f6d9083a49d6b5a4",
+        "property_type_name": "căn hộ chung cư",
+        "district_code": "769",
+        "area": 497.0,
+        "price": 149000000000.0,
+        "predicted_price_vnd": 42211831178.24605,
+        "absolute_error_vnd": 106788168821.75395
+      }
+    ],
+    "test_price_quantiles_vnd": [
+      10000000.0,
+      5000000000.0,
+      12500000000.0,
+      40475200000.00018,
+      109721999999.9943,
+      360000000000.0
+    ],
+    "squared_error_fraction_top10": 0.42465560429024,
+    "selection_unchanged": true
+  }
+}

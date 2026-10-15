@@ -1,0 +1,40 @@
+{
+  "administrative_reference": "v2.4.1, cutoff before July 2025 reform",
+  "admin_revision": "fc33b7411ec4e3697817fab8118718a8d39ef090",
+  "map_reference": "geoBoundaries VNM-ADM2-81297802, year represented 2020; simplified geometry",
+  "boundary_revision": "9469f09",
+  "files": [
+    {
+      "file": "admin_2025_03.json",
+      "url": "https://raw.githubusercontent.com/ThangLeQuoc/vietnamese-provinces-database/fc33b7411ec4e3697817fab8118718a8d39ef090/json/vn_only_simplified_json_generated_data_vn_units.json",
+      "bytes": 1132216,
+      "sha256": "04bc47b359a9a122b2a3d13a5e90e066f44dc1671a01c1aaa5fb59cc8d05e444"
+    },
+    {
+      "file": "admin_LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/ThangLeQuoc/vietnamese-provinces-database/fc33b7411ec4e3697817fab8118718a8d39ef090/LICENSE",
+      "bytes": 1070,
+      "sha256": "0173d3551f805ee7fabad1948b1219e79dca42f5f93a1b07d4f9a12f9cbfb8da"
+    },
+    {
+      "file": "districts_2020_simplified.geojson",
+      "url": "https://raw.githubusercontent.com/wmgeolab/geoBoundaries/9469f09/releaseData/gbOpen/VNM/ADM2/geoBoundaries-VNM-ADM2_simplified.geojson",
+      "bytes": 5273788,
+      "sha256": "2dff75b58e71f736ca9fd6ef7c859be40c6f9a9b7ae5cd0806b36fe8cfa4c4f6"
+    },
+    {
+      "file": "districts_2020_metadata.json",
+      "url": "https://raw.githubusercontent.com/wmgeolab/geoBoundaries/9469f09/releaseData/gbOpen/VNM/ADM2/geoBoundaries-VNM-ADM2-metaData.json",
+      "bytes": 951,
+      "sha256": "36ed49efec3a8a553bbb0e62b1e8aa05235262a3286b86dceb7aedd8928e1181"
+    }
+  ],
+  "attribution": [
+    "Administrative reference: Thang Le Quoc, MIT license (local license retained)",
+    "Boundaries: OCHA ROAP / Government of Viet Nam via geoBoundaries, CC BY 3.0 IGO"
+  ],
+  "limitations": [
+    "Historical boundaries, not current legal boundaries or property coordinates.",
+    "Dataset names may mix administrative vintages; keep raw fields and report match status."
+  ]
+}

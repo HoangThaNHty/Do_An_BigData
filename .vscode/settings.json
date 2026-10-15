@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+  "files.exclude": {"**/__pycache__": true},
+  "search.exclude": {".venv": true, ".runtime": true, "web/node_modules": true, "web/.next": true, "data/raw/oceanng/*.parquet": true, "data/processed": true}
+}

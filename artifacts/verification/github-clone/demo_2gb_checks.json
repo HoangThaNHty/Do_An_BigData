@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "base": "http://127.0.0.1:3001/api/v1/",
+  "rounds": [
+    {
+      "round": 1,
+      "seconds": 9.32,
+      "estimated_vnd": 3728469790.848425
+    },
+    {
+      "round": 2,
+      "seconds": 8.29,
+      "estimated_vnd": 3728469790.848425
+    },
+    {
+      "round": 3,
+      "seconds": 8.48,
+      "estimated_vnd": 3728469790.848425
+    },
+    {
+      "round": 4,
+      "seconds": 11.67,
+      "estimated_vnd": 3728469790.848425
+    },
+    {
+      "round": 5,
+      "seconds": 15.46,
+      "estimated_vnd": 3728469790.848425
+    },
+    {
+      "round": 6,
+      "seconds": 9.95,
+      "estimated_vnd": 3728469790.848425
+    }
+  ],
+  "checks": [
+    "Repeated genuine prediction equals frozen demo fixture",
+    "Repeated genuine Spark rules",
+    "Health remains ready"
+  ]
+}

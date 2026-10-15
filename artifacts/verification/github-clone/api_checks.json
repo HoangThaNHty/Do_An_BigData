@@ -1,0 +1,147 @@
+{
+  "base": "http://127.0.0.1:3001",
+  "checks": [
+    {
+      "path": "health",
+      "status": 200
+    },
+    {
+      "path": "overview?kind=house",
+      "status": 200
+    },
+    {
+      "path": "market/trends?kind=house",
+      "status": 200
+    },
+    {
+      "path": "market/districts?kind=house",
+      "status": 200
+    },
+    {
+      "path": "overview?kind=house&district_code=769",
+      "status": 200
+    },
+    {
+      "path": "market/trends?kind=house&district_code=769",
+      "status": 200
+    },
+    {
+      "path": "market/districts?kind=house&district_code=769",
+      "status": 200
+    },
+    {
+      "path": "overview?kind=house&district_code=769&month=2026-01",
+      "status": 200
+    },
+    {
+      "path": "market/trends?kind=house&district_code=769&month=2026-01",
+      "status": 200
+    },
+    {
+      "path": "market/districts?kind=house&district_code=769&month=2026-01",
+      "status": 200
+    },
+    {
+      "path": "map/districts?kind=house",
+      "status": 200
+    },
+    {
+      "path": "filters?kind=house&district_code=769",
+      "status": 200
+    },
+    {
+      "path": "predict",
+      "status": 200
+    },
+    {
+      "path": "overview?kind=apartment",
+      "status": 200
+    },
+    {
+      "path": "market/trends?kind=apartment",
+      "status": 200
+    },
+    {
+      "path": "market/districts?kind=apartment",
+      "status": 200
+    },
+    {
+      "path": "overview?kind=apartment&district_code=769",
+      "status": 200
+    },
+    {
+      "path": "market/trends?kind=apartment&district_code=769",
+      "status": 200
+    },
+    {
+      "path": "market/districts?kind=apartment&district_code=769",
+      "status": 200
+    },
+    {
+      "path": "overview?kind=apartment&district_code=769&month=2026-01",
+      "status": 200
+    },
+    {
+      "path": "market/trends?kind=apartment&district_code=769&month=2026-01",
+      "status": 200
+    },
+    {
+      "path": "market/districts?kind=apartment&district_code=769&month=2026-01",
+      "status": 200
+    },
+    {
+      "path": "map/districts?kind=apartment",
+      "status": 200
+    },
+    {
+      "path": "filters?kind=apartment&district_code=769",
+      "status": 200
+    },
+    {
+      "path": "predict",
+      "status": 200
+    },
+    {
+      "path": "predict",
+      "status": 422
+    },
+    {
+      "path": "predict",
+      "status": 422
+    },
+    {
+      "path": "predict",
+      "status": 422
+    },
+    {
+      "path": "predict",
+      "status": 422
+    },
+    {
+      "path": "predict",
+      "status": 422
+    },
+    {
+      "path": "predict",
+      "status": 422
+    },
+    {
+      "path": "predict",
+      "status": 422
+    },
+    {
+      "path": "overview?kind=house&month=2024-01",
+      "status": 422
+    },
+    {
+      "path": "overview?kind=land",
+      "status": 422
+    },
+    {
+      "path": "models/metrics",
+      "status": 200
+    }
+  ],
+  "count": 35,
+  "passed": true
+}

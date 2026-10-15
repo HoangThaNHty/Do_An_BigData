@@ -1,0 +1,8 @@
+{
+  "selected": {
+    "house": "house_lr",
+    "apartment": "apartment_lr"
+  },
+  "metric": "validation_mae_vnd",
+  "test_used_for_selection": false
+}

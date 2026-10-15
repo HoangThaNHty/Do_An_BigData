@@ -1,0 +1,132 @@
+{
+  "core_manifest": {
+    "protected_before_geo": 149975,
+    "candidate_geo_status": [
+      {
+        "geo_match_status": "district_match_ward_missing",
+        "count": 26020
+      },
+      {
+        "geo_match_status": "district_match_ward_other_vintage_or_unknown",
+        "count": 439
+      },
+      {
+        "geo_match_status": "district_and_ward_reference_match",
+        "count": 123516
+      }
+    ],
+    "inspected_review_ids_excluded": 2480,
+    "protected_after_review_exclusion": 149547,
+    "district_matched_candidates": 149547,
+    "cross_period_repost_groups": 2734,
+    "cohort_rows": 133779,
+    "removed_reposts_or_outside_period": 15768,
+    "split_counts": [
+      {
+        "split": "test",
+        "property_type_name": "Căn hộ chung cư",
+        "count": 33140
+      },
+      {
+        "split": "test",
+        "property_type_name": "Nhà",
+        "count": 4705
+      },
+      {
+        "split": "train",
+        "property_type_name": "Căn hộ chung cư",
+        "count": 65856
+      },
+      {
+        "split": "train",
+        "property_type_name": "Nhà",
+        "count": 12192
+      },
+      {
+        "split": "validation",
+        "property_type_name": "Căn hộ chung cư",
+        "count": 15316
+      },
+      {
+        "split": "validation",
+        "property_type_name": "Nhà",
+        "count": 2570
+      }
+    ],
+    "source_etl": "D:\\slider\\real-estate-bigdata\\data\\processed\\etl_v4",
+    "etl_quality_sha256": "715b5b317087f9f347813d029f6114df7743dc3374dc158d46b9f5d58beb92d4",
+    "review_sha256": "77f1b7b3c2d643d47997c00bf79bc21f9572458e3980c411976da80448540327",
+    "review_method": [
+      "ai"
+    ],
+    "review_support": {
+      "count": 100,
+      "source_text_supported_count": 99,
+      "source_text_support_rate": 0.99,
+      "unsupported_row_ids": [
+        "bfa37ccd19f886b2cfd138c846cedf03688aacd6de3f6233b89974327a4f2bbe"
+      ],
+      "scope_supported_count": 98,
+      "scope_support_rate": 0.98,
+      "scope_unsupported_row_ids": [
+        "bfa37ccd19f886b2cfd138c846cedf03688aacd6de3f6233b89974327a4f2bbe",
+        "434fcd798e554e4570281d48c6c4fa33b984a1888dc88aa6c730363221cbe54b"
+      ],
+      "scope_support_wilson95": [
+        0.929988209271456,
+        0.9944980324498376
+      ]
+    },
+    "inspected_review_sources": [
+      {
+        "path": "D:\\slider\\real-estate-bigdata\\artifacts\\profile\\manual_review.csv",
+        "sha256": "50ac8239dd261e6a105dc627d779c09ffaf2dc757c6d1697fa92901d38fb5408"
+      },
+      {
+        "path": "D:\\slider\\real-estate-bigdata\\artifacts\\review\\v1\\blind_review.csv",
+        "sha256": "ce8a684ae338484a3e5ac8230fa87863af32a7c0d2d47f46e575107b933f6e31"
+      },
+      {
+        "path": "D:\\slider\\real-estate-bigdata\\artifacts\\review\\v2\\blind_review.csv",
+        "sha256": "1ca024c144f500172b965737a5086a5c4d635ad68b5bcff2c4a2dd304877a209"
+      },
+      {
+        "path": "D:\\slider\\real-estate-bigdata\\artifacts\\review\\v3\\blind_review.csv",
+        "sha256": "7da951abb9d32a867925e5f13d129c55351ee6926d4a670761d5be839730a642"
+      },
+      {
+        "path": "D:\\slider\\real-estate-bigdata\\artifacts\\review\\v4\\blind_review.csv",
+        "sha256": "3bb6f1d7d910abb1330ac940725701575159d877d80d29bc2a4f97800aacc473"
+      },
+      {
+        "path": "D:\\slider\\real-estate-bigdata\\artifacts\\review\\v5\\blind_review.csv",
+        "sha256": "77f1b7b3c2d643d47997c00bf79bc21f9572458e3980c411976da80448540327"
+      }
+    ],
+    "geo_version": "hcm-pre-merger-district-reference-v1",
+    "core_sha256": "ade7dca7cfed8d488828b03e8ea0ebf5c9fe6d9d79c2798d4f84da94b87606e3",
+    "status": "research_cohort_ai_reference_not_human_verified",
+    "limitations": [
+      "AI source-text references and sample support do not certify all records.",
+      "Scope limited to pre-merger HCM district regions; names matched, property addresses unverified.",
+      "Only normalized complete-text repost proxy deduplicated; other same-asset ads may cross splits.",
+      "Earliest retained group record; later repeated records excluded, changing temporal population.",
+      "Market aggregates describe this selected source cohort, not all transactions or total market."
+    ]
+  },
+  "analysis_columns": [
+    "property_type_name",
+    "district_code",
+    "district_label",
+    "published_month",
+    "area",
+    "price",
+    "unit_price_vnd"
+  ],
+  "analysis_rows": 133779,
+  "period": "2025-06..2026-03",
+  "source": "oceanNG/vietnam-real-estates",
+  "asking_prices_only": true,
+  "geometry_year": 2020,
+  "administrative_reference": "pre-merger 2025, 22 historical district groups"
+}

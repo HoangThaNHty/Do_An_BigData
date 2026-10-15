@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "files": 444,
+  "bytes": 16705633,
+  "largest_files": [
+    {
+      "path": "data/raw/geography/districts_2020_simplified.geojson",
+      "bytes": 5273788
+    },
+    {
+      "path": "artifacts/models/v1/test_predictions_apartment/part-00001-49f788ea-1601-455f-a19b-8f2c35c4a6ac-c000.snappy.parquet",
+      "bytes": 2514775
+    },
+    {
+      "path": "data/raw/geography/admin_2025_03.json",
+      "bytes": 1132216
+    },
+    {
+      "path": "artifacts/market/serving/part-00000-fb0dfcb3-112e-4716-be0b-086b1ae09634-c000.snappy.parquet",
+      "bytes": 738749
+    },
+    {
+      "path": "artifacts/verification/ui-ux-v4/04-map-online.png",
+      "bytes": 481934
+    }
+  ],
+  "problems": [],
+  "scope": "High-signal token/private-key scan and repo inclusion checks; not an exhaustive security audit."
+}

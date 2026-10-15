@@ -1,0 +1,273 @@
+{
+  "groups": [
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "760",
+      "n": 2232,
+      "median_price_vnd": 12000000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "784",
+      "n": 13,
+      "median_price_vnd": 1250000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "764",
+      "n": 995,
+      "median_price_vnd": 2700000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "786",
+      "n": 2461,
+      "median_price_vnd": 4600000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "773",
+      "n": 2132,
+      "median_price_vnd": 5800000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "772",
+      "n": 1300,
+      "median_price_vnd": 3700000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "774",
+      "n": 783,
+      "median_price_vnd": 3550000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "778",
+      "n": 15658,
+      "median_price_vnd": 6550000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "777",
+      "n": 2012,
+      "median_price_vnd": 2969000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "761",
+      "n": 1245,
+      "median_price_vnd": 2500000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "770",
+      "n": 570,
+      "median_price_vnd": 5330000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "769",
+      "n": 11097,
+      "median_price_vnd": 6000000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "785",
+      "n": 2830,
+      "median_price_vnd": 3100000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "765",
+      "n": 3249,
+      "median_price_vnd": 7500000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "768",
+      "n": 1999,
+      "median_price_vnd": 6250000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "775",
+      "n": 2016,
+      "median_price_vnd": 3800000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "767",
+      "n": 6372,
+      "median_price_vnd": 4000000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "771",
+      "n": 1504,
+      "median_price_vnd": 4400000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "766",
+      "n": 3990,
+      "median_price_vnd": 3850000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "776",
+      "n": 3388,
+      "median_price_vnd": 3300000000.0
+    },
+    {
+      "property_type_name": "căn hộ chung cư",
+      "district_code": "787",
+      "n": 10,
+      "median_price_vnd": 2350000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "766",
+      "n": 1890,
+      "median_price_vnd": 9500000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "772",
+      "n": 126,
+      "median_price_vnd": 8500000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "783",
+      "n": 34,
+      "median_price_vnd": 2200000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "775",
+      "n": 112,
+      "median_price_vnd": 6600000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "764",
+      "n": 1187,
+      "median_price_vnd": 7360000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "785",
+      "n": 47,
+      "median_price_vnd": 4800000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "770",
+      "n": 434,
+      "median_price_vnd": 10500000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "776",
+      "n": 204,
+      "median_price_vnd": 6500000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "786",
+      "n": 149,
+      "median_price_vnd": 6600000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "774",
+      "n": 100,
+      "median_price_vnd": 10700000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "760",
+      "n": 383,
+      "median_price_vnd": 16500000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "771",
+      "n": 384,
+      "median_price_vnd": 10500000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "778",
+      "n": 507,
+      "median_price_vnd": 7300000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "765",
+      "n": 1520,
+      "median_price_vnd": 10000000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "761",
+      "n": 751,
+      "median_price_vnd": 5850000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "768",
+      "n": 1008,
+      "median_price_vnd": 9600000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "777",
+      "n": 425,
+      "median_price_vnd": 5900000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "769",
+      "n": 1987,
+      "median_price_vnd": 7200000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "767",
+      "n": 568,
+      "median_price_vnd": 7300000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "784",
+      "n": 99,
+      "median_price_vnd": 5000000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "773",
+      "n": 276,
+      "median_price_vnd": 6200000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "district_code": "787",
+      "n": 1,
+      "median_price_vnd": 5300000000.0
+    }
+  ],
+  "fallback": [
+    {
+      "property_type_name": "căn hộ chung cư",
+      "median_price_vnd": 4700000000.0
+    },
+    {
+      "property_type_name": "nhà",
+      "median_price_vnd": 8000000000.0
+    }
+  ],
+  "minimum_group_count": 20
+}

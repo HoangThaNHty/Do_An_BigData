@@ -1,0 +1,1802 @@
+[
+  {
+    "area": 60.0,
+    "price": 13500000000.0,
+    "predicted_price_vnd": 8626212193.040842,
+    "district_code": "770"
+  },
+  {
+    "area": 56.0,
+    "price": 6600000000.0,
+    "predicted_price_vnd": 5025627844.083015,
+    "district_code": "769"
+  },
+  {
+    "area": 60.8,
+    "price": 6950000000.0,
+    "predicted_price_vnd": 6384319056.699548,
+    "district_code": "764"
+  },
+  {
+    "area": 42.0,
+    "price": 6500000000.0,
+    "predicted_price_vnd": 5221098379.191658,
+    "district_code": "764"
+  },
+  {
+    "area": 79.5,
+    "price": 6410000000.0,
+    "predicted_price_vnd": 16263469392.041958,
+    "district_code": "770"
+  },
+  {
+    "area": 30.0,
+    "price": 4000000000.0,
+    "predicted_price_vnd": 4683251367.693725,
+    "district_code": "772"
+  },
+  {
+    "area": 59.0,
+    "price": 5800000000.0,
+    "predicted_price_vnd": 5885500035.992695,
+    "district_code": "761"
+  },
+  {
+    "area": 90.0,
+    "price": 13000000000.0,
+    "predicted_price_vnd": 8886506228.332457,
+    "district_code": "769"
+  },
+  {
+    "area": 47.7,
+    "price": 9600000000.0,
+    "predicted_price_vnd": 7374513478.891799,
+    "district_code": "766"
+  },
+  {
+    "area": 36.9,
+    "price": 6250000000.0,
+    "predicted_price_vnd": 4579253105.828126,
+    "district_code": "775"
+  },
+  {
+    "area": 33.0,
+    "price": 7200000000.0,
+    "predicted_price_vnd": 7988166976.636375,
+    "district_code": "760"
+  },
+  {
+    "area": 20.0,
+    "price": 4690000000.0,
+    "predicted_price_vnd": 4883629183.46076,
+    "district_code": "770"
+  },
+  {
+    "area": 100.0,
+    "price": 5300000000.0,
+    "predicted_price_vnd": 6492634059.960359,
+    "district_code": "769"
+  },
+  {
+    "area": 55.0,
+    "price": 16000000000.0,
+    "predicted_price_vnd": 10195932846.215002,
+    "district_code": "774"
+  },
+  {
+    "area": 41.0,
+    "price": 7900000000.0,
+    "predicted_price_vnd": 8511244186.003488,
+    "district_code": "771"
+  },
+  {
+    "area": 25.0,
+    "price": 3800000000.0,
+    "predicted_price_vnd": 5536721716.619522,
+    "district_code": "765"
+  },
+  {
+    "area": 44.0,
+    "price": 4300000000.0,
+    "predicted_price_vnd": 5571525576.729539,
+    "district_code": "769"
+  },
+  {
+    "area": 63.0,
+    "price": 7900000000.0,
+    "predicted_price_vnd": 6436495243.101712,
+    "district_code": "766"
+  },
+  {
+    "area": 56.0,
+    "price": 3600000000.0,
+    "predicted_price_vnd": 4992637280.007739,
+    "district_code": "776"
+  },
+  {
+    "area": 79.2,
+    "price": 16800000000.0,
+    "predicted_price_vnd": 13733876484.387638,
+    "district_code": "768"
+  },
+  {
+    "area": 101.8,
+    "price": 10500000000.0,
+    "predicted_price_vnd": 7626012511.333504,
+    "district_code": "769"
+  },
+  {
+    "area": 33.0,
+    "price": 5980000000.0,
+    "predicted_price_vnd": 5661940069.1372175,
+    "district_code": "772"
+  },
+  {
+    "area": 80.1,
+    "price": 25000000000.0,
+    "predicted_price_vnd": 9691283863.001596,
+    "district_code": "776"
+  },
+  {
+    "area": 48.0,
+    "price": 5186000000.0,
+    "predicted_price_vnd": 6721797711.604797,
+    "district_code": "764"
+  },
+  {
+    "area": 91.0,
+    "price": 7200000000.0,
+    "predicted_price_vnd": 8402653424.676978,
+    "district_code": "767"
+  },
+  {
+    "area": 40.0,
+    "price": 8690000000.0,
+    "predicted_price_vnd": 7563476306.204437,
+    "district_code": "766"
+  },
+  {
+    "area": 98.3,
+    "price": 5390000000.0,
+    "predicted_price_vnd": 7223684571.059369,
+    "district_code": "761"
+  },
+  {
+    "area": 68.0,
+    "price": 5400000000.0,
+    "predicted_price_vnd": 4437697413.507406,
+    "district_code": "769"
+  },
+  {
+    "area": 52.0,
+    "price": 4800000000.0,
+    "predicted_price_vnd": 7414406894.105047,
+    "district_code": "766"
+  },
+  {
+    "area": 53.0,
+    "price": 7590000000.0,
+    "predicted_price_vnd": 8121118465.534903,
+    "district_code": "765"
+  },
+  {
+    "area": 29.0,
+    "price": 2600000000.0,
+    "predicted_price_vnd": 3394726240.132264,
+    "district_code": "769"
+  },
+  {
+    "area": 26.0,
+    "price": 4500000000.0,
+    "predicted_price_vnd": 5296421026.34003,
+    "district_code": "765"
+  },
+  {
+    "area": 63.0,
+    "price": 8000000000.0,
+    "predicted_price_vnd": 9860476706.365297,
+    "district_code": "766"
+  },
+  {
+    "area": 162.0,
+    "price": 18500000000.0,
+    "predicted_price_vnd": 18201402032.015213,
+    "district_code": "778"
+  },
+  {
+    "area": 50.0,
+    "price": 5700000000.0,
+    "predicted_price_vnd": 6522790512.546213,
+    "district_code": "769"
+  },
+  {
+    "area": 33.0,
+    "price": 7600000000.0,
+    "predicted_price_vnd": 7292028370.191206,
+    "district_code": "771"
+  },
+  {
+    "area": 52.3,
+    "price": 12500000000.0,
+    "predicted_price_vnd": 9189610326.577261,
+    "district_code": "766"
+  },
+  {
+    "area": 60.0,
+    "price": 7800000000.0,
+    "predicted_price_vnd": 10704979367.533218,
+    "district_code": "764"
+  },
+  {
+    "area": 70.0,
+    "price": 6150000000.0,
+    "predicted_price_vnd": 5522301984.396363,
+    "district_code": "769"
+  },
+  {
+    "area": 18.0,
+    "price": 3900000000.0,
+    "predicted_price_vnd": 3428906123.4048667,
+    "district_code": "765"
+  },
+  {
+    "area": 76.5,
+    "price": 7090000000.0,
+    "predicted_price_vnd": 8088017441.017706,
+    "district_code": "761"
+  },
+  {
+    "area": 58.0,
+    "price": 7000000000.0,
+    "predicted_price_vnd": 6486298077.307371,
+    "district_code": "776"
+  },
+  {
+    "area": 103.7,
+    "price": 18000000000.0,
+    "predicted_price_vnd": 19708851935.65577,
+    "district_code": "771"
+  },
+  {
+    "area": 69.2,
+    "price": 19000000000.0,
+    "predicted_price_vnd": 13419174406.640087,
+    "district_code": "768"
+  },
+  {
+    "area": 20.0,
+    "price": 1690000000.0,
+    "predicted_price_vnd": 3661976712.619697,
+    "district_code": "778"
+  },
+  {
+    "area": 55.0,
+    "price": 13290000000.0,
+    "predicted_price_vnd": 9956191882.356594,
+    "district_code": "774"
+  },
+  {
+    "area": 75.0,
+    "price": 7500000000.0,
+    "predicted_price_vnd": 8418745380.663598,
+    "district_code": "767"
+  },
+  {
+    "area": 58.0,
+    "price": 8800000000.0,
+    "predicted_price_vnd": 7821264884.298836,
+    "district_code": "775"
+  },
+  {
+    "area": 70.3,
+    "price": 8900000000.0,
+    "predicted_price_vnd": 7557148217.638583,
+    "district_code": "769"
+  },
+  {
+    "area": 74.0,
+    "price": 8700000000.0,
+    "predicted_price_vnd": 14675473211.912848,
+    "district_code": "768"
+  },
+  {
+    "area": 466.0,
+    "price": 115000000000.0,
+    "predicted_price_vnd": 54564832095.399994,
+    "district_code": "769"
+  },
+  {
+    "area": 55.0,
+    "price": 9700000000.0,
+    "predicted_price_vnd": 8946145296.464445,
+    "district_code": "766"
+  },
+  {
+    "area": 60.0,
+    "price": 7500000000.0,
+    "predicted_price_vnd": 5596799180.715538,
+    "district_code": "761"
+  },
+  {
+    "area": 62.0,
+    "price": 5100000000.0,
+    "predicted_price_vnd": 4933686775.369447,
+    "district_code": "777"
+  },
+  {
+    "area": 75.0,
+    "price": 9450000000.0,
+    "predicted_price_vnd": 7398300237.141772,
+    "district_code": "769"
+  },
+  {
+    "area": 74.0,
+    "price": 12300000000.0,
+    "predicted_price_vnd": 10032095840.922255,
+    "district_code": "766"
+  },
+  {
+    "area": 56.0,
+    "price": 8500000000.0,
+    "predicted_price_vnd": 6015852594.6312065,
+    "district_code": "761"
+  },
+  {
+    "area": 182.0,
+    "price": 18000000000.0,
+    "predicted_price_vnd": 17842722784.5757,
+    "district_code": "767"
+  },
+  {
+    "area": 60.0,
+    "price": 7500000000.0,
+    "predicted_price_vnd": 8568585080.303366,
+    "district_code": "766"
+  },
+  {
+    "area": 54.4,
+    "price": 7100000000.0,
+    "predicted_price_vnd": 5575884773.0290985,
+    "district_code": "769"
+  },
+  {
+    "area": 69.0,
+    "price": 5900000000.0,
+    "predicted_price_vnd": 6318523531.954347,
+    "district_code": "777"
+  },
+  {
+    "area": 62.9,
+    "price": 7900000000.0,
+    "predicted_price_vnd": 7709492176.351675,
+    "district_code": "766"
+  },
+  {
+    "area": 37.0,
+    "price": 3950000000.0,
+    "predicted_price_vnd": 4033635809.7777395,
+    "district_code": "767"
+  },
+  {
+    "area": 54.0,
+    "price": 8990000000.0,
+    "predicted_price_vnd": 6526610774.803483,
+    "district_code": "766"
+  },
+  {
+    "area": 74.0,
+    "price": 7450000000.0,
+    "predicted_price_vnd": 11213306860.54378,
+    "district_code": "767"
+  },
+  {
+    "area": 62.0,
+    "price": 3650000000.0,
+    "predicted_price_vnd": 5230736852.481393,
+    "district_code": "777"
+  },
+  {
+    "area": 105.0,
+    "price": 7900000000.0,
+    "predicted_price_vnd": 12271639605.657671,
+    "district_code": "764"
+  },
+  {
+    "area": 30.0,
+    "price": 5300000000.0,
+    "predicted_price_vnd": 6624625504.17926,
+    "district_code": "771"
+  },
+  {
+    "area": 105.0,
+    "price": 9400000000.0,
+    "predicted_price_vnd": 10691784262.493599,
+    "district_code": "769"
+  },
+  {
+    "area": 48.5,
+    "price": 8600000000.0,
+    "predicted_price_vnd": 7442756345.787455,
+    "district_code": "766"
+  },
+  {
+    "area": 50.0,
+    "price": 6700000000.0,
+    "predicted_price_vnd": 7323316860.469978,
+    "district_code": "764"
+  },
+  {
+    "area": 22.3,
+    "price": 2950000000.0,
+    "predicted_price_vnd": 3309766267.4354944,
+    "district_code": "778"
+  },
+  {
+    "area": 296.0,
+    "price": 39000000000.0,
+    "predicted_price_vnd": 28082442068.518593,
+    "district_code": "767"
+  },
+  {
+    "area": 88.0,
+    "price": 14000000000.0,
+    "predicted_price_vnd": 16188832099.81265,
+    "district_code": "766"
+  },
+  {
+    "area": 53.6,
+    "price": 13500000000.0,
+    "predicted_price_vnd": 9979236109.005697,
+    "district_code": "765"
+  },
+  {
+    "area": 86.0,
+    "price": 16500000000.0,
+    "predicted_price_vnd": 14278406448.268688,
+    "district_code": "765"
+  },
+  {
+    "area": 70.0,
+    "price": 10000000000.0,
+    "predicted_price_vnd": 7435954103.418854,
+    "district_code": "769"
+  },
+  {
+    "area": 42.2,
+    "price": 6500000000.0,
+    "predicted_price_vnd": 5566824868.7523985,
+    "district_code": "764"
+  },
+  {
+    "area": 60.0,
+    "price": 4600000000.0,
+    "predicted_price_vnd": 5009701733.77447,
+    "district_code": "769"
+  },
+  {
+    "area": 70.0,
+    "price": 7680000000.0,
+    "predicted_price_vnd": 8329628121.359899,
+    "district_code": "775"
+  },
+  {
+    "area": 60.6,
+    "price": 5050000000.0,
+    "predicted_price_vnd": 4955846933.705148,
+    "district_code": "764"
+  },
+  {
+    "area": 76.0,
+    "price": 11500000000.0,
+    "predicted_price_vnd": 12638476973.55149,
+    "district_code": "769"
+  },
+  {
+    "area": 36.0,
+    "price": 3950000000.0,
+    "predicted_price_vnd": 4907033516.524785,
+    "district_code": "776"
+  },
+  {
+    "area": 27.9,
+    "price": 8700000000.0,
+    "predicted_price_vnd": 7562457967.706648,
+    "district_code": "771"
+  },
+  {
+    "area": 73.0,
+    "price": 10980000000.0,
+    "predicted_price_vnd": 12813394086.284754,
+    "district_code": "766"
+  },
+  {
+    "area": 51.0,
+    "price": 6500000000.0,
+    "predicted_price_vnd": 5651220407.449681,
+    "district_code": "769"
+  },
+  {
+    "area": 46.0,
+    "price": 4950000000.0,
+    "predicted_price_vnd": 8064925337.866133,
+    "district_code": "766"
+  },
+  {
+    "area": 42.0,
+    "price": 3350000000.0,
+    "predicted_price_vnd": 5096826134.777082,
+    "district_code": "786"
+  },
+  {
+    "area": 18.6,
+    "price": 3990000000.0,
+    "predicted_price_vnd": 2964760810.6817036,
+    "district_code": "764"
+  },
+  {
+    "area": 45.0,
+    "price": 6300000000.0,
+    "predicted_price_vnd": 7606873691.982523,
+    "district_code": "773"
+  },
+  {
+    "area": 85.0,
+    "price": 13000000000.0,
+    "predicted_price_vnd": 13205938742.115725,
+    "district_code": "766"
+  },
+  {
+    "area": 35.08,
+    "price": 9300000000.0,
+    "predicted_price_vnd": 6970537327.961164,
+    "district_code": "771"
+  },
+  {
+    "area": 36.0,
+    "price": 7750000000.0,
+    "predicted_price_vnd": 5550400091.517493,
+    "district_code": "766"
+  },
+  {
+    "area": 71.0,
+    "price": 8850000000.0,
+    "predicted_price_vnd": 7345319886.333964,
+    "district_code": "769"
+  },
+  {
+    "area": 52.5,
+    "price": 5240000000.0,
+    "predicted_price_vnd": 6218683785.032085,
+    "district_code": "766"
+  },
+  {
+    "area": 112.1,
+    "price": 14900000000.0,
+    "predicted_price_vnd": 9981327427.385113,
+    "district_code": "769"
+  },
+  {
+    "area": 75.0,
+    "price": 7390000000.0,
+    "predicted_price_vnd": 12201963976.370106,
+    "district_code": "767"
+  },
+  {
+    "area": 102.0,
+    "price": 9500000000.0,
+    "predicted_price_vnd": 8266514206.254965,
+    "district_code": "769"
+  },
+  {
+    "area": 84.0,
+    "price": 8500000000.0,
+    "predicted_price_vnd": 10820565047.409752,
+    "district_code": "767"
+  },
+  {
+    "area": 78.0,
+    "price": 13500000000.0,
+    "predicted_price_vnd": 17176156300.180525,
+    "district_code": "771"
+  },
+  {
+    "area": 54.0,
+    "price": 6300000000.0,
+    "predicted_price_vnd": 5462791117.96483,
+    "district_code": "769"
+  },
+  {
+    "area": 42.2,
+    "price": 10000000000.0,
+    "predicted_price_vnd": 9097312823.87217,
+    "district_code": "760"
+  },
+  {
+    "area": 85.0,
+    "price": 9000000000.0,
+    "predicted_price_vnd": 11563109773.082851,
+    "district_code": "766"
+  },
+  {
+    "area": 41.0,
+    "price": 5050000000.0,
+    "predicted_price_vnd": 4900664037.232337,
+    "district_code": "766"
+  },
+  {
+    "area": 80.0,
+    "price": 7500000000.0,
+    "predicted_price_vnd": 7602980344.322866,
+    "district_code": "769"
+  },
+  {
+    "area": 45.0,
+    "price": 8390000000.0,
+    "predicted_price_vnd": 5885913714.396728,
+    "district_code": "766"
+  },
+  {
+    "area": 73.0,
+    "price": 6500000000.0,
+    "predicted_price_vnd": 6823278584.142233,
+    "district_code": "764"
+  },
+  {
+    "area": 30.0,
+    "price": 6980000000.0,
+    "predicted_price_vnd": 8353605410.805132,
+    "district_code": "770"
+  },
+  {
+    "area": 60.0,
+    "price": 4400000000.0,
+    "predicted_price_vnd": 2175784311.8388357,
+    "district_code": "785"
+  },
+  {
+    "area": 56.0,
+    "price": 6600000000.0,
+    "predicted_price_vnd": 7336021227.384056,
+    "district_code": "769"
+  },
+  {
+    "area": 70.0,
+    "price": 18500000000.0,
+    "predicted_price_vnd": 15765982566.342592,
+    "district_code": "774"
+  },
+  {
+    "area": 35.0,
+    "price": 7400000000.0,
+    "predicted_price_vnd": 9662320429.601934,
+    "district_code": "771"
+  },
+  {
+    "area": 208.6,
+    "price": 24900000000.0,
+    "predicted_price_vnd": 19289687460.531208,
+    "district_code": "775"
+  },
+  {
+    "area": 60.15,
+    "price": 9900000000.0,
+    "predicted_price_vnd": 9688251700.693464,
+    "district_code": "765"
+  },
+  {
+    "area": 54.0,
+    "price": 7390000000.0,
+    "predicted_price_vnd": 5566965613.262998,
+    "district_code": "761"
+  },
+  {
+    "area": 45.5,
+    "price": 6400000000.0,
+    "predicted_price_vnd": 7196799023.846856,
+    "district_code": "768"
+  },
+  {
+    "area": 70.0,
+    "price": 3900000000.0,
+    "predicted_price_vnd": 5522301984.396363,
+    "district_code": "769"
+  },
+  {
+    "area": 44.0,
+    "price": 8590000000.0,
+    "predicted_price_vnd": 8567947915.63487,
+    "district_code": "768"
+  },
+  {
+    "area": 60.0,
+    "price": 11800000000.0,
+    "predicted_price_vnd": 8905598556.641832,
+    "district_code": "766"
+  },
+  {
+    "area": 38.0,
+    "price": 3600000000.0,
+    "predicted_price_vnd": 4157553429.5023084,
+    "district_code": "776"
+  },
+  {
+    "area": 70.0,
+    "price": 12800000000.0,
+    "predicted_price_vnd": 11762137333.859324,
+    "district_code": "765"
+  },
+  {
+    "area": 68.0,
+    "price": 16900000000.0,
+    "predicted_price_vnd": 15840129030.304745,
+    "district_code": "771"
+  },
+  {
+    "area": 55.0,
+    "price": 15900000000.0,
+    "predicted_price_vnd": 8412513385.681904,
+    "district_code": "766"
+  },
+  {
+    "area": 51.0,
+    "price": 7850000000.0,
+    "predicted_price_vnd": 7563921558.263247,
+    "district_code": "765"
+  },
+  {
+    "area": 62.0,
+    "price": 8500000000.0,
+    "predicted_price_vnd": 7773573488.191829,
+    "district_code": "766"
+  },
+  {
+    "area": 68.0,
+    "price": 9500000000.0,
+    "predicted_price_vnd": 10007812138.464272,
+    "district_code": "766"
+  },
+  {
+    "area": 38.5,
+    "price": 7550000000.0,
+    "predicted_price_vnd": 6418836927.117215,
+    "district_code": "766"
+  },
+  {
+    "area": 170.0,
+    "price": 23000000000.0,
+    "predicted_price_vnd": 22444559665.90851,
+    "district_code": "766"
+  },
+  {
+    "area": 63.2,
+    "price": 5500000000.0,
+    "predicted_price_vnd": 5547681610.395292,
+    "district_code": "769"
+  },
+  {
+    "area": 61.0,
+    "price": 6300000000.0,
+    "predicted_price_vnd": 9772877899.633385,
+    "district_code": "766"
+  },
+  {
+    "area": 60.0,
+    "price": 8100000000.0,
+    "predicted_price_vnd": 5706553438.106245,
+    "district_code": "769"
+  },
+  {
+    "area": 93.5,
+    "price": 14000000000.0,
+    "predicted_price_vnd": 14470660485.154985,
+    "district_code": "768"
+  },
+  {
+    "area": 113.0,
+    "price": 11980000000.0,
+    "predicted_price_vnd": 10874137829.789375,
+    "district_code": "769"
+  },
+  {
+    "area": 46.0,
+    "price": 4380000000.0,
+    "predicted_price_vnd": 4127097448.0709534,
+    "district_code": "761"
+  },
+  {
+    "area": 85.0,
+    "price": 7500000000.0,
+    "predicted_price_vnd": 10484739688.77513,
+    "district_code": "764"
+  },
+  {
+    "area": 68.0,
+    "price": 12000000000.0,
+    "predicted_price_vnd": 13152022398.65722,
+    "district_code": "774"
+  },
+  {
+    "area": 160.0,
+    "price": 13000000000.0,
+    "predicted_price_vnd": 17685763901.161015,
+    "district_code": "778"
+  },
+  {
+    "area": 52.0,
+    "price": 7900000000.0,
+    "predicted_price_vnd": 7327532007.130673,
+    "district_code": "765"
+  },
+  {
+    "area": 53.0,
+    "price": 11500000000.0,
+    "predicted_price_vnd": 9194442413.034481,
+    "district_code": "765"
+  },
+  {
+    "area": 34.2,
+    "price": 7300000000.0,
+    "predicted_price_vnd": 6909308250.935483,
+    "district_code": "766"
+  },
+  {
+    "area": 166.0,
+    "price": 11500000000.0,
+    "predicted_price_vnd": 16795466493.253374,
+    "district_code": "767"
+  },
+  {
+    "area": 98.0,
+    "price": 18500000000.0,
+    "predicted_price_vnd": 14678334003.82099,
+    "district_code": "768"
+  },
+  {
+    "area": 75.0,
+    "price": 9200000000.0,
+    "predicted_price_vnd": 11972446023.292984,
+    "district_code": "766"
+  },
+  {
+    "area": 36.2,
+    "price": 7500000000.0,
+    "predicted_price_vnd": 7603992719.325059,
+    "district_code": "768"
+  },
+  {
+    "area": 53.2,
+    "price": 6200000000.0,
+    "predicted_price_vnd": 9121431394.780764,
+    "district_code": "766"
+  },
+  {
+    "area": 48.0,
+    "price": 8100000000.0,
+    "predicted_price_vnd": 6493619968.318632,
+    "district_code": "767"
+  },
+  {
+    "area": 50.0,
+    "price": 4200000000.0,
+    "predicted_price_vnd": 4974909683.869817,
+    "district_code": "769"
+  },
+  {
+    "area": 230.0,
+    "price": 18800000000.0,
+    "predicted_price_vnd": 20515476907.54448,
+    "district_code": "769"
+  },
+  {
+    "area": 30.0,
+    "price": 4150000000.0,
+    "predicted_price_vnd": 3463612524.309927,
+    "district_code": "767"
+  },
+  {
+    "area": 15.0,
+    "price": 890000000.0,
+    "predicted_price_vnd": 1938951128.994051,
+    "district_code": "778"
+  },
+  {
+    "area": 55.0,
+    "price": 14500000000.0,
+    "predicted_price_vnd": 9707282384.018438,
+    "district_code": "764"
+  },
+  {
+    "area": 104.0,
+    "price": 7400000000.0,
+    "predicted_price_vnd": 10408162819.749002,
+    "district_code": "764"
+  },
+  {
+    "area": 50.0,
+    "price": 9600000000.0,
+    "predicted_price_vnd": 8917412743.551449,
+    "district_code": "765"
+  },
+  {
+    "area": 30.2,
+    "price": 4300000000.0,
+    "predicted_price_vnd": 4126292689.2465734,
+    "district_code": "764"
+  },
+  {
+    "area": 31.8,
+    "price": 4990000000.0,
+    "predicted_price_vnd": 3637922639.439329,
+    "district_code": "764"
+  },
+  {
+    "area": 255.0,
+    "price": 34500000000.0,
+    "predicted_price_vnd": 20761503807.81559,
+    "district_code": "764"
+  },
+  {
+    "area": 25.0,
+    "price": 5500000000.0,
+    "predicted_price_vnd": 5156543548.92244,
+    "district_code": "768"
+  },
+  {
+    "area": 61.0,
+    "price": 5800000000.0,
+    "predicted_price_vnd": 5447746278.153389,
+    "district_code": "769"
+  },
+  {
+    "area": 61.0,
+    "price": 12500000000.0,
+    "predicted_price_vnd": 8468805830.952958,
+    "district_code": "766"
+  },
+  {
+    "area": 39.5,
+    "price": 5500000000.0,
+    "predicted_price_vnd": 4008689853.5754657,
+    "district_code": "778"
+  },
+  {
+    "area": 87.0,
+    "price": 8790000000.0,
+    "predicted_price_vnd": 8914470567.359179,
+    "district_code": "761"
+  },
+  {
+    "area": 60.0,
+    "price": 7700000000.0,
+    "predicted_price_vnd": 5797996876.6195545,
+    "district_code": "769"
+  },
+  {
+    "area": 62.0,
+    "price": 7900000000.0,
+    "predicted_price_vnd": 10876684919.336767,
+    "district_code": "766"
+  },
+  {
+    "area": 56.0,
+    "price": 5490000000.0,
+    "predicted_price_vnd": 5368366820.013609,
+    "district_code": "761"
+  },
+  {
+    "area": 63.6,
+    "price": 6200000000.0,
+    "predicted_price_vnd": 7566227925.920023,
+    "district_code": "769"
+  },
+  {
+    "area": 60.0,
+    "price": 7900000000.0,
+    "predicted_price_vnd": 8065500489.647746,
+    "district_code": "765"
+  },
+  {
+    "area": 58.0,
+    "price": 7800000000.0,
+    "predicted_price_vnd": 7272015274.161781,
+    "district_code": "764"
+  },
+  {
+    "area": 65.0,
+    "price": 4350000000.0,
+    "predicted_price_vnd": 5307667918.191146,
+    "district_code": "786"
+  },
+  {
+    "area": 28.0,
+    "price": 5680000000.0,
+    "predicted_price_vnd": 5692037870.916791,
+    "district_code": "765"
+  },
+  {
+    "area": 70.0,
+    "price": 8000000000.0,
+    "predicted_price_vnd": 9867732354.30175,
+    "district_code": "764"
+  },
+  {
+    "area": 75.0,
+    "price": 8300000000.0,
+    "predicted_price_vnd": 13795756536.78181,
+    "district_code": "766"
+  },
+  {
+    "area": 147.0,
+    "price": 8500000000.0,
+    "predicted_price_vnd": 10997637550.812155,
+    "district_code": "761"
+  },
+  {
+    "area": 57.0,
+    "price": 6399000000.0,
+    "predicted_price_vnd": 6566767814.836628,
+    "district_code": "773"
+  },
+  {
+    "area": 67.0,
+    "price": 9800000000.0,
+    "predicted_price_vnd": 11637650263.673733,
+    "district_code": "766"
+  },
+  {
+    "area": 68.0,
+    "price": 9500000000.0,
+    "predicted_price_vnd": 10491951892.19427,
+    "district_code": "766"
+  },
+  {
+    "area": 43.0,
+    "price": 8600000000.0,
+    "predicted_price_vnd": 7261631252.326887,
+    "district_code": "765"
+  },
+  {
+    "area": 92.0,
+    "price": 4500000000.0,
+    "predicted_price_vnd": 5194551378.036789,
+    "district_code": "785"
+  },
+  {
+    "area": 51.0,
+    "price": 6800000000.0,
+    "predicted_price_vnd": 6833893717.929823,
+    "district_code": "769"
+  },
+  {
+    "area": 78.0,
+    "price": 8000000000.0,
+    "predicted_price_vnd": 10329193598.913527,
+    "district_code": "766"
+  },
+  {
+    "area": 82.8,
+    "price": 3300000000.0,
+    "predicted_price_vnd": 4965366672.666595,
+    "district_code": "785"
+  },
+  {
+    "area": 64.0,
+    "price": 13800000000.0,
+    "predicted_price_vnd": 13002266052.644934,
+    "district_code": "765"
+  },
+  {
+    "area": 35.0,
+    "price": 5300000000.0,
+    "predicted_price_vnd": 5038985187.580511,
+    "district_code": "765"
+  },
+  {
+    "area": 30.0,
+    "price": 3890000000.0,
+    "predicted_price_vnd": 5417279523.200167,
+    "district_code": "765"
+  },
+  {
+    "area": 60.0,
+    "price": 10500000000.0,
+    "predicted_price_vnd": 9476551401.33921,
+    "district_code": "766"
+  },
+  {
+    "area": 48.0,
+    "price": 6800000000.0,
+    "predicted_price_vnd": 5664736970.939218,
+    "district_code": "767"
+  },
+  {
+    "area": 65.0,
+    "price": 23000000000.0,
+    "predicted_price_vnd": 12094917190.135658,
+    "district_code": "768"
+  },
+  {
+    "area": 40.0,
+    "price": 9700000000.0,
+    "predicted_price_vnd": 4349756604.344577,
+    "district_code": "764"
+  },
+  {
+    "area": 37.8,
+    "price": 3600000000.0,
+    "predicted_price_vnd": 3669900059.3340406,
+    "district_code": "776"
+  },
+  {
+    "area": 72.0,
+    "price": 7900000000.0,
+    "predicted_price_vnd": 8966860394.476194,
+    "district_code": "765"
+  },
+  {
+    "area": 305.0,
+    "price": 24000000000.0,
+    "predicted_price_vnd": 27598159950.350174,
+    "district_code": "769"
+  },
+  {
+    "area": 30.5,
+    "price": 3680000000.0,
+    "predicted_price_vnd": 3501094351.4421034,
+    "district_code": "777"
+  },
+  {
+    "area": 81.0,
+    "price": 9500000000.0,
+    "predicted_price_vnd": 12755953781.745422,
+    "district_code": "765"
+  },
+  {
+    "area": 43.1,
+    "price": 2950000000.0,
+    "predicted_price_vnd": 5168786991.345812,
+    "district_code": "761"
+  },
+  {
+    "area": 78.0,
+    "price": 13500000000.0,
+    "predicted_price_vnd": 17176156300.180525,
+    "district_code": "771"
+  },
+  {
+    "area": 73.4,
+    "price": 9500000000.0,
+    "predicted_price_vnd": 7465221290.275102,
+    "district_code": "769"
+  },
+  {
+    "area": 100.0,
+    "price": 11500000000.0,
+    "predicted_price_vnd": 11594699885.264908,
+    "district_code": "767"
+  },
+  {
+    "area": 40.0,
+    "price": 6900000000.0,
+    "predicted_price_vnd": 5299534961.756839,
+    "district_code": "778"
+  },
+  {
+    "area": 22.0,
+    "price": 6500000000.0,
+    "predicted_price_vnd": 4802792484.523202,
+    "district_code": "768"
+  },
+  {
+    "area": 38.0,
+    "price": 5350000000.0,
+    "predicted_price_vnd": 5342959038.894643,
+    "district_code": "765"
+  },
+  {
+    "area": 32.7,
+    "price": 8680000000.0,
+    "predicted_price_vnd": 6972060577.172377,
+    "district_code": "770"
+  },
+  {
+    "area": 80.0,
+    "price": 8000000000.0,
+    "predicted_price_vnd": 6684892275.047658,
+    "district_code": "786"
+  },
+  {
+    "area": 60.0,
+    "price": 10500000000.0,
+    "predicted_price_vnd": 10640410356.430977,
+    "district_code": "765"
+  },
+  {
+    "area": 60.0,
+    "price": 3300000000.0,
+    "predicted_price_vnd": 3901098954.0031695,
+    "district_code": "769"
+  },
+  {
+    "area": 100.0,
+    "price": 24000000000.0,
+    "predicted_price_vnd": 23428671299.33197,
+    "district_code": "769"
+  },
+  {
+    "area": 49.3,
+    "price": 7680000000.0,
+    "predicted_price_vnd": 7281098278.605753,
+    "district_code": "766"
+  },
+  {
+    "area": 82.0,
+    "price": 12000000000.0,
+    "predicted_price_vnd": 9260938886.36678,
+    "district_code": "766"
+  },
+  {
+    "area": 63.0,
+    "price": 8250000000.0,
+    "predicted_price_vnd": 8298114611.187962,
+    "district_code": "777"
+  },
+  {
+    "area": 70.0,
+    "price": 9200000000.0,
+    "predicted_price_vnd": 9313332319.65698,
+    "district_code": "766"
+  },
+  {
+    "area": 43.0,
+    "price": 5800000000.0,
+    "predicted_price_vnd": 7014817277.240662,
+    "district_code": "772"
+  },
+  {
+    "area": 56.2,
+    "price": 4900000000.0,
+    "predicted_price_vnd": 7867973286.268093,
+    "district_code": "778"
+  },
+  {
+    "area": 35.0,
+    "price": 4200000000.0,
+    "predicted_price_vnd": 4569864333.457856,
+    "district_code": "775"
+  },
+  {
+    "area": 46.5,
+    "price": 4780000000.0,
+    "predicted_price_vnd": 5717304466.747093,
+    "district_code": "767"
+  },
+  {
+    "area": 50.7,
+    "price": 4300000000.0,
+    "predicted_price_vnd": 4624002752.416016,
+    "district_code": "777"
+  },
+  {
+    "area": 55.0,
+    "price": 7700000000.0,
+    "predicted_price_vnd": 8388610106.739636,
+    "district_code": "766"
+  },
+  {
+    "area": 26.0,
+    "price": 6250000000.0,
+    "predicted_price_vnd": 5225404230.49282,
+    "district_code": "768"
+  },
+  {
+    "area": 14.5,
+    "price": 1850000000.0,
+    "predicted_price_vnd": 2389477110.770669,
+    "district_code": "778"
+  },
+  {
+    "area": 77.9,
+    "price": 12500000000.0,
+    "predicted_price_vnd": 11613807386.982708,
+    "district_code": "764"
+  },
+  {
+    "area": 30.0,
+    "price": 1650000000.0,
+    "predicted_price_vnd": 4672240905.534442,
+    "district_code": "778"
+  },
+  {
+    "area": 40.3,
+    "price": 4400000000.0,
+    "predicted_price_vnd": 4617995252.37706,
+    "district_code": "776"
+  },
+  {
+    "area": 51.8,
+    "price": 4600000000.0,
+    "predicted_price_vnd": 6489469319.554968,
+    "district_code": "769"
+  },
+  {
+    "area": 64.0,
+    "price": 11800000000.0,
+    "predicted_price_vnd": 15882052079.35559,
+    "district_code": "760"
+  },
+  {
+    "area": 77.0,
+    "price": 6200000000.0,
+    "predicted_price_vnd": 10783312733.872423,
+    "district_code": "773"
+  },
+  {
+    "area": 83.9,
+    "price": 25000000000.0,
+    "predicted_price_vnd": 24331195418.162163,
+    "district_code": "770"
+  },
+  {
+    "area": 62.0,
+    "price": 17800000000.0,
+    "predicted_price_vnd": 9357012498.67841,
+    "district_code": "778"
+  },
+  {
+    "area": 45.0,
+    "price": 5700000000.0,
+    "predicted_price_vnd": 5647338443.550484,
+    "district_code": "766"
+  },
+  {
+    "area": 54.0,
+    "price": 6850000000.0,
+    "predicted_price_vnd": 6849051943.45825,
+    "district_code": "764"
+  },
+  {
+    "area": 33.0,
+    "price": 7900000000.0,
+    "predicted_price_vnd": 5972064252.378809,
+    "district_code": "771"
+  },
+  {
+    "area": 55.0,
+    "price": 6500000000.0,
+    "predicted_price_vnd": 5326436837.828935,
+    "district_code": "769"
+  },
+  {
+    "area": 67.1,
+    "price": 4300000000.0,
+    "predicted_price_vnd": 18606116935.157597,
+    "district_code": "760"
+  },
+  {
+    "area": 18.0,
+    "price": 2900000000.0,
+    "predicted_price_vnd": 4262094253.3306136,
+    "district_code": "765"
+  },
+  {
+    "area": 55.0,
+    "price": 19900000000.0,
+    "predicted_price_vnd": 20392296493.10698,
+    "district_code": "760"
+  },
+  {
+    "area": 47.0,
+    "price": 8990000000.0,
+    "predicted_price_vnd": 8388724121.111482,
+    "district_code": "768"
+  },
+  {
+    "area": 73.5,
+    "price": 4750000000.0,
+    "predicted_price_vnd": 6185253708.88531,
+    "district_code": "769"
+  },
+  {
+    "area": 69.2,
+    "price": 19000000000.0,
+    "predicted_price_vnd": 11449322819.08945,
+    "district_code": "768"
+  },
+  {
+    "area": 88.0,
+    "price": 23000000000.0,
+    "predicted_price_vnd": 14648310305.92789,
+    "district_code": "765"
+  },
+  {
+    "area": 116.0,
+    "price": 14800000000.0,
+    "predicted_price_vnd": 13920396226.637537,
+    "district_code": "766"
+  },
+  {
+    "area": 45.0,
+    "price": 5900000000.0,
+    "predicted_price_vnd": 5398147706.123728,
+    "district_code": "767"
+  },
+  {
+    "area": 61.0,
+    "price": 4850000000.0,
+    "predicted_price_vnd": 5461234681.7538185,
+    "district_code": "769"
+  },
+  {
+    "area": 69.0,
+    "price": 8800000000.0,
+    "predicted_price_vnd": 9638998400.194942,
+    "district_code": "765"
+  },
+  {
+    "area": 22.3,
+    "price": 2950000000.0,
+    "predicted_price_vnd": 3766490151.723064,
+    "district_code": "778"
+  },
+  {
+    "area": 36.6,
+    "price": 6950000000.0,
+    "predicted_price_vnd": 6166002727.991102,
+    "district_code": "765"
+  },
+  {
+    "area": 94.0,
+    "price": 14500000000.0,
+    "predicted_price_vnd": 12129291145.382765,
+    "district_code": "766"
+  },
+  {
+    "area": 61.0,
+    "price": 5880000000.0,
+    "predicted_price_vnd": 6425509119.690041,
+    "district_code": "764"
+  },
+  {
+    "area": 77.0,
+    "price": 6550000000.0,
+    "predicted_price_vnd": 6764906223.519377,
+    "district_code": "769"
+  },
+  {
+    "area": 61.0,
+    "price": 14500000000.0,
+    "predicted_price_vnd": 10756824511.406694,
+    "district_code": "766"
+  },
+  {
+    "area": 52.0,
+    "price": 5600000000.0,
+    "predicted_price_vnd": 4881532981.976511,
+    "district_code": "769"
+  },
+  {
+    "area": 132.0,
+    "price": 10700000000.0,
+    "predicted_price_vnd": 9326413004.729342,
+    "district_code": "761"
+  },
+  {
+    "area": 63.0,
+    "price": 7990000000.0,
+    "predicted_price_vnd": 8783960899.742098,
+    "district_code": "766"
+  },
+  {
+    "area": 64.2,
+    "price": 5800000000.0,
+    "predicted_price_vnd": 6219459552.262537,
+    "district_code": "769"
+  },
+  {
+    "area": 71.5,
+    "price": 11500000000.0,
+    "predicted_price_vnd": 11130040732.787909,
+    "district_code": "766"
+  },
+  {
+    "area": 24.0,
+    "price": 3800000000.0,
+    "predicted_price_vnd": 5204757724.7916765,
+    "district_code": "774"
+  },
+  {
+    "area": 68.0,
+    "price": 13500000000.0,
+    "predicted_price_vnd": 10755608200.733736,
+    "district_code": "765"
+  },
+  {
+    "area": 54.0,
+    "price": 8200000000.0,
+    "predicted_price_vnd": 7224156219.147253,
+    "district_code": "767"
+  },
+  {
+    "area": 42.0,
+    "price": 9500000000.0,
+    "predicted_price_vnd": 8465228946.4793825,
+    "district_code": "768"
+  },
+  {
+    "area": 46.0,
+    "price": 8000000000.0,
+    "predicted_price_vnd": 10374037081.7505,
+    "district_code": "774"
+  },
+  {
+    "area": 45.0,
+    "price": 6210000000.0,
+    "predicted_price_vnd": 11040712497.25387,
+    "district_code": "771"
+  },
+  {
+    "area": 40.9,
+    "price": 5800000000.0,
+    "predicted_price_vnd": 5766442317.272176,
+    "district_code": "776"
+  },
+  {
+    "area": 115.0,
+    "price": 27000000000.0,
+    "predicted_price_vnd": 27973334900.115128,
+    "district_code": "760"
+  },
+  {
+    "area": 50.0,
+    "price": 6500000000.0,
+    "predicted_price_vnd": 5816945421.018996,
+    "district_code": "769"
+  },
+  {
+    "area": 48.0,
+    "price": 10200000000.0,
+    "predicted_price_vnd": 8835752769.65389,
+    "district_code": "765"
+  },
+  {
+    "area": 134.0,
+    "price": 19000000000.0,
+    "predicted_price_vnd": 20259409364.50614,
+    "district_code": "765"
+  },
+  {
+    "area": 47.5,
+    "price": 4200000000.0,
+    "predicted_price_vnd": 4187288437.0529695,
+    "district_code": "786"
+  },
+  {
+    "area": 40.0,
+    "price": 3950000000.0,
+    "predicted_price_vnd": 5379428133.1803,
+    "district_code": "777"
+  },
+  {
+    "area": 100.0,
+    "price": 7800000000.0,
+    "predicted_price_vnd": 9911049550.013073,
+    "district_code": "769"
+  },
+  {
+    "area": 55.0,
+    "price": 13290000000.0,
+    "predicted_price_vnd": 10716005754.306976,
+    "district_code": "774"
+  },
+  {
+    "area": 32.0,
+    "price": 5200000000.0,
+    "predicted_price_vnd": 5944676259.464925,
+    "district_code": "768"
+  },
+  {
+    "area": 50.0,
+    "price": 6600000000.0,
+    "predicted_price_vnd": 10894210274.868078,
+    "district_code": "771"
+  },
+  {
+    "area": 69.3,
+    "price": 7300000000.0,
+    "predicted_price_vnd": 8048612356.158383,
+    "district_code": "764"
+  },
+  {
+    "area": 66.0,
+    "price": 5700000000.0,
+    "predicted_price_vnd": 6689271019.2765255,
+    "district_code": "764"
+  },
+  {
+    "area": 40.0,
+    "price": 11750000000.0,
+    "predicted_price_vnd": 8436087614.548032,
+    "district_code": "770"
+  },
+  {
+    "area": 41.0,
+    "price": 7850000000.0,
+    "predicted_price_vnd": 8367858575.838139,
+    "district_code": "768"
+  },
+  {
+    "area": 49.0,
+    "price": 8000000000.0,
+    "predicted_price_vnd": 9883955230.588825,
+    "district_code": "768"
+  },
+  {
+    "area": 58.0,
+    "price": 6200000000.0,
+    "predicted_price_vnd": 10650428985.90217,
+    "district_code": "778"
+  },
+  {
+    "area": 50.0,
+    "price": 7800000000.0,
+    "predicted_price_vnd": 7361131136.264294,
+    "district_code": "776"
+  },
+  {
+    "area": 51.0,
+    "price": 7500000000.0,
+    "predicted_price_vnd": 7343619028.084788,
+    "district_code": "766"
+  },
+  {
+    "area": 37.8,
+    "price": 3600000000.0,
+    "predicted_price_vnd": 3678346811.0764747,
+    "district_code": "776"
+  },
+  {
+    "area": 119.0,
+    "price": 10500000000.0,
+    "predicted_price_vnd": 8457468923.201141,
+    "district_code": "769"
+  },
+  {
+    "area": 68.0,
+    "price": 9000000000.0,
+    "predicted_price_vnd": 7834273898.007827,
+    "district_code": "777"
+  },
+  {
+    "area": 58.0,
+    "price": 14990000000.0,
+    "predicted_price_vnd": 14887761762.820381,
+    "district_code": "771"
+  },
+  {
+    "area": 45.0,
+    "price": 3900000000.0,
+    "predicted_price_vnd": 3463821311.171055,
+    "district_code": "777"
+  },
+  {
+    "area": 47.0,
+    "price": 8500000000.0,
+    "predicted_price_vnd": 8030641342.640146,
+    "district_code": "765"
+  },
+  {
+    "area": 25.0,
+    "price": 3300000000.0,
+    "predicted_price_vnd": 4263981349.4055996,
+    "district_code": "765"
+  },
+  {
+    "area": 94.0,
+    "price": 7500000000.0,
+    "predicted_price_vnd": 15595150507.78336,
+    "district_code": "770"
+  },
+  {
+    "area": 72.0,
+    "price": 8450000000.0,
+    "predicted_price_vnd": 5886069919.393166,
+    "district_code": "761"
+  },
+  {
+    "area": 20.0,
+    "price": 5450000000.0,
+    "predicted_price_vnd": 4238999872.986898,
+    "district_code": "765"
+  },
+  {
+    "area": 67.2,
+    "price": 15500000000.0,
+    "predicted_price_vnd": 13036649660.556833,
+    "district_code": "766"
+  },
+  {
+    "area": 45.0,
+    "price": 6900000000.0,
+    "predicted_price_vnd": 6156961344.058292,
+    "district_code": "765"
+  },
+  {
+    "area": 56.0,
+    "price": 5300000000.0,
+    "predicted_price_vnd": 4790980702.440413,
+    "district_code": "777"
+  },
+  {
+    "area": 64.0,
+    "price": 6490000000.0,
+    "predicted_price_vnd": 6120046631.95835,
+    "district_code": "761"
+  },
+  {
+    "area": 51.0,
+    "price": 5200000000.0,
+    "predicted_price_vnd": 5287010761.469494,
+    "district_code": "786"
+  },
+  {
+    "area": 60.0,
+    "price": 7600000000.0,
+    "predicted_price_vnd": 10235081970.36961,
+    "district_code": "768"
+  },
+  {
+    "area": 21.0,
+    "price": 5300000000.0,
+    "predicted_price_vnd": 4465251801.749248,
+    "district_code": "768"
+  },
+  {
+    "area": 125.0,
+    "price": 34900000000.0,
+    "predicted_price_vnd": 19873060178.869843,
+    "district_code": "766"
+  },
+  {
+    "area": 104.0,
+    "price": 7300000000.0,
+    "predicted_price_vnd": 9701464784.583567,
+    "district_code": "777"
+  },
+  {
+    "area": 52.0,
+    "price": 7000000000.0,
+    "predicted_price_vnd": 6875831593.492883,
+    "district_code": "778"
+  },
+  {
+    "area": 62.0,
+    "price": 5100000000.0,
+    "predicted_price_vnd": 6497728923.602548,
+    "district_code": "777"
+  },
+  {
+    "area": 46.0,
+    "price": 6800000000.0,
+    "predicted_price_vnd": 4885649764.832321,
+    "district_code": "767"
+  },
+  {
+    "area": 117.9,
+    "price": 12000000000.0,
+    "predicted_price_vnd": 15065634154.938808,
+    "district_code": "764"
+  },
+  {
+    "area": 55.0,
+    "price": 9700000000.0,
+    "predicted_price_vnd": 9425970343.562996,
+    "district_code": "766"
+  },
+  {
+    "area": 27.0,
+    "price": 6180000000.0,
+    "predicted_price_vnd": 7239530506.565966,
+    "district_code": "771"
+  }
+]

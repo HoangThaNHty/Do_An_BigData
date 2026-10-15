@@ -1,0 +1,50 @@
+{
+  "created_at_utc": "2026-10-12T00:59:50.709816+00:00",
+  "configs": {
+    "lr": {
+      "maxIter": 80,
+      "regParam": 0.05,
+      "elasticNetParam": 0.0
+    },
+    "rf": {
+      "numTrees": 30,
+      "maxDepth": 7,
+      "maxBins": 32,
+      "minInstancesPerNode": 10,
+      "seed": 20261012
+    },
+    "gbt": {
+      "maxIter": 30,
+      "maxDepth": 5,
+      "maxBins": 32,
+      "minInstancesPerNode": 10,
+      "stepSize": 0.1,
+      "seed": 20261012
+    }
+  },
+  "feature_inputs": [
+    "property_type_name",
+    "area",
+    "bedroom_count",
+    "bathroom_count",
+    "floor_count",
+    "frontage_width",
+    "house_depth",
+    "road_width",
+    "district_code",
+    "ward_code",
+    "project_name"
+  ],
+  "selection_metric": "validation MAE in VND, per property type; ties by model ID",
+  "label": "log(price_vnd)",
+  "baseline": "district/type median total price from train, min20; type fallback",
+  "train_period": "2025-06..2025-11",
+  "validation_period": "2025-12",
+  "test_period": "2026-01..2026-03",
+  "source_core_manifest_sha256": "7ac9728d0977adb6b0b8e6a6100a4ff3d771286b50be7f625925b89729f29bcc",
+  "code_sha256": {
+    "features.py": "496af0667f34e0bec9a0e82d35ab5f53be840ec1b95e4a65b45ad77e06d4f547",
+    "train.py": "563b7c246be6867e661a7ff49250c30e2a2dc5ea2d03f88dd50c58b57ef1f4e9"
+  },
+  "cohort_status": "research_cohort_ai_reference_not_human_verified"
+}

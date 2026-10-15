@@ -1,0 +1,239 @@
+{
+  "generated_at_utc": "2026-10-11T18:05:33.466330+00:00",
+  "source_rows": 1122870,
+  "unique_source_records": 1122868,
+  "exact_duplicates_removed": 2,
+  "written_rows": 1122868,
+  "rules_version": "candidate-v2-frozen-for-evaluation",
+  "quality_version": "cross-field-v1-provisional",
+  "rules_sha256": "a2b7d760d9507f807edfbae6d414b575235ef399376581d018fda35b01a35b8e",
+  "quality_sha256": "c2487cef8313f3ff988f84d85e1567bab4e50cd57e18ffc298350c74ac20382a",
+  "dataset_revision": "6f68fe87be7577afb03e38c535bd882d242ba26d",
+  "dispositions": [
+    {
+      "disposition": "excluded_rent",
+      "property_type_name": "Căn hộ chung cư",
+      "count": 5953
+    },
+    {
+      "disposition": "excluded_rent",
+      "property_type_name": "Nhà",
+      "count": 40198
+    },
+    {
+      "disposition": "provisional_training",
+      "property_type_name": "Căn hộ chung cư",
+      "count": 134862
+    },
+    {
+      "disposition": "provisional_training",
+      "property_type_name": "Nhà",
+      "count": 53101
+    },
+    {
+      "disposition": "quarantine",
+      "property_type_name": "Căn hộ chung cư",
+      "count": 139133
+    },
+    {
+      "disposition": "quarantine",
+      "property_type_name": "Nhà",
+      "count": 749621
+    }
+  ],
+  "reason_counts": [
+    {
+      "reason": "house_land_area_unconfirmed",
+      "count": 717257
+    },
+    {
+      "reason": "transaction_uncertain",
+      "count": 297358
+    },
+    {
+      "reason": "no_parseable_total_price",
+      "count": 195134
+    },
+    {
+      "reason": "advertised_price_conflict",
+      "count": 175199
+    },
+    {
+      "reason": "invalid_source_price",
+      "count": 67514
+    },
+    {
+      "reason": "missing_district",
+      "count": 57375
+    },
+    {
+      "reason": "transaction_rent",
+      "count": 46151
+    },
+    {
+      "reason": "partial_or_unit_price_requires_review",
+      "count": 36963
+    },
+    {
+      "reason": "apartment_area_unconfirmed",
+      "count": 32960
+    },
+    {
+      "reason": "commercial_lodging_requires_review",
+      "count": 31200
+    },
+    {
+      "reason": "building_requires_review",
+      "count": 20093
+    },
+    {
+      "reason": "villa_outside_primary_scope",
+      "count": 10390
+    },
+    {
+      "reason": "additional_scope_requires_review",
+      "count": 7730
+    },
+    {
+      "reason": "ambiguous_price_format",
+      "count": 6838
+    },
+    {
+      "reason": "land_listing_requires_review",
+      "count": 3965
+    },
+    {
+      "reason": "officetel_requires_review",
+      "count": 2585
+    }
+  ],
+  "price_checks": [
+    {
+      "price_check": "advertised_price_matches",
+      "count": 745697
+    },
+    {
+      "price_check": "no_parseable_total_price",
+      "count": 195134
+    },
+    {
+      "price_check": "advertised_price_conflict",
+      "count": 175199
+    },
+    {
+      "price_check": "ambiguous_price_format",
+      "count": 6838
+    }
+  ],
+  "protected_months": [
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "published_month": "2025-06",
+      "count": 8365
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "published_month": "2025-07",
+      "count": 12148
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "published_month": "2025-08",
+      "count": 11142
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "published_month": "2025-09",
+      "count": 11691
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "published_month": "2025-10",
+      "count": 16216
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "published_month": "2025-11",
+      "count": 16130
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "published_month": "2025-12",
+      "count": 17764
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "published_month": "2026-01",
+      "count": 13054
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "published_month": "2026-02",
+      "count": 8161
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "published_month": "2026-03",
+      "count": 20191
+    },
+    {
+      "property_type_name": "Nhà",
+      "published_month": "2025-06",
+      "count": 4791
+    },
+    {
+      "property_type_name": "Nhà",
+      "published_month": "2025-07",
+      "count": 5882
+    },
+    {
+      "property_type_name": "Nhà",
+      "published_month": "2025-08",
+      "count": 5514
+    },
+    {
+      "property_type_name": "Nhà",
+      "published_month": "2025-09",
+      "count": 4965
+    },
+    {
+      "property_type_name": "Nhà",
+      "published_month": "2025-10",
+      "count": 6054
+    },
+    {
+      "property_type_name": "Nhà",
+      "published_month": "2025-11",
+      "count": 5725
+    },
+    {
+      "property_type_name": "Nhà",
+      "published_month": "2025-12",
+      "count": 6600
+    },
+    {
+      "property_type_name": "Nhà",
+      "published_month": "2026-01",
+      "count": 4110
+    },
+    {
+      "property_type_name": "Nhà",
+      "published_month": "2026-02",
+      "count": 3022
+    },
+    {
+      "property_type_name": "Nhà",
+      "published_month": "2026-03",
+      "count": 6438
+    }
+  ],
+  "identity_conflict_records": 0,
+  "validation_status": "provisional_requires_new_review",
+  "limitations": [
+    "Cross-field checks were designed after v1 evaluation; require a new independent sample.",
+    "Numeric text matching does not prove a unique asset, genuine listing, or residential scope.",
+    "No administrative boundary match, train/test split, imputation or model fitting performed.",
+    "Same-asset reposts remain for subsequent leakage analysis; only identical source records deduplicated."
+  ],
+  "elapsed_seconds": 321.76
+}

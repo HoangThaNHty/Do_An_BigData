@@ -1,0 +1,32 @@
+[
+  {
+    "split": "train",
+    "property_type_name": "căn hộ chung cư",
+    "count": 65856
+  },
+  {
+    "split": "test",
+    "property_type_name": "căn hộ chung cư",
+    "count": 33140
+  },
+  {
+    "split": "train",
+    "property_type_name": "nhà",
+    "count": 12192
+  },
+  {
+    "split": "validation",
+    "property_type_name": "căn hộ chung cư",
+    "count": 15316
+  },
+  {
+    "split": "test",
+    "property_type_name": "nhà",
+    "count": 4705
+  },
+  {
+    "split": "validation",
+    "property_type_name": "nhà",
+    "count": 2570
+  }
+]

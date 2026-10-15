@@ -1,0 +1,182 @@
+{
+  "passed": true,
+  "base": "http://127.0.0.1:3001",
+  "calls": [
+    {
+      "path": "market/search?kind=apartment&price_min=3000000000.0&price_max=4000000000.0&area_min=60&area_max=80",
+      "status": 200
+    },
+    {
+      "path": "map/explore?kind=apartment&price_min=3000000000.0&price_max=4000000000.0&area_min=60&area_max=80",
+      "status": 200
+    },
+    {
+      "path": "market/search?kind=apartment&price_min=0&price_max=1000000000000000.0&area_min=0&area_max=10000",
+      "status": 200
+    },
+    {
+      "path": "map/explore?kind=apartment&price_min=0&price_max=1000000000000000.0&area_min=0&area_max=10000",
+      "status": 200
+    },
+    {
+      "path": "market/search?kind=apartment&price_min=3000000000.0&price_max=3000000000.0&area_min=70&area_max=70",
+      "status": 200
+    },
+    {
+      "path": "map/explore?kind=apartment&price_min=3000000000.0&price_max=3000000000.0&area_min=70&area_max=70",
+      "status": 200
+    },
+    {
+      "path": "market/reference?kind=apartment&district_code=769&area=70",
+      "status": 200
+    },
+    {
+      "path": "market/reference?kind=apartment&district_code=769&area=10000",
+      "status": 200
+    },
+    {
+      "path": "models/error-examples?kind=apartment",
+      "status": 200
+    },
+    {
+      "path": "market/search?kind=house&price_min=3000000000.0&price_max=4000000000.0&area_min=60&area_max=80",
+      "status": 200
+    },
+    {
+      "path": "map/explore?kind=house&price_min=3000000000.0&price_max=4000000000.0&area_min=60&area_max=80",
+      "status": 200
+    },
+    {
+      "path": "market/search?kind=house&price_min=0&price_max=1000000000000000.0&area_min=0&area_max=10000",
+      "status": 200
+    },
+    {
+      "path": "map/explore?kind=house&price_min=0&price_max=1000000000000000.0&area_min=0&area_max=10000",
+      "status": 200
+    },
+    {
+      "path": "market/search?kind=house&price_min=3000000000.0&price_max=3000000000.0&area_min=70&area_max=70",
+      "status": 200
+    },
+    {
+      "path": "map/explore?kind=house&price_min=3000000000.0&price_max=3000000000.0&area_min=70&area_max=70",
+      "status": 200
+    },
+    {
+      "path": "market/reference?kind=house&district_code=769&area=70",
+      "status": 200
+    },
+    {
+      "path": "market/reference?kind=house&district_code=769&area=10000",
+      "status": 200
+    },
+    {
+      "path": "models/error-examples?kind=house",
+      "status": 200
+    },
+    {
+      "path": "market/search?price_min=5&price_max=3",
+      "status": 422
+    },
+    {
+      "path": "market/search?area_min=80&area_max=60",
+      "status": 422
+    },
+    {
+      "path": "market/search?price_min=-1",
+      "status": 422
+    },
+    {
+      "path": "market/search?area_max=inf",
+      "status": 422
+    },
+    {
+      "path": "market/search?kind=land",
+      "status": 422
+    },
+    {
+      "path": "market/search?month=2020-01",
+      "status": 422
+    },
+    {
+      "path": "map/explore?price_min=5&price_max=3",
+      "status": 422
+    },
+    {
+      "path": "map/explore?area_min=80&area_max=60",
+      "status": 422
+    },
+    {
+      "path": "map/explore?price_min=-1",
+      "status": 422
+    },
+    {
+      "path": "map/explore?area_max=inf",
+      "status": 422
+    },
+    {
+      "path": "map/explore?kind=land",
+      "status": 422
+    },
+    {
+      "path": "map/explore?month=2020-01",
+      "status": 422
+    },
+    {
+      "path": "market/reference?kind=house&area=0&district_code=769",
+      "status": 422
+    },
+    {
+      "path": "market/reference?kind=house&area=inf&district_code=769",
+      "status": 422
+    },
+    {
+      "path": "market/reference?kind=house&area=70&district_code=999",
+      "status": 422
+    },
+    {
+      "path": "geography/lookup?q=Quan%209",
+      "status": 200
+    },
+    {
+      "path": "geography/lookup?q=unknownxyz",
+      "status": 200
+    },
+    {
+      "path": "geography/lookup?q=Thu%20Duc",
+      "status": 200
+    },
+    {
+      "path": "method/pipeline",
+      "status": 200
+    },
+    {
+      "path": "method/check-listing",
+      "status": 200
+    },
+    {
+      "path": "method/check-listing",
+      "status": 200
+    },
+    {
+      "path": "method/check-listing",
+      "status": 200
+    },
+    {
+      "path": "method/check-listing",
+      "status": 422
+    }
+  ],
+  "count": 41,
+  "checks": [
+    "search exact Parquet counts/quartiles/inclusive bounds",
+    "map-search coherence",
+    "reference no silent widening",
+    "actual largest test absolute errors",
+    "invalid input",
+    "historical geographic lookup",
+    "manifest accounting",
+    "Spark ETL examples",
+    "frozen methodology hashes"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "base": "http://127.0.0.1:3001",
+  "external_live_tiles_skipped": true,
+  "checks": [
+    "real overview / historical scope / lookup hidden",
+    "max3 / draft-applied / shared selection / visible dialog / ESC focus return",
+    "offline basemap error/retry and 22 polygons; external live tiles explicitly skipped",
+    "actual trained inference / quoted comparison / saved snapshot / navigation / distinct next result",
+    "real test point / keyboard selector / error cases fold",
+    "3 real Spark cases / four decisions / technical details",
+    "all6 mobile no overflow / three-region mobile pair selection"
+  ],
+  "errors": []
+}

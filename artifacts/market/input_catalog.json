@@ -1,0 +1,7581 @@
+{
+  "fit_split": "train",
+  "wards": [
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "ward_code": "26968",
+      "ward_name": "4",
+      "count": 37
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "ward_code": "27619",
+      "ward_name": "Bình Hưng",
+      "count": 1188
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "ward_code": "27211",
+      "ward_name": "5",
+      "count": 126
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "ward_code": "26920",
+      "ward_name": "25",
+      "count": 241
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26806",
+      "ward_name": "Tam Phú",
+      "count": 42
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "ward_code": "26788",
+      "ward_name": "Đông Hưng Thuận",
+      "count": 143
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "ward_code": "27328",
+      "ward_name": "11",
+      "count": 123
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "ward_code": "26882",
+      "ward_name": "14",
+      "count": 113
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "ward_code": "27025",
+      "ward_name": "Phú Thọ Hòa",
+      "count": 108
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "ward_code": "27373",
+      "ward_name": "1",
+      "count": 43
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "ward_code": "26902",
+      "ward_name": "3",
+      "count": 68
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26824",
+      "ward_name": "Bình Thọ",
+      "count": 21
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "ward_code": "27253",
+      "ward_name": "16",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26836",
+      "ward_name": "Tân Phú",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "ward_code": "27622",
+      "ward_name": "Phong Phú",
+      "count": 550
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "ward_code": "27490",
+      "ward_name": "Tân Phong",
+      "count": 2552
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "ward_code": "27364",
+      "ward_name": "11",
+      "count": 611
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "ward_code": "27469",
+      "ward_name": "Tân Thuận Tây",
+      "count": 495
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "ward_code": "27232",
+      "ward_name": "10",
+      "count": 141
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "27112",
+      "ward_name": "Thạnh Mỹ Lợi",
+      "count": 894
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "ward_code": "26776",
+      "ward_name": "Tân Chánh Hiệp",
+      "count": 175
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "27109",
+      "ward_name": "Cát Lái",
+      "count": 103
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "ward_code": "27271",
+      "ward_name": "8",
+      "count": 73
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "ward_code": "27310",
+      "ward_name": "12",
+      "count": 19
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26863",
+      "ward_name": "Phước Bình",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "ward_code": "27265",
+      "ward_name": "9",
+      "count": 30
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "ward_code": "27085",
+      "ward_name": "13",
+      "count": 12
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "ward_code": "27436",
+      "ward_name": "Bình Hưng Hòa",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "ward_code": "27208",
+      "ward_name": "15",
+      "count": 409
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "27094",
+      "ward_name": "An Khánh",
+      "count": 937
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "27118",
+      "ward_name": "Thủ Thiêm",
+      "count": 638
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26848",
+      "ward_name": "Phước Long B",
+      "count": 186
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "ward_code": "27358",
+      "ward_name": "12",
+      "count": 149
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "ward_code": "26989",
+      "ward_name": "5",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "ward_code": "27367",
+      "ward_name": "2",
+      "count": 120
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "ward_code": "27037",
+      "ward_name": "Hiệp Tân",
+      "count": 132
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "ward_code": "27655",
+      "ward_name": "Phú Xuân",
+      "count": 84
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "ward_code": "26767",
+      "ward_name": "Thạnh Lộc",
+      "count": 45
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "ward_code": "27157",
+      "ward_name": "2",
+      "count": 5
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "ward_code": "27043",
+      "ward_name": "4",
+      "count": 15
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "ward_code": "26965",
+      "ward_name": "2",
+      "count": 977
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "ward_code": "27016",
+      "ward_name": "Sơn Kỳ",
+      "count": 2930
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "ward_code": "27034",
+      "ward_name": "Hòa Thạnh",
+      "count": 722
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "ward_code": "27493",
+      "ward_name": "Phú Mỹ",
+      "count": 2295
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "ward_code": "26980",
+      "ward_name": "3",
+      "count": 326
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "ward_code": "27433",
+      "ward_name": "7",
+      "count": 315
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "ward_code": "26950",
+      "ward_name": "17",
+      "count": 36
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "ward_code": "27292",
+      "ward_name": "2",
+      "count": 217
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "ward_code": "27229",
+      "ward_name": "8",
+      "count": 21
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26830",
+      "ward_name": "Long Bình",
+      "count": 33
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "ward_code": "26944",
+      "ward_name": "1",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "ward_code": "26971",
+      "ward_name": "12",
+      "count": 206
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "ward_code": "27301",
+      "ward_name": "4",
+      "count": 69
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26860",
+      "ward_name": "Long Trường",
+      "count": 12
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "ward_code": "27028",
+      "ward_name": "Phú Thạnh",
+      "count": 37
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "ward_code": "26746",
+      "ward_name": "Nguyễn Thái Bình",
+      "count": 20
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "ward_code": "27601",
+      "ward_name": "Vĩnh Lộc A",
+      "count": 58
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "ward_code": "26749",
+      "ward_name": "Phạm Ngũ Lão",
+      "count": 47
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "ward_code": "27616",
+      "ward_name": "Tân Kiên",
+      "count": 153
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "ward_code": "27424",
+      "ward_name": "6",
+      "count": 773
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "ward_code": "27430",
+      "ward_name": "16",
+      "count": 174
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "ward_code": "27457",
+      "ward_name": "Tân Tạo A",
+      "count": 148
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "ward_code": "26917",
+      "ward_name": "12",
+      "count": 87
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "ward_code": "27139",
+      "ward_name": "Võ Thị Sáu",
+      "count": 280
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "ward_code": "26941",
+      "ward_name": "2",
+      "count": 22
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "ward_code": "27184",
+      "ward_name": "1",
+      "count": 10
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "27091",
+      "ward_name": "An Phú",
+      "count": 2005
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "ward_code": "27130",
+      "ward_name": "12",
+      "count": 68
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "ward_code": "26884",
+      "ward_name": "10",
+      "count": 197
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "ward_code": "27298",
+      "ward_name": "1",
+      "count": 502
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "ward_code": "26758",
+      "ward_name": "Nguyễn Cư Trinh",
+      "count": 68
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26809",
+      "ward_name": "Hiệp Bình Phước",
+      "count": 158
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26815",
+      "ward_name": "Linh Chiểu",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "ward_code": "27286",
+      "ward_name": "3",
+      "count": 33
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "ward_code": "27454",
+      "ward_name": "Tân Tạo",
+      "count": 84
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "ward_code": "27127",
+      "ward_name": "14",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "ward_code": "27427",
+      "ward_name": "15",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "ward_code": "27382",
+      "ward_name": "7",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "ward_code": "27646",
+      "ward_name": "Phước Kiển",
+      "count": 1938
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "ward_code": "27163",
+      "ward_name": "15",
+      "count": 146
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "ward_code": "27409",
+      "ward_name": "4",
+      "count": 665
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "ward_code": "27385",
+      "ward_name": "10",
+      "count": 249
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "ward_code": "27142",
+      "ward_name": "9",
+      "count": 19
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "ward_code": "26983",
+      "ward_name": "11",
+      "count": 79
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "ward_code": "26787",
+      "ward_name": "Tân Hưng Thuận",
+      "count": 20
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "ward_code": "27334",
+      "ward_name": "5",
+      "count": 28
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "ward_code": "27076",
+      "ward_name": "15",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "ward_code": "27160",
+      "ward_name": "1",
+      "count": 15
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "ward_code": "27004",
+      "ward_name": "14",
+      "count": 199
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "ward_code": "27049",
+      "ward_name": "9",
+      "count": 964
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "ward_code": "27013",
+      "ward_name": "Tây Thạnh",
+      "count": 35
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26794",
+      "ward_name": "Linh Xuân",
+      "count": 75
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "ward_code": "27070",
+      "ward_name": "10",
+      "count": 20
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26821",
+      "ward_name": "Linh Đông",
+      "count": 18
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "ward_code": "27031",
+      "ward_name": "Phú Trung",
+      "count": 89
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "ward_code": "26734",
+      "ward_name": "Tân Định",
+      "count": 67
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "ward_code": "26752",
+      "ward_name": "Cầu Ông Lãnh",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "ward_code": "27178",
+      "ward_name": "10",
+      "count": 20
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "ward_code": "26887",
+      "ward_name": "5",
+      "count": 10
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "ward_code": "27316",
+      "ward_name": "7",
+      "count": 5
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "ward_code": "27052",
+      "ward_name": "7",
+      "count": 40
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26812",
+      "ward_name": "Hiệp Bình Chánh",
+      "count": 142
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "ward_code": "27007",
+      "ward_name": "15",
+      "count": 260
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26827",
+      "ward_name": "Trường Thọ",
+      "count": 98
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "ward_code": "27001",
+      "ward_name": "9",
+      "count": 165
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "ward_code": "27325",
+      "ward_name": "1",
+      "count": 133
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26803",
+      "ward_name": "Tam Bình",
+      "count": 65
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "ward_code": "27451",
+      "ward_name": "Bình Trị Đông B",
+      "count": 14
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "ward_code": "26875",
+      "ward_name": "17",
+      "count": 28
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "ward_code": "27187",
+      "ward_name": "8",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "ward_code": "26779",
+      "ward_name": "An Phú Đông",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "ward_code": "26974",
+      "ward_name": "13",
+      "count": 308
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "ward_code": "27259",
+      "ward_name": "13",
+      "count": 404
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "ward_code": "27073",
+      "ward_name": "11",
+      "count": 130
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "ward_code": "27349",
+      "ward_name": "13",
+      "count": 11
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "ward_code": "27172",
+      "ward_name": "12",
+      "count": 176
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "ward_code": "26737",
+      "ward_name": "Đa Kao",
+      "count": 455
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "ward_code": "26914",
+      "ward_name": "26",
+      "count": 186
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "ward_code": "26977",
+      "ward_name": "1",
+      "count": 6
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "ward_code": "27304",
+      "ward_name": "9",
+      "count": 69
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "ward_code": "27046",
+      "ward_name": "5",
+      "count": 41
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "ward_code": "27445",
+      "ward_name": "Bình Trị Đông",
+      "count": 38
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "ward_code": "27460",
+      "ward_name": "An Lạc",
+      "count": 867
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "ward_code": "27484",
+      "ward_name": "Phú Thuận",
+      "count": 1545
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "ward_code": "27346",
+      "ward_name": "14",
+      "count": 131
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "ward_code": "27169",
+      "ward_name": "14",
+      "count": 507
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "ward_code": "26761",
+      "ward_name": "Cầu Kho",
+      "count": 103
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "ward_code": "27595",
+      "ward_name": "Tân Túc",
+      "count": 396
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "ward_code": "27040",
+      "ward_name": "Tân Thới Hòa",
+      "count": 173
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "ward_code": "27058",
+      "ward_name": "1",
+      "count": 63
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "ward_code": "27643",
+      "ward_name": "Nhà Bè",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "ward_code": "26773",
+      "ward_name": "Thới An",
+      "count": 51
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "ward_code": "27625",
+      "ward_name": "An Phú Tây",
+      "count": 42
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26800",
+      "ward_name": "Linh Trung",
+      "count": 11
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "ward_code": "26992",
+      "ward_name": "10",
+      "count": 358
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "27100",
+      "ward_name": "Bình Trưng Tây",
+      "count": 373
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "ward_code": "27277",
+      "ward_name": "18",
+      "count": 234
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "ward_code": "26740",
+      "ward_name": "Bến Nghé",
+      "count": 955
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "ward_code": "27421",
+      "ward_name": "14",
+      "count": 174
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "ward_code": "26764",
+      "ward_name": "Thạnh Xuân",
+      "count": 141
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "ward_code": "26890",
+      "ward_name": "1",
+      "count": 87
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "ward_code": "26743",
+      "ward_name": "Bến Thành",
+      "count": 26
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "ward_code": "26923",
+      "ward_name": "5",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "ward_code": "27604",
+      "ward_name": "Vĩnh Lộc B",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "ward_code": "27487",
+      "ward_name": "Tân Phú",
+      "count": 5312
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26833",
+      "ward_name": "Long Thạnh Mỹ",
+      "count": 1767
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "ward_code": "27238",
+      "ward_name": "7",
+      "count": 34
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "ward_code": "27418",
+      "ward_name": "5",
+      "count": 408
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "ward_code": "27220",
+      "ward_name": "3",
+      "count": 242
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "27115",
+      "ward_name": "An Lợi Đông",
+      "count": 219
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "ward_code": "27010",
+      "ward_name": "Tân Sơn Nhì",
+      "count": 163
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "27097",
+      "ward_name": "Bình Trưng Đông",
+      "count": 165
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "ward_code": "27481",
+      "ward_name": "Tân Quy",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "ward_code": "27466",
+      "ward_name": "Tân Thuận Đông",
+      "count": 158
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "ward_code": "27448",
+      "ward_name": "Bình Trị Đông A",
+      "count": 24
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "ward_code": "26899",
+      "ward_name": "11",
+      "count": 40
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "ward_code": "26956",
+      "ward_name": "22",
+      "count": 1763
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "ward_code": "26872",
+      "ward_name": "15",
+      "count": 30
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "ward_code": "27064",
+      "ward_name": "8",
+      "count": 342
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "ward_code": "26791",
+      "ward_name": "Tân Thới Nhất",
+      "count": 486
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "ward_code": "27190",
+      "ward_name": "2",
+      "count": 139
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "ward_code": "26876",
+      "ward_name": "6",
+      "count": 30
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26797",
+      "ward_name": "Bình Chiểu",
+      "count": 48
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26839",
+      "ward_name": "Hiệp Phú",
+      "count": 13
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "ward_code": "27478",
+      "ward_name": "Bình Thuận",
+      "count": 69
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "ward_code": "26911",
+      "ward_name": "27",
+      "count": 12
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "ward_code": "26782",
+      "ward_name": "Tân Thới Hiệp",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "ward_code": "26755",
+      "ward_name": "Cô Giang",
+      "count": 236
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26866",
+      "ward_name": "Phú Hữu",
+      "count": 199
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "ward_code": "26785",
+      "ward_name": "Trung Mỹ Tây",
+      "count": 52
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26851",
+      "ward_name": "Phước Long A",
+      "count": 25
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "787",
+      "ward_code": "27679",
+      "ward_name": "Long Hòa",
+      "count": 10
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "ward_code": "27283",
+      "ward_name": "4",
+      "count": 29
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "ward_code": "26908",
+      "ward_name": "11",
+      "count": 54
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "ward_code": "27307",
+      "ward_name": "2",
+      "count": 22
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "ward_code": "27331",
+      "ward_name": "14",
+      "count": 49
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "27088",
+      "ward_name": "Thảo Điền",
+      "count": 856
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "ward_code": "27022",
+      "ward_name": "Tân Thành",
+      "count": 566
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "ward_code": "27463",
+      "ward_name": "An Lạc A",
+      "count": 441
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26818",
+      "ward_name": "Linh Tây",
+      "count": 105
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "ward_code": "27475",
+      "ward_name": "Tân Hưng",
+      "count": 832
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "ward_code": "26770",
+      "ward_name": "Hiệp Thành",
+      "count": 113
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "ward_code": "26905",
+      "ward_name": "13",
+      "count": 51
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "ward_code": "27652",
+      "ward_name": "Nhơn Đức",
+      "count": 40
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "ward_code": "27343",
+      "ward_name": "13",
+      "count": 13
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "ward_code": "27214",
+      "ward_name": "14",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "ward_code": "27472",
+      "ward_name": "Tân Kiểng",
+      "count": 53
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "ward_code": "26953",
+      "ward_name": "19",
+      "count": 76
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "ward_code": "27019",
+      "ward_name": "Tân Quý",
+      "count": 40
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "ward_code": "27637",
+      "ward_name": "Bình Chánh",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "ward_code": "27133",
+      "ward_name": "11",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "ward_code": "26926",
+      "ward_name": "7",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "ward_code": "26986",
+      "ward_name": "7",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "ward_code": "27151",
+      "ward_name": "5",
+      "count": 5
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26842",
+      "ward_name": "Tăng Nhơn Phú A",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "ward_code": "27226",
+      "ward_name": "11",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "ward_code": "27661",
+      "ward_name": "Hiệp Phước",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "ward_code": "26878",
+      "ward_name": "16",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "784",
+      "ward_code": "27583",
+      "ward_name": "Xuân Thới Đông",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "ward_code": "27166",
+      "ward_name": "13",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26854",
+      "ward_name": "Trường Thạnh",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "ward_code": "27403",
+      "ward_name": "Hưng Phú",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26821",
+      "ward_name": "Linh Đông",
+      "count": 168
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "ward_code": "26977",
+      "ward_name": "1",
+      "count": 92
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "ward_code": "27478",
+      "ward_name": "Bình Thuận",
+      "count": 36
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "775",
+      "ward_code": "27385",
+      "ward_name": "10",
+      "count": 22
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "776",
+      "ward_code": "27418",
+      "ward_name": "5",
+      "count": 23
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "775",
+      "ward_code": "27349",
+      "ward_name": "13",
+      "count": 9
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "760",
+      "ward_code": "26752",
+      "ward_name": "Cầu Ông Lãnh",
+      "count": 13
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "773",
+      "ward_code": "27271",
+      "ward_name": "8",
+      "count": 15
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "784",
+      "ward_code": "27568",
+      "ward_name": "Đông Thạnh",
+      "count": 11
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "784",
+      "ward_code": "27592",
+      "ward_name": "Bà Điểm",
+      "count": 8
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "760",
+      "ward_code": "26734",
+      "ward_name": "Tân Định",
+      "count": 130
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "ward_code": "26770",
+      "ward_name": "Hiệp Thành",
+      "count": 160
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "ward_code": "26917",
+      "ward_name": "12",
+      "count": 171
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26800",
+      "ward_name": "Linh Trung",
+      "count": 150
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "ward_code": "26953",
+      "ward_name": "19",
+      "count": 32
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "ward_code": "27466",
+      "ward_name": "Tân Thuận Đông",
+      "count": 43
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "ward_code": "26785",
+      "ward_name": "Trung Mỹ Tây",
+      "count": 33
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "ward_code": "26995",
+      "ward_name": "6",
+      "count": 39
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "ward_code": "26872",
+      "ward_name": "15",
+      "count": 37
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "783",
+      "ward_code": "27502",
+      "ward_name": "An Phú",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26860",
+      "ward_name": "Long Trường",
+      "count": 39
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "787",
+      "ward_code": "27679",
+      "ward_name": "Long Hòa",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26839",
+      "ward_name": "Hiệp Phú",
+      "count": 44
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "ward_code": "26926",
+      "ward_name": "7",
+      "count": 94
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "ward_code": "26890",
+      "ward_name": "1",
+      "count": 56
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "ward_code": "26962",
+      "ward_name": "28",
+      "count": 4
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "774",
+      "ward_code": "27325",
+      "ward_name": "1",
+      "count": 5
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "ward_code": "27481",
+      "ward_name": "Tân Quy",
+      "count": 54
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "ward_code": "26950",
+      "ward_name": "17",
+      "count": 64
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26812",
+      "ward_name": "Hiệp Bình Chánh",
+      "count": 218
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "777",
+      "ward_code": "27451",
+      "ward_name": "Bình Trị Đông B",
+      "count": 19
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "784",
+      "ward_code": "27583",
+      "ward_name": "Xuân Thới Đông",
+      "count": 5
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "ward_code": "26764",
+      "ward_name": "Thạnh Xuân",
+      "count": 67
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "770",
+      "ward_code": "27130",
+      "ward_name": "12",
+      "count": 64
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "776",
+      "ward_code": "27424",
+      "ward_name": "6",
+      "count": 14
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "767",
+      "ward_code": "27022",
+      "ward_name": "Tân Thành",
+      "count": 25
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "ward_code": "26941",
+      "ward_name": "2",
+      "count": 30
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "770",
+      "ward_code": "27148",
+      "ward_name": "4",
+      "count": 31
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "ward_code": "26971",
+      "ward_name": "12",
+      "count": 185
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "ward_code": "26992",
+      "ward_name": "10",
+      "count": 187
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "ward_code": "26788",
+      "ward_name": "Đông Hưng Thuận",
+      "count": 46
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "777",
+      "ward_code": "27445",
+      "ward_name": "Bình Trị Đông",
+      "count": 59
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "770",
+      "ward_code": "27154",
+      "ward_name": "3",
+      "count": 20
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "760",
+      "ward_code": "26737",
+      "ward_name": "Đa Kao",
+      "count": 83
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "773",
+      "ward_code": "27259",
+      "ward_name": "13",
+      "count": 10
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26857",
+      "ward_name": "Long Phước",
+      "count": 17
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "770",
+      "ward_code": "27151",
+      "ward_name": "5",
+      "count": 25
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "771",
+      "ward_code": "27202",
+      "ward_name": "6",
+      "count": 5
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "760",
+      "ward_code": "26746",
+      "ward_name": "Nguyễn Thái Bình",
+      "count": 14
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26836",
+      "ward_name": "Tân Phú",
+      "count": 6
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "777",
+      "ward_code": "27463",
+      "ward_name": "An Lạc A",
+      "count": 4
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "786",
+      "ward_code": "27646",
+      "ward_name": "Phước Kiển",
+      "count": 12
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "ward_code": "26857",
+      "ward_name": "Long Phước",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "ward_code": "26905",
+      "ward_name": "13",
+      "count": 212
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26806",
+      "ward_name": "Tam Phú",
+      "count": 28
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "ward_code": "27475",
+      "ward_name": "Tân Hưng",
+      "count": 104
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "771",
+      "ward_code": "27187",
+      "ward_name": "8",
+      "count": 23
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "ward_code": "26782",
+      "ward_name": "Tân Thới Hiệp",
+      "count": 77
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "ward_code": "27487",
+      "ward_name": "Tân Phú",
+      "count": 41
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "768",
+      "ward_code": "27061",
+      "ward_name": "2",
+      "count": 68
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "770",
+      "ward_code": "27127",
+      "ward_name": "14",
+      "count": 43
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26833",
+      "ward_name": "Long Thạnh Mỹ",
+      "count": 19
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "784",
+      "ward_code": "27562",
+      "ward_name": "Tân Hiệp",
+      "count": 6
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "776",
+      "ward_code": "27421",
+      "ward_name": "14",
+      "count": 5
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "775",
+      "ward_code": "27352",
+      "ward_name": "9",
+      "count": 10
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "ward_code": "27004",
+      "ward_name": "14",
+      "count": 222
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "768",
+      "ward_code": "27085",
+      "ward_name": "13",
+      "count": 81
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "767",
+      "ward_code": "27031",
+      "ward_name": "Phú Trung",
+      "count": 63
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "ward_code": "26980",
+      "ward_name": "3",
+      "count": 64
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26818",
+      "ward_name": "Linh Tây",
+      "count": 49
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "772",
+      "ward_code": "27220",
+      "ward_name": "3",
+      "count": 16
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "ward_code": "26898",
+      "ward_name": "8",
+      "count": 66
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26803",
+      "ward_name": "Tam Bình",
+      "count": 27
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "774",
+      "ward_code": "27343",
+      "ward_name": "13",
+      "count": 3
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "784",
+      "ward_code": "27577",
+      "ward_name": "Xuân Thới Sơn",
+      "count": 5
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "785",
+      "ward_code": "27631",
+      "ward_name": "Đa Phước",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26863",
+      "ward_name": "Phước Bình",
+      "count": 14
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "771",
+      "ward_code": "27193",
+      "ward_name": "4",
+      "count": 16
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "773",
+      "ward_code": "27298",
+      "ward_name": "1",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "ward_code": "26962",
+      "ward_name": "28",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26815",
+      "ward_name": "Linh Chiểu",
+      "count": 134
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "773",
+      "ward_code": "27283",
+      "ward_name": "4",
+      "count": 78
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "768",
+      "ward_code": "27070",
+      "ward_name": "10",
+      "count": 71
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "ward_code": "26998",
+      "ward_name": "8",
+      "count": 66
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "768",
+      "ward_code": "27058",
+      "ward_name": "1",
+      "count": 59
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "ward_code": "26989",
+      "ward_name": "5",
+      "count": 91
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "ward_code": "27493",
+      "ward_name": "Phú Mỹ",
+      "count": 30
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "ward_code": "26902",
+      "ward_name": "3",
+      "count": 75
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "760",
+      "ward_code": "26740",
+      "ward_name": "Bến Nghé",
+      "count": 14
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "27112",
+      "ward_name": "Thạnh Mỹ Lợi",
+      "count": 10
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "774",
+      "ward_code": "27304",
+      "ward_name": "9",
+      "count": 11
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "ward_code": "26908",
+      "ward_name": "11",
+      "count": 214
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "786",
+      "ward_code": "27643",
+      "ward_name": "Nhà Bè",
+      "count": 67
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "775",
+      "ward_code": "27364",
+      "ward_name": "11",
+      "count": 18
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26824",
+      "ward_name": "Bình Thọ",
+      "count": 38
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "771",
+      "ward_code": "27169",
+      "ward_name": "14",
+      "count": 64
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "777",
+      "ward_code": "27448",
+      "ward_name": "Bình Trị Đông A",
+      "count": 57
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "760",
+      "ward_code": "26749",
+      "ward_name": "Phạm Ngũ Lão",
+      "count": 11
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "773",
+      "ward_code": "27286",
+      "ward_name": "3",
+      "count": 17
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "784",
+      "ward_code": "27571",
+      "ward_name": "Tân Thới Nhì",
+      "count": 6
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "760",
+      "ward_code": "26743",
+      "ward_name": "Bến Thành",
+      "count": 26
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "772",
+      "ward_code": "27247",
+      "ward_name": "1",
+      "count": 5
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "ward_code": "27484",
+      "ward_name": "Phú Thuận",
+      "count": 66
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26827",
+      "ward_name": "Trường Thọ",
+      "count": 226
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "768",
+      "ward_code": "27076",
+      "ward_name": "15",
+      "count": 109
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "ward_code": "26983",
+      "ward_name": "11",
+      "count": 111
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "ward_code": "26882",
+      "ward_name": "14",
+      "count": 116
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "783",
+      "ward_code": "27547",
+      "ward_name": "Tân Thạnh Đông",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "767",
+      "ward_code": "27025",
+      "ward_name": "Phú Thọ Hòa",
+      "count": 82
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26797",
+      "ward_name": "Bình Chiểu",
+      "count": 26
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "772",
+      "ward_code": "27253",
+      "ward_name": "16",
+      "count": 5
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "760",
+      "ward_code": "26755",
+      "ward_name": "Cô Giang",
+      "count": 4
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "777",
+      "ward_code": "27460",
+      "ward_name": "An Lạc",
+      "count": 31
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "ward_code": "26876",
+      "ward_name": "6",
+      "count": 86
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "ward_code": "26923",
+      "ward_name": "5",
+      "count": 104
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "768",
+      "ward_code": "27073",
+      "ward_name": "11",
+      "count": 95
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "ward_code": "26881",
+      "ward_name": "12",
+      "count": 95
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "ward_code": "26767",
+      "ward_name": "Thạnh Lộc",
+      "count": 46
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "ward_code": "26944",
+      "ward_name": "1",
+      "count": 65
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "ward_code": "26974",
+      "ward_name": "13",
+      "count": 202
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "771",
+      "ward_code": "27172",
+      "ward_name": "12",
+      "count": 85
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26809",
+      "ward_name": "Hiệp Bình Phước",
+      "count": 95
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "ward_code": "27472",
+      "ward_name": "Tân Kiểng",
+      "count": 47
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "784",
+      "ward_code": "27574",
+      "ward_name": "Thới Tam Thôn",
+      "count": 28
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "767",
+      "ward_code": "27028",
+      "ward_name": "Phú Thạnh",
+      "count": 42
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "ward_code": "26986",
+      "ward_name": "7",
+      "count": 60
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "772",
+      "ward_code": "27208",
+      "ward_name": "15",
+      "count": 16
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "770",
+      "ward_code": "27139",
+      "ward_name": "Võ Thị Sáu",
+      "count": 75
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "786",
+      "ward_code": "27652",
+      "ward_name": "Nhơn Đức",
+      "count": 11
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "773",
+      "ward_code": "27295",
+      "ward_name": "15",
+      "count": 20
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "777",
+      "ward_code": "27454",
+      "ward_name": "Tân Tạo",
+      "count": 21
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "772",
+      "ward_code": "27211",
+      "ward_name": "5",
+      "count": 21
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "772",
+      "ward_code": "27214",
+      "ward_name": "14",
+      "count": 7
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26794",
+      "ward_name": "Linh Xuân",
+      "count": 124
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26842",
+      "ward_name": "Tăng Nhơn Phú A",
+      "count": 68
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "786",
+      "ward_code": "27655",
+      "ward_name": "Phú Xuân",
+      "count": 48
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "27094",
+      "ward_name": "An Khánh",
+      "count": 40
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "771",
+      "ward_code": "27166",
+      "ward_name": "13",
+      "count": 39
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "ward_code": "26929",
+      "ward_name": "14",
+      "count": 27
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "770",
+      "ward_code": "27157",
+      "ward_name": "2",
+      "count": 16
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "760",
+      "ward_code": "26761",
+      "ward_name": "Cầu Kho",
+      "count": 24
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "784",
+      "ward_code": "27589",
+      "ward_name": "Xuân Thới Thượng",
+      "count": 9
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26851",
+      "ward_name": "Phước Long A",
+      "count": 19
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "ward_code": "26920",
+      "ward_name": "25",
+      "count": 107
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "768",
+      "ward_code": "27052",
+      "ward_name": "7",
+      "count": 122
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "ward_code": "26956",
+      "ward_name": "22",
+      "count": 46
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "767",
+      "ward_code": "27040",
+      "ward_name": "Tân Thới Hòa",
+      "count": 28
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "770",
+      "ward_code": "27133",
+      "ward_name": "11",
+      "count": 55
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "ward_code": "27469",
+      "ward_name": "Tân Thuận Tây",
+      "count": 55
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "ward_code": "26887",
+      "ward_name": "5",
+      "count": 91
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "ward_code": "26878",
+      "ward_name": "16",
+      "count": 93
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "771",
+      "ward_code": "27178",
+      "ward_name": "10",
+      "count": 22
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "760",
+      "ward_code": "26758",
+      "ward_name": "Nguyễn Cư Trinh",
+      "count": 56
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "773",
+      "ward_code": "27265",
+      "ward_name": "9",
+      "count": 15
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "767",
+      "ward_code": "27016",
+      "ward_name": "Sơn Kỳ",
+      "count": 54
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "774",
+      "ward_code": "27307",
+      "ward_name": "2",
+      "count": 24
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26854",
+      "ward_name": "Trường Thạnh",
+      "count": 21
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "767",
+      "ward_code": "27034",
+      "ward_name": "Hòa Thạnh",
+      "count": 21
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "771",
+      "ward_code": "27163",
+      "ward_name": "15",
+      "count": 37
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "ward_code": "26911",
+      "ward_name": "27",
+      "count": 9
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "777",
+      "ward_code": "27457",
+      "ward_name": "Tân Tạo A",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "785",
+      "ward_code": "27595",
+      "ward_name": "Tân Túc",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "ward_code": "27490",
+      "ward_name": "Tân Phong",
+      "count": 18
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "785",
+      "ward_code": "27601",
+      "ward_name": "Vĩnh Lộc A",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "ward_code": "27181",
+      "ward_name": "9",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "ward_code": "26965",
+      "ward_name": "2",
+      "count": 145
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "770",
+      "ward_code": "27142",
+      "ward_name": "9",
+      "count": 27
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "27088",
+      "ward_name": "Thảo Điền",
+      "count": 51
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "767",
+      "ward_code": "27010",
+      "ward_name": "Tân Sơn Nhì",
+      "count": 76
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26845",
+      "ward_name": "Tăng Nhơn Phú B",
+      "count": 77
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "768",
+      "ward_code": "27046",
+      "ward_name": "5",
+      "count": 130
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "786",
+      "ward_code": "27658",
+      "ward_name": "Long Thới",
+      "count": 5
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "783",
+      "ward_code": "27532",
+      "ward_name": "Tân An Hội",
+      "count": 8
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "768",
+      "ward_code": "27049",
+      "ward_name": "9",
+      "count": 50
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "768",
+      "ward_code": "27043",
+      "ward_name": "4",
+      "count": 55
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "776",
+      "ward_code": "27427",
+      "ward_name": "15",
+      "count": 12
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "27109",
+      "ward_name": "Cát Lái",
+      "count": 12
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "785",
+      "ward_code": "27619",
+      "ward_name": "Bình Hưng",
+      "count": 9
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "783",
+      "ward_code": "27556",
+      "ward_name": "Tân Thông Hội",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "ward_code": "27001",
+      "ward_name": "9",
+      "count": 99
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "783",
+      "ward_code": "27553",
+      "ward_name": "Tân Phú Trung",
+      "count": 16
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "767",
+      "ward_code": "27019",
+      "ward_name": "Tân Quý",
+      "count": 97
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "777",
+      "ward_code": "27436",
+      "ward_name": "Bình Hưng Hòa",
+      "count": 135
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26866",
+      "ward_name": "Phú Hữu",
+      "count": 23
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26830",
+      "ward_name": "Long Bình",
+      "count": 24
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "775",
+      "ward_code": "27346",
+      "ward_name": "14",
+      "count": 16
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "775",
+      "ward_code": "27358",
+      "ward_name": "12",
+      "count": 17
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "773",
+      "ward_code": "27292",
+      "ward_name": "2",
+      "count": 5
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "27097",
+      "ward_name": "Bình Trưng Đông",
+      "count": 11
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "786",
+      "ward_code": "27661",
+      "ward_name": "Hiệp Phước",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "783",
+      "ward_code": "27511",
+      "ward_name": "Nhuận Đức",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "ward_code": "26881",
+      "ward_name": "12",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "ward_code": "26773",
+      "ward_name": "Thới An",
+      "count": 99
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "ward_code": "26776",
+      "ward_name": "Tân Chánh Hiệp",
+      "count": 127
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "768",
+      "ward_code": "27064",
+      "ward_name": "8",
+      "count": 45
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "772",
+      "ward_code": "27226",
+      "ward_name": "11",
+      "count": 7
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "767",
+      "ward_code": "27013",
+      "ward_name": "Tây Thạnh",
+      "count": 47
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "776",
+      "ward_code": "27433",
+      "ward_name": "7",
+      "count": 11
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "773",
+      "ward_code": "27289",
+      "ward_name": "16",
+      "count": 26
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "ward_code": "26791",
+      "ward_name": "Tân Thới Nhất",
+      "count": 39
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "ward_code": "26884",
+      "ward_name": "10",
+      "count": 73
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "774",
+      "ward_code": "27301",
+      "ward_name": "4",
+      "count": 5
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "771",
+      "ward_code": "27181",
+      "ward_name": "9",
+      "count": 17
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "771",
+      "ward_code": "27184",
+      "ward_name": "1",
+      "count": 13
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "767",
+      "ward_code": "27037",
+      "ward_name": "Hiệp Tân",
+      "count": 27
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "772",
+      "ward_code": "27232",
+      "ward_name": "10",
+      "count": 6
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "771",
+      "ward_code": "27190",
+      "ward_name": "2",
+      "count": 15
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "ward_code": "26787",
+      "ward_name": "Tân Hưng Thuận",
+      "count": 13
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "774",
+      "ward_code": "27310",
+      "ward_name": "12",
+      "count": 10
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "772",
+      "ward_code": "27229",
+      "ward_name": "8",
+      "count": 13
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "ward_code": "27061",
+      "ward_name": "2",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "ward_code": "26899",
+      "ward_name": "11",
+      "count": 129
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "ward_code": "26968",
+      "ward_name": "4",
+      "count": 237
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "ward_code": "26914",
+      "ward_name": "26",
+      "count": 81
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "ward_code": "27007",
+      "ward_name": "15",
+      "count": 84
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "773",
+      "ward_code": "27277",
+      "ward_name": "18",
+      "count": 17
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "27091",
+      "ward_name": "An Phú",
+      "count": 52
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "785",
+      "ward_code": "27622",
+      "ward_name": "Phong Phú",
+      "count": 6
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "770",
+      "ward_code": "27160",
+      "ward_name": "1",
+      "count": 21
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "26848",
+      "ward_name": "Phước Long B",
+      "count": 62
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "774",
+      "ward_code": "27334",
+      "ward_name": "5",
+      "count": 7
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "ward_code": "27100",
+      "ward_name": "Bình Trưng Tây",
+      "count": 47
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "ward_code": "26875",
+      "ward_name": "17",
+      "count": 85
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "776",
+      "ward_code": "27409",
+      "ward_name": "4",
+      "count": 32
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "ward_code": "26779",
+      "ward_name": "An Phú Đông",
+      "count": 33
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "776",
+      "ward_code": "27430",
+      "ward_name": "16",
+      "count": 7
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "784",
+      "ward_code": "27586",
+      "ward_name": "Trung Chánh",
+      "count": 8
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "785",
+      "ward_code": "27637",
+      "ward_name": "Bình Chánh",
+      "count": 7
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "785",
+      "ward_code": "27598",
+      "ward_name": "Phạm Văn Hai",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "775",
+      "ward_code": "27376",
+      "ward_name": "8",
+      "count": 4
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "785",
+      "ward_code": "27634",
+      "ward_name": "Tân Quý Tây",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "774",
+      "ward_code": "27316",
+      "ward_name": "7",
+      "count": 9
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "785",
+      "ward_code": "27628",
+      "ward_name": "Hưng Long",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "775",
+      "ward_code": "27373",
+      "ward_name": "1",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "784",
+      "ward_code": "27580",
+      "ward_name": "Tân Xuân",
+      "count": 5
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "783",
+      "ward_code": "27529",
+      "ward_name": "Phước Hiệp",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "783",
+      "ward_code": "27550",
+      "ward_name": "Bình Mỹ",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "785",
+      "ward_code": "27616",
+      "ward_name": "Tân Kiên",
+      "count": 3
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "783",
+      "ward_code": "27514",
+      "ward_name": "Phạm Văn Cội",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "774",
+      "ward_code": "27328",
+      "ward_name": "11",
+      "count": 5
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "784",
+      "ward_code": "27559",
+      "ward_name": "Hóc Môn",
+      "count": 3
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "785",
+      "ward_code": "27610",
+      "ward_name": "Lê Minh Xuân",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "785",
+      "ward_code": "27604",
+      "ward_name": "Vĩnh Lộc B",
+      "count": 3
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "775",
+      "ward_code": "27382",
+      "ward_name": "7",
+      "count": 1
+    }
+  ],
+  "projects": [
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Eaton Park Residence",
+      "count": 168
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Lumiere Boulevard",
+      "count": 298
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "The Manor HCM",
+      "count": 89
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "Bàu Cát II",
+      "count": 342
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Sky 89",
+      "count": 150
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "project_name": "Căn hộ Him Lam Chợ Lớn",
+      "count": 315
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Green Star Sky Garden",
+      "count": 793
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "project_name": "Rivera Park Sài Gòn",
+      "count": 164
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "EHome 3",
+      "count": 53
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Căn hộ Tara Residence (Tên khác Chung cư Song Ngọc)",
+      "count": 362
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Diamond Riverside",
+      "count": 74
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Sunrise City View",
+      "count": 72
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Thái An Apartment",
+      "count": 140
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Khu căn hộ Long Phụng Apartment",
+      "count": 68
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Garden Court 1",
+      "count": 42
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Dream Home",
+      "count": 14
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Cantavil An Phú - Cantavil Premier",
+      "count": 152
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "project_name": "Khu căn hộ Viva Riverside",
+      "count": 212
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Lavida Plus",
+      "count": 418
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Valeo Đầm Sen",
+      "count": 50
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "8X Thái An",
+      "count": 23
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Docklands Sài Gòn",
+      "count": 43
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Chung cư Khang Phú",
+      "count": 50
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Chung cư Miếu Nổi",
+      "count": 49
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "Sky Center",
+      "count": 133
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Căn hộ Khang Gia Gò Vấp",
+      "count": 34
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "M-One Nam Sài Gòn",
+      "count": 38
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "Chung cư 203 Nguyễn Trãi",
+      "count": 17
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Cao Ốc Căn Hộ H2-Hoàng Diệu",
+      "count": 23
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "Tân Phước Plaza",
+      "count": 24
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Riverpark Residence",
+      "count": 77
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Ascent",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Blue Sky Tower (HQC Bình Trưng Đông)",
+      "count": 22
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Hồng Lĩnh Plaza",
+      "count": 5
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Saigonres Plaza",
+      "count": 20
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Lan Phương MHBR Tower",
+      "count": 5
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Garden Court 2",
+      "count": 31
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "TDH Trường Thọ",
+      "count": 12
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Khang Gia Tân Hương (Lucky Apartment)",
+      "count": 5
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Moonlight Avenue",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Triều An Tower",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "project_name": "Khu căn hộ Bình Phú",
+      "count": 6
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Park Vista",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "project_name": "Căn hộ Lakai",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Saigon Intela",
+      "count": 109
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Star Hill",
+      "count": 148
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Empire City Thủ Thiêm",
+      "count": 242
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Lavita Garden",
+      "count": 56
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "The PegaSuite",
+      "count": 223
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Galaxy 9",
+      "count": 187
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "MT Eastmark City",
+      "count": 210
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "V-Star",
+      "count": 31
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "Vinhomes Golden River",
+      "count": 574
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "The Grand Manhattan",
+      "count": 84
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Happy One Sora",
+      "count": 34
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Riverside Residence",
+      "count": 359
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Precia",
+      "count": 67
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Thủ Thiêm Zeit River",
+      "count": 138
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "project_name": "The Western Capital",
+      "count": 121
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "Cộng Hòa Plaza",
+      "count": 133
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Conic Riverside",
+      "count": 119
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Sun Avenue",
+      "count": 431
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "The Tresor Quận 4",
+      "count": 185
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "Chung cư Phúc Yên",
+      "count": 160
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "787",
+      "project_name": "Vinhomes Green Paradise",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Samland Giai Việt",
+      "count": 99
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "CTL Tower",
+      "count": 33
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Căn hộ Mỹ Khánh 2",
+      "count": 101
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Masteri Grand View (The Global City)",
+      "count": 43
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "Tòa Nhà Horizon",
+      "count": 57
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Chung cư Bộ Công An",
+      "count": 26
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Căn hộ Orient Apartment",
+      "count": 38
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Căn hộ Nhất Lan",
+      "count": 26
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Khu căn hộ IDICO Tân Phú",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "The ParkLand",
+      "count": 12
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Masteri M-one Gò Vấp",
+      "count": 37
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "project_name": "PN-Techcons",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Krista",
+      "count": 31
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Sài Gòn Gateway",
+      "count": 17
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Samland River View",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Khang Điền Bình Chánh",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Chung cư Z751 Hà Đô",
+      "count": 17
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Khu dân cư Greenlife - 13C",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Alta Height",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "project_name": "Chung cư 107 Trương Định",
+      "count": 6
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "project_name": "Screc Tower",
+      "count": 61
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Ascentia",
+      "count": 175
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "The Botanica",
+      "count": 201
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Sunwah Pearl",
+      "count": 341
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Sunrise Riverside Nhà Bè",
+      "count": 510
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "Central Plaza",
+      "count": 318
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Topaz City (tên cũ Elys Garden)",
+      "count": 233
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Cao ốc Mỹ Khang",
+      "count": 74
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Citrine Apartment",
+      "count": 12
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Grand View",
+      "count": 85
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Ruby Precinct - Celadon City",
+      "count": 338
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Victoria Village",
+      "count": 201
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Conic Đông Nam Á",
+      "count": 28
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "Central Garden",
+      "count": 145
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Khu căn hộ Grand Riverside",
+      "count": 99
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Khu căn hộ cao cấp Cảnh Viên 2",
+      "count": 32
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Citizen Trung Sơn (Citizen TS)",
+      "count": 25
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Topaz Home",
+      "count": 43
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Viva Plaza",
+      "count": 36
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "TDH Bình Chiểu",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Căn hộ Riva Park",
+      "count": 108
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Carillon 7",
+      "count": 95
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "project_name": "Chung cư Trần Văn Kiểu",
+      "count": 6
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Sunshine Diamond River",
+      "count": 59
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Khu căn hộ cao cấp Cảnh Viên 1",
+      "count": 35
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Carina Plaza",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "I-Home 1",
+      "count": 27
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Chung cư B2 Trường Sa Phường 17 Quận Bình Thạnh",
+      "count": 14
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Lê Thành Twin Towers",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Lovera Park",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Sadora Sala",
+      "count": 137
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Golden Star",
+      "count": 42
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Conic Garden",
+      "count": 30
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Sunny Plaza",
+      "count": 47
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "project_name": "Charmington La Pointe",
+      "count": 20
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Citi Grand",
+      "count": 37
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Phú Thạnh Apartment",
+      "count": 19
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Khu dân cư Him Lam 6A",
+      "count": 19
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Khu căn hộ An Thịnh",
+      "count": 11
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "TaniBuilding Sơn Kỳ 2",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Newtown Apartment",
+      "count": 6
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "A1 Riverside",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Rainbow – Vinhomes Grand Park",
+      "count": 262
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "Res 11",
+      "count": 241
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Riviera Point",
+      "count": 254
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Happy Valley",
+      "count": 339
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Âu Cơ Tower",
+      "count": 240
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Jamila Khang Điền",
+      "count": 71
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Signature",
+      "count": 88
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Khu dân cư An Lạc Phát",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "project_name": "Saigon Asiana",
+      "count": 140
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Dream Home Palace",
+      "count": 158
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "KĐT Sala Đại Quang Minh",
+      "count": 10
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Celesta",
+      "count": 124
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "project_name": "Remax Plaza",
+      "count": 34
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "4S Riverside Linh Đông",
+      "count": 16
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Carillon 2",
+      "count": 80
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Khu phức hợp 152 Điện Biên Phủ",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Tô Ký Tower",
+      "count": 21
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "8X Đầm Sen",
+      "count": 58
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Citi Home",
+      "count": 14
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "project_name": "Kiều by KITA",
+      "count": 28
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "project_name": "Khu căn hộ cao cấp Blue Sapphire Bình Phú",
+      "count": 20
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Topaz Residence - Celadon City",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Thanh Đa View",
+      "count": 6
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Garden Plaza 2",
+      "count": 18
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Centana Điền Phúc Thành",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Khu dân cư 6B Intresco Bình Chánh",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Osimi Tower",
+      "count": 14
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "project_name": "Golden Mansion",
+      "count": 346
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "An Phú Đông Riverside",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "The Pegasuite 2",
+      "count": 102
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Cosmo City",
+      "count": 98
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Panorama",
+      "count": 165
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "project_name": "Newton Residence",
+      "count": 80
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Lovera Vista",
+      "count": 184
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "Cộng Hòa Garden",
+      "count": 48
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Sunview Town",
+      "count": 59
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "project_name": "Satra Eximland (Satra Eximland (Satra Citiland Plaza)",
+      "count": 29
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Metropole Thủ Thiêm",
+      "count": 52
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Ngọc Lan Apartment",
+      "count": 41
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Hausneo",
+      "count": 35
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Cao ốc Bình Đông Xanh",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Thủ Thiêm Green House",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Palm Heights",
+      "count": 53
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Chung cư Thanh Niên",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "The LandMark - Vinhomes Central Park",
+      "count": 38
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "The Landmark 81",
+      "count": 28
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "8X Rainbow",
+      "count": 36
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Căn hộ Luxcity",
+      "count": 71
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "project_name": "Cao ốc Satra - Eximland",
+      "count": 34
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Mỹ Khang",
+      "count": 41
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Căn hộ Mỹ Khánh 3",
+      "count": 51
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Tân Kiên Residence",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Khu dân cư An Phú - An Khánh",
+      "count": 31
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Hưng Phát Silver Star",
+      "count": 27
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Thủ Thiêm Lakeview",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "The Splendor",
+      "count": 13
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "4S Riverside Garden",
+      "count": 17
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Chung cư Khánh Hội 3",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Khu biệt thự Nam Long 1",
+      "count": 16
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Navita",
+      "count": 11
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Chung cư Phú An Center",
+      "count": 11
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Khu căn hộ An Hòa",
+      "count": 13
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Mỹ Phú Apartment",
+      "count": 5
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Gia Phát Apartment",
+      "count": 10
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "project_name": "Ngọc Khánh Tower",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Sky Garden I",
+      "count": 149
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Carillon 5",
+      "count": 100
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Icon 56",
+      "count": 129
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Sky Garden II",
+      "count": 185
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "project_name": "Khu căn hộ cao cấp An Phú (An Phú Apartment)",
+      "count": 271
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Topaz Elite",
+      "count": 534
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Homyland (Khu căn hộ Homyland 1)",
+      "count": 45
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Beverly – Vinhomes Grand Park",
+      "count": 378
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Diamond Alnata",
+      "count": 399
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "project_name": "Kingston Residence",
+      "count": 261
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "Lancaster Legacy (Lancaster Nguyễn Trãi)",
+      "count": 21
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Green Field",
+      "count": 68
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Vista Verde",
+      "count": 243
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Opal SaiGon Pearl",
+      "count": 26
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "West Gate Park",
+      "count": 219
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Kikyo Residence",
+      "count": 50
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Scenic Valley 1",
+      "count": 358
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Constrexim Copac Square",
+      "count": 61
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "project_name": "Orchard Park View",
+      "count": 253
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Define",
+      "count": 17
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "City Gate Towers",
+      "count": 32
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Cheery 2 Apartment",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Him Lam Nam Khánh",
+      "count": 22
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Khu căn hộ cao cấp Cảnh Viên 3",
+      "count": 27
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "C3 PARCSpring (Kris Vue)",
+      "count": 50
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "H3 Hoàng Diệu",
+      "count": 26
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Hiệp Thành City",
+      "count": 24
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Chung cư Mỹ Thuận",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Aurora Residences",
+      "count": 24
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "project_name": "Thuận Kiều Plaza",
+      "count": 33
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Opusk Residences",
+      "count": 30
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Happy One Premier",
+      "count": 40
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Chung cư An Lộc",
+      "count": 15
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Trellia Cove",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Green River quận 8",
+      "count": 78
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Calla Garden",
+      "count": 23
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Đạt Gia Residence",
+      "count": 17
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Chung cư Tân Mỹ",
+      "count": 10
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "First Home Thạnh Lộc",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "project_name": "StarLight Riverside",
+      "count": 18
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Kim Tâm Hải Apartment",
+      "count": 12
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "Chung cư Cây Mai",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "project_name": "Cao ốc Sông Đà Tower",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Panomax River Villas",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Skyway Residence",
+      "count": 11
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Sunview 1 & 2",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Saigon Pearl",
+      "count": 264
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Vinhomes Central Park",
+      "count": 806
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Investco Babylon",
+      "count": 99
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Celadon City",
+      "count": 235
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Him Lam Riverside",
+      "count": 162
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Diamond Brilliant",
+      "count": 282
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "La Casa",
+      "count": 59
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Căn hộ Linh Tây Tower",
+      "count": 27
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Masteri Thảo Điền",
+      "count": 233
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Prosper Plaza",
+      "count": 223
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Scenic Valley",
+      "count": 455
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "The Gold View",
+      "count": 212
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "An Gia Skyline",
+      "count": 85
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "D'Lusso",
+      "count": 106
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Lavita Charm",
+      "count": 40
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Saigon Mia (Sài Gòn Mia)",
+      "count": 85
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Fresca Riverside",
+      "count": 36
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "CavaHome Vĩnh Lộc",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Tecco Green Nest",
+      "count": 28
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Thủ Thiêm Sky Quận 2",
+      "count": 35
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Happy City - Khu đô thị Hạnh Phúc",
+      "count": 45
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "La Cosmo Residence",
+      "count": 6
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "HQC An Phú Tây",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Chung cư Khánh Hội 2",
+      "count": 10
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Căn hộ Terra Mia",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Chung cư An Hòa",
+      "count": 10
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "The Morning Star Plaza",
+      "count": 19
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Chung cư Hiệp Thành (Hiệp Thành Buildings)",
+      "count": 15
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Cao ốc An Khang",
+      "count": 17
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "project_name": "Cao ốc Nguyễn Phúc Nguyên",
+      "count": 15
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Hud Building Nha Trang",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Phú Gia Cotec",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Infiniti Riviera Point",
+      "count": 213
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Akari City",
+      "count": 377
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Diamond Island – đảo Kim Cương",
+      "count": 198
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Saigon South Residences",
+      "count": 372
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "Zenity",
+      "count": 59
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Sài Gòn Intela",
+      "count": 71
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Q7 Saigon Riverside",
+      "count": 413
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Căn hộ Mỹ Khánh 1",
+      "count": 48
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Belleza Apartment",
+      "count": 690
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Riverpark Premier",
+      "count": 164
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "D1 Mension",
+      "count": 35
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Urban Hill Phú Mỹ Hưng",
+      "count": 66
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Q7 Boulevard",
+      "count": 259
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Melody Residences",
+      "count": 68
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Ruby - Celadon City ",
+      "count": 299
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Citi Esto",
+      "count": 21
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Chung cư Tôn Thất Thuyết",
+      "count": 26
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Nassim",
+      "count": 24
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Richmond City",
+      "count": 115
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Phú Mỹ Thuận",
+      "count": 19
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "Nhà ở xã hội Thới Bình",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Goldora Plaza",
+      "count": 49
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Căn hộ Nhất Lan 3",
+      "count": 15
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Nhà ở xã hội Lê Thành An Lạc",
+      "count": 59
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "Carillon 3",
+      "count": 59
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Happy One Linh Xuân",
+      "count": 39
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Hà Đô Riverside",
+      "count": 17
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "The Lancaster - Hồ Chí Minh",
+      "count": 6
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Masteri Millennium",
+      "count": 29
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Riverside 90",
+      "count": 14
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "project_name": "Kingdom 101",
+      "count": 140
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Chung cư Bông Sao",
+      "count": 33
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Tecco Town Bình Tân",
+      "count": 20
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Khu dân cư An Sương",
+      "count": 5
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Waterina Suites",
+      "count": 15
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "An Hội 3 (Resco An Hội 3)",
+      "count": 13
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "SGC Nguyễn Cửu Vân",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Căn hộ 51 Chánh Hưng",
+      "count": 13
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Ngọc Phương Nam",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Chung cư Mỹ Phước",
+      "count": 19
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "project_name": "Tòa nhà Green Building",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "Carillon Apartment (Carillon 1)",
+      "count": 247
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "ResGreen Tower",
+      "count": 112
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Ascent Lakeside",
+      "count": 88
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "New City Thủ Thiêm",
+      "count": 180
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Conic Boulevard",
+      "count": 319
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "project_name": "Tản Đà Court",
+      "count": 78
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The CBD Premium Home",
+      "count": 48
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Chung cư Cao cấp Tam Bình",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Chung cư Sinh Lợi",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Estella",
+      "count": 67
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "D’Edge Thảo Điền",
+      "count": 69
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "An Gia Riverside",
+      "count": 109
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "Hoa Sen - Lotus Apartment",
+      "count": 89
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Khu căn hộ  Mỹ Đức",
+      "count": 19
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Khu căn hộ EHome 3",
+      "count": 45
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Lux Garden",
+      "count": 33
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Khu căn hộ Hưng Vượng 1",
+      "count": 60
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Vạn Đô",
+      "count": 22
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Moonlight Residences",
+      "count": 56
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Chung cư Đông Hải",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Jamona Heights",
+      "count": 41
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Thủ Thiêm Dragon",
+      "count": 14
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "project_name": "Hùng Vương Plaza",
+      "count": 12
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "project_name": "Chung cư 155 Nguyễn Chí Thanh",
+      "count": 26
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Hưng Phúc Premier",
+      "count": 103
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Phú Gia Hưng Apartment",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Topaz Garden",
+      "count": 35
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Căn hộ Florita ",
+      "count": 40
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "The Hyco4 Tower",
+      "count": 11
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Stown Thủ Đức",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "ST Moritz Phạm Văn Đồng",
+      "count": 10
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "D-Vela",
+      "count": 17
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Dream Home Residence",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Peak Garden",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "Cống Quỳnh Plaza",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Mỹ Cảnh",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Chung cư Hà Kiều",
+      "count": 6
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Saigon Peninsula",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Zen Tower",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Khu căn hộ Tân Mai",
+      "count": 5
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "Chung cư Bigemco Building",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Era Town",
+      "count": 442
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Flora Novia",
+      "count": 75
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Khu căn hộ Contrexim - Copac Square",
+      "count": 34
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "project_name": "Xi Grand Court",
+      "count": 180
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Peak",
+      "count": 171
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "One Verandah",
+      "count": 344
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "project_name": "Asiana Capella",
+      "count": 100
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Westgate",
+      "count": 176
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Lotus Garden",
+      "count": 174
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "The Marq",
+      "count": 367
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "De Capella",
+      "count": 36
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Căn hộ Quang Thái",
+      "count": 74
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "Khu căn hộ Thuận Việt",
+      "count": 19
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Opus One - Vinhomes Grand Park",
+      "count": 40
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "project_name": "Lucky Palace",
+      "count": 120
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Green View",
+      "count": 132
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Ehome 5 - The Bridgeview",
+      "count": 53
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Imperial Place Bình Tân",
+      "count": 22
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Chương Dương Home",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Chung cư Võ Đình ",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Mỹ Phước",
+      "count": 27
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Khu dân cư Hai Thành - Tên Lửa",
+      "count": 6
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Căn hộ The Mansion",
+      "count": 34
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "Tân Bình Apartment",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Centum Wealth",
+      "count": 11
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Phúc Yên Prosper Phố Đông (tên cũ Saigon East Town)",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Chung cư An Sương",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "project_name": "Botanic Towers",
+      "count": 39
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Căn hộ Hoàng Quốc Việt",
+      "count": 15
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "project_name": "Chung cư Tân Thịnh Lợi (Noble Apartment)",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "Lim Tower 1",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Jamona City",
+      "count": 282
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Estella Heights",
+      "count": 48
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Diamond Centery",
+      "count": 364
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Chung cư Imperia An Phú",
+      "count": 53
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Chung cư Saigon Royal Residence",
+      "count": 216
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Galleria Residence",
+      "count": 280
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Hưng Ngân Garden",
+      "count": 160
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Antonia",
+      "count": 190
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Khu căn hộ Chánh Hưng - Giai Việt",
+      "count": 116
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "The Park Avenue",
+      "count": 50
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Khu căn hộ Sacomreal - 584",
+      "count": 83
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The View Riviera Point",
+      "count": 279
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "EHome Đông Sài Gòn 2",
+      "count": 20
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Chung cư 1050 Chu Văn An",
+      "count": 37
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Sunrise City (Sunrise City View)",
+      "count": 578
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Khu căn hộ New Sài Gòn - Hoàng Anh Gia Lai 3",
+      "count": 46
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Sky 9",
+      "count": 47
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "project_name": "Chung cư Ngô Gia Tự",
+      "count": 132
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The River Thủ Thiêm",
+      "count": 255
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Cửu Long",
+      "count": 24
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Glory Heights Vinhomes Grand Park",
+      "count": 171
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Orchid Park",
+      "count": 59
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Terra Rosa",
+      "count": 31
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "HQC Plaza",
+      "count": 40
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Mỹ Viên",
+      "count": 38
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "M-One Gia Định",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Sculptura",
+      "count": 6
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "project_name": "Léman Luxury Apartments",
+      "count": 18
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Cantavil Hoàn Cầu",
+      "count": 42
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Mỹ Phúc",
+      "count": 22
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "Sailing Tower",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "The EverRich I",
+      "count": 107
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "Botanica Premier",
+      "count": 362
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Emerald - Celadon City",
+      "count": 423
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Felisa Riverside",
+      "count": 75
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "The Park Residence",
+      "count": 251
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "Ruby Garden",
+      "count": 92
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Happy Valley Premier",
+      "count": 11
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Horizon",
+      "count": 59
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Chung cư Phú Mỹ",
+      "count": 36
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Crest Residence",
+      "count": 135
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Chung cư Mỹ Đức",
+      "count": 13
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Urban Green",
+      "count": 93
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Homyland Riverside (HomyLand 3)",
+      "count": 60
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "RichStar",
+      "count": 173
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Khu dân cư Sài Gòn Mới",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Long Trường Riverside",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Flora Anh Đào",
+      "count": 45
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Green Valley",
+      "count": 153
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Essensia Sky",
+      "count": 82
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Felix Homes",
+      "count": 14
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Oriental Plaza",
+      "count": 223
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "The Manor - TP. Hồ Chí Minh",
+      "count": 62
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Angia Star",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Dream Home Riverside",
+      "count": 38
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Thủ Thiêm Garden",
+      "count": 37
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Tân Hương Tower",
+      "count": 28
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "Bảy Hiền Tower",
+      "count": 68
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Chung cư Mỹ Kim",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Khu căn hộ Mỹ Phúc",
+      "count": 16
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Sài Gòn Mia",
+      "count": 41
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Depot Metro Tower",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Chung cư Khánh Hội 1",
+      "count": 13
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Topaz Home 2",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Jamona Golden Silk",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "Republic Plaza",
+      "count": 28
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Masteri An Phú",
+      "count": 194
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "project_name": "Khu căn hộ Summer Square",
+      "count": 125
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "River Panorama",
+      "count": 277
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "project_name": "Orchard Garden",
+      "count": 204
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Nhà ở xã hội Ehomes Nam Sài Gòn",
+      "count": 44
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Opal Garden",
+      "count": 54
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Sarina Condominium",
+      "count": 60
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Moonlight Park View",
+      "count": 170
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "The Privia",
+      "count": 284
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Mizuki Park",
+      "count": 869
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Moonlight Boulevard",
+      "count": 269
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Depot Metro Tham Lương",
+      "count": 26
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Chung cư B1 Trường Sa",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "project_name": "The Prince Residence",
+      "count": 203
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "8X Plus Trường Chinh",
+      "count": 93
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Vinhomes Grand Park",
+      "count": 323
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "River Gate",
+      "count": 162
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "D-Aqua",
+      "count": 148
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Lexington Residence",
+      "count": 97
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "La Astoria (La Astoria giai đoạn 2)",
+      "count": 130
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Hoàng Anh Gold House",
+      "count": 52
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "project_name": "Terra Royal",
+      "count": 208
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "project_name": "Chung Cư Nguyễn Kim",
+      "count": 47
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Grande",
+      "count": 32
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Him Lam Phú An",
+      "count": 25
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Hoàng Anh Thanh Bình",
+      "count": 33
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Green Town Bình Tân",
+      "count": 76
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Khu căn hộ Res III",
+      "count": 31
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "The Flemington",
+      "count": 174
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Gateway Thảo Điền",
+      "count": 84
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Chung cư Lê Thành",
+      "count": 60
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The 9 Stellars",
+      "count": 13
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Wilton Tower",
+      "count": 69
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Chung cư Vĩnh Hội",
+      "count": 28
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "Lữ Gia Plaza",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "TaniBuilding Sơn Kỳ 1",
+      "count": 46
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "project_name": "Cao ốc Phú Nhuận",
+      "count": 62
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "project_name": "Thiên Nam Apartment",
+      "count": 5
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Opal Riverside",
+      "count": 18
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Chung cư Phạm Viết Chánh",
+      "count": 12
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Nam Phúc - Le Jardin",
+      "count": 51
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Aurora Phú Mỹ Hưng",
+      "count": 19
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Căn hộ chung cư Đồng Diều Quận 8",
+      "count": 21
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Global City",
+      "count": 10
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Hoàng Anh Gia Lai 1",
+      "count": 10
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "Chung cư Phú Thọ",
+      "count": 44
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Lê Thành Tân Tạo",
+      "count": 36
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Anh Tuấn Apartment",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Vision Bình Tân",
+      "count": 18
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "project_name": "Saigon Pavillon",
+      "count": 29
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Chung cư Nguyễn Ngọc Phương",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "project_name": "Chung cư Goldland Plaza",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "12 View",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "775",
+      "project_name": "D-Homme",
+      "count": 315
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Origami – Vinhomes Grand Park",
+      "count": 352
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Cityland Park Hills",
+      "count": 139
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Masteri Centre Point",
+      "count": 222
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "Grand Marina Saigon",
+      "count": 332
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Feliz En Vista",
+      "count": 236
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Căn hộ Paris Hoàng Kim",
+      "count": 42
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Sacomreal - Hòa Bình",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "Indochina Park Tower",
+      "count": 65
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Khải Hoàn Prime",
+      "count": 38
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Pearl Plaza",
+      "count": 66
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Heaven Riverview",
+      "count": 35
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Chung cư An Sương Besco",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "PiCity High Park",
+      "count": 141
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Fortuna - Vườn Lài",
+      "count": 18
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Hà Đô Green View",
+      "count": 60
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Cardinal Court",
+      "count": 97
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Đất Phương Nam",
+      "count": 38
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Thảo Điền Green",
+      "count": 57
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Q2 Thảo Điền (tên cũ là Glenwood Maison Thảo Điền)",
+      "count": 81
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "The One Sài Gòn",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "project_name": "Garden Gate",
+      "count": 62
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Diamond Lotus Riverside (Diamond Lotus Phúc Khang)",
+      "count": 54
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "project_name": "Chung cư Sao Mai",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Căn hộ Safari",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Căn hộ Vĩnh Tường",
+      "count": 14
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Khu đô thị Dragon City",
+      "count": 29
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Hoàng Anh Gia Lai 2",
+      "count": 18
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Hoàng Kim Thế Gia (The Golden Dynasty)",
+      "count": 35
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "The Easter City",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Căn hộ Hưng Phát",
+      "count": 13
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Hưng Phúc Happy Residence Premier",
+      "count": 381
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "The Harmona",
+      "count": 186
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Sky Garden 3",
+      "count": 397
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Citi Soho",
+      "count": 35
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Peak Midtown",
+      "count": 469
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Emerald Precinct - Celadon City",
+      "count": 407
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Khu căn hộ Hưng Vượng 2",
+      "count": 150
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "STCity Tô Ký",
+      "count": 29
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Căn hộ Mỹ Khánh 4",
+      "count": 68
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "City Garden",
+      "count": 66
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Dragon Hill Residence and Suites",
+      "count": 131
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Phố Đông Village",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "The Parkland",
+      "count": 33
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Khu đô thị Phú Mỹ Hưng",
+      "count": 196
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Lumiere Riversides (Lumière Riverside)",
+      "count": 292
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "project_name": "The Everrich Infinity",
+      "count": 61
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Khu căn hộ Hưng Vượng 3",
+      "count": 45
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "Chung cư 312 Lạc Long Quân",
+      "count": 94
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "774",
+      "project_name": "Chung cư Phúc Thịnh",
+      "count": 46
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "Saigon Airport Plaza",
+      "count": 76
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "The Symphony ",
+      "count": 12
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Chung cư An Bình",
+      "count": 16
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Samland Airport",
+      "count": 69
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "New Saigon-Hoàng Anh Gia Lai 3",
+      "count": 33
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "Chung cư H2 Hoàng Diệu",
+      "count": 41
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Vĩnh Lộc D’Gold",
+      "count": 48
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Chung cư Thanh Nhựt",
+      "count": 5
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Mỹ Phát",
+      "count": 16
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Bình Chánh New Center",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "Khu Phức Hợp Đầm Sen",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Cao ốc Đại Thành",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Sài Gòn Metro Park",
+      "count": 5
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Chung cư Stown Tham Lương",
+      "count": 16
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Good House Apartment",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Căn Hộ Cao Cấp Hoàng Tháp Plaza",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Khu dân cư Phong Phú 6",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "project_name": "CT Plaza Minh Châu Quận 3",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Tulip Tower",
+      "count": 13
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Chánh Hưng Apartment",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "Soho Residence",
+      "count": 73
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Midtown Phú Mỹ Hưng",
+      "count": 280
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Opera Residence",
+      "count": 269
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "768",
+      "project_name": "Chung cư Phan Xích Long",
+      "count": 20
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Eco Green Sài Gòn",
+      "count": 407
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "773",
+      "project_name": "De La Sol Capitaland Quận 4",
+      "count": 225
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "Park Legend",
+      "count": 196
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "An Gia Garden",
+      "count": 91
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Diamond  Alnata Plus - Celadon City",
+      "count": 112
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Fiato Uptown",
+      "count": 22
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Phú Hoàng Anh",
+      "count": 61
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Centana Thủ Thiêm",
+      "count": 86
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Elysian Thủ Đức",
+      "count": 114
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "766",
+      "project_name": "The Useful Apartment",
+      "count": 162
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "project_name": "HaDo Centrosa Garden (Hà Đô Centrosa Garden)",
+      "count": 150
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Sunshine Sky City",
+      "count": 419
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Celesta Rise Nhà Bè",
+      "count": 144
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Sài Gòn Avenue",
+      "count": 44
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Citi Alto",
+      "count": 22
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Central Premium",
+      "count": 100
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Safira Khang Điền",
+      "count": 99
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "The Vista An Phú",
+      "count": 191
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Chung cư Khuông Việt",
+      "count": 67
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Chung cư Thế Kỷ 21",
+      "count": 22
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Park View",
+      "count": 48
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Chung cư Hà Đô Z751A",
+      "count": 39
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Saigonhomes",
+      "count": 15
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Căn hộ An Viên",
+      "count": 37
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Khu tái định cư Bình Khánh (Chung cư Bình Khánh)",
+      "count": 40
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "Vincom Center TP HCM",
+      "count": 24
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Tropic Garden",
+      "count": 64
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Chung cư Conic Đình Khiêm",
+      "count": 10
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Sài Gòn Apartment",
+      "count": 19
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Tòa nhà IOS Phạm Văn Đồng",
+      "count": 13
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Garden Plaza 1",
+      "count": 17
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Saigonland Apartment",
+      "count": 13
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Detesco Lương Định Của",
+      "count": 19
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Chung Cư 41Bis Điện Biên Phủ",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "787",
+      "project_name": "Vinhomes Long Beach Cần Giờ",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Khu đô thị mới 13B Conic - Nam Sài Gòn",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Ehome S Phú Hữu",
+      "count": 17
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Chung cư Petroland Quận 2",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Mường Thanh Gò Vấp",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Bình Chánh Proscity",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Tam Bình Riverside",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Xi Riverview Palace",
+      "count": 5
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Trương Đình Hội 2 (U - Life)",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Masterise Marina Central",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Khu dân cư Phú Mỹ",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Căn hộ Cosmo II",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Nam Khang",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "Chung cư Thế Hệ Mới",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Khu dân cư Phú Mỹ Chợ Lớn",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "CT Plaza Nguyên Hồng",
+      "count": 5
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Chung cư A.View",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "project_name": "Hà Đô Villas",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Senturia Q9 Central Point",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Full House",
+      "count": 6
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "project_name": "Serenity Sky Villas",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Soho Riverview",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "The Avila",
+      "count": 9
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Chung cư Đông Hưng",
+      "count": 11
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Soho Premier",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Laimian City",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Căn hộ Cao cấp Mỹ Long",
+      "count": 6
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Central Home Sài Gòn",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "The Glen Celadon City Tân Phú",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Căn hộ Da Sà",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "project_name": "Viettel Complex",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Chung cư Mỹ An - 3G",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Golden King",
+      "count": 8
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Khu dân cư Bình Đăng",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "Khu dân cư Phú Lợi",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Khu đô thị Nam Long",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Ruby City Quận 12",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Chung cư Gia Phú ",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "Khu dân cư Thới An City",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Lucky Dragon",
+      "count": 6
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Tăng Long Garden",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Richlane Residence",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "761",
+      "project_name": "An Sương Ipark",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Khu căn hộ Vĩnh Lộc",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Nguyễn Quyền Plaza",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "CityLand Riverside",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "765",
+      "project_name": "Chung cư Phú Đạt",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Dragon Parc 2",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "King Crown Infinity",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "784",
+      "project_name": "HQC Hóc Môn",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Celesta Heights",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "Cao ốc BMC",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Tecco Tower - Chung cư Linh Đông",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Harina View",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Căn hộ Khang Điền Bình Tân",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Valora Fuji",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Trung Đông Plaza",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "Căn hộ Linh Trung",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "785",
+      "project_name": "Khu Dân cư Trung Sơn",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Quốc Cường Gia Lai 1",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "PetroLand Tower",
+      "count": 4
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "786",
+      "project_name": "Nhà Bè Riverside",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "Moonlight Center Point (Moonlight Comlex)",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "770",
+      "project_name": "C.T Plaza Minh Châu",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "777",
+      "project_name": "The Sholi Bình Tân",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "project_name": "Khu nhà ở và nghỉ ngơi giải trí Tân Phong",
+      "count": 3
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "PTM Hoàng Hữu Nam",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Tháp Mười Merita (Merita Khang Điền)",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Khu dân cư D-Village",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "778",
+      "project_name": "Lux Riverview",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Khu đô thị Vạn Phúc (Vạn Phúc City)",
+      "count": 3
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Sky 9",
+      "count": 3
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Linh Xuân City Square",
+      "count": 7
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "Khu căn hộ cao cấp Khải Hoàn",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Khu dân cư An Phú - An Khánh",
+      "count": 9
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "project_name": "Raemian Đông Thuận (tên gọi khác: An Sương I – Park, Cao ốc căn hộ Đông Thuận 1 & 2)",
+      "count": 4
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "784",
+      "project_name": "Khu đô thị mới Xuân Thới Sơn",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "771",
+      "project_name": "Cụm chung cư Ấn Quang",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "project_name": "Mường Thanh Gò Vấp",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Khu dân cư Long Thuận",
+      "count": 4
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Homyland (Khu căn hộ Homyland 1)",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Victory Tower Gò Vấp",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "760",
+      "project_name": "C.T Plaza Võ Văn Kiệt (tên khác: Building 22 Võ Văn Kiệt, CT Plaza 22 Võ Văn Kiệt)",
+      "count": 2
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "772",
+      "project_name": "Khu căn hộ Khải Hoàn",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "767",
+      "project_name": "Chung cư BMC Lũy Bán Bích",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Long Trường Riverside",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Khu dân cư Đức Linh 8",
+      "count": 3
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "project_name": "STCity Tô Ký",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "776",
+      "project_name": "RCL Tạ Quang Bửu",
+      "count": 1
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "769",
+      "project_name": "EHome Đông Sài Gòn 1",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "767",
+      "project_name": "Carillon 7",
+      "count": 3
+    },
+    {
+      "property_type_name": "Căn hộ chung cư",
+      "district_code": "764",
+      "project_name": "Liền kề Z751B",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "CitiBella 2",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Tăng Long Garden",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "project_name": "Chung cư 283 Lê Quang Định",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "777",
+      "project_name": "The Sholi Bình Tân",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "TDH Trường Thọ",
+      "count": 10
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "project_name": "Khu biệt thự Nam Long 1",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "project_name": "Chung cư Đông Hưng",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "project_name": "Chung cư B2 Trường Sa Phường 17 Quận Bình Thạnh",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "project_name": "Khu căn hộ Hưng Vượng 1",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "project_name": "VX Nguyễn Oanh Gò Vấp",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "771",
+      "project_name": "Chung cư Tô Hiến Thành",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Khu dân cư Sông Giồng",
+      "count": 3
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "project_name": "D-one Sài Gòn",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "785",
+      "project_name": "Citizen Trung Sơn (Citizen TS)",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "765",
+      "project_name": "Chung cư 1050 Chu Văn An",
+      "count": 3
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Homyland Riverside (HomyLand 3)",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "project_name": "Chung cư Tân Mỹ",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "project_name": "Bàu Cát II",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "project_name": "12 View",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "783",
+      "project_name": "Khu dân cư Tân Phú Trung",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "777",
+      "project_name": "Khu dân cư An Lạc Phát",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "767",
+      "project_name": "TaniBuilding Sơn Kỳ 1",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "760",
+      "project_name": "Lancaster Legacy (Lancaster Nguyễn Trãi)",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "786",
+      "project_name": "The Sun Residence",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Centana Điền Phúc Thành",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "project_name": "First Home Thạnh Lộc",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "764",
+      "project_name": "Chung cư Hà Đô Z751A",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Căn hộ Linh Tây Tower",
+      "count": 5
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "TPS 52 Nguyễn Xiển",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Tòa nhà IOS Phạm Văn Đồng",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Đức Linh Green",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Tam Bình Riverside",
+      "count": 3
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "773",
+      "project_name": "Chung cư Tôn Thất Thuyết",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "777",
+      "project_name": "Newlife Bình Tân",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "project_name": "Savimex Phú Thuận",
+      "count": 3
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "769",
+      "project_name": "Khu dân cư Nam Rạch Chiếc",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "766",
+      "project_name": "Cộng Hòa Garden",
+      "count": 4
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "project_name": "Senturia Vườn Lài",
+      "count": 1
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "761",
+      "project_name": "Cheery 2 Apartment",
+      "count": 2
+    },
+    {
+      "property_type_name": "Nhà",
+      "district_code": "778",
+      "project_name": "Khu nhà phố Hưng Gia",
+      "count": 1
+    }
+  ]
+}

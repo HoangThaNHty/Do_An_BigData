@@ -1,0 +1,12 @@
+{
+  "status": "failed_not_for_training",
+  "output": "data/processed/etl_v1",
+  "source_rows": 1122870,
+  "unique_source_records_observed": 1122868,
+  "written_rows_verified": null,
+  "error": "Hadoop FileOutputCommitter.mergePaths: Can not create a Path from an empty string",
+  "cause": "Directory URI trailing slash generated empty Hadoop child name",
+  "fix": "Construct listed child paths using Hadoop parent and NIO filename",
+  "regression": "src.etl.partition_smoke passed partition commit/read/overwrite with Unicode and null partition",
+  "retry_output": "data/processed/etl_v1_retry1"
+}

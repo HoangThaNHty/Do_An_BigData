@@ -1,0 +1,9 @@
+{
+  "log_radius": {
+    "house": 0.45217009430185895,
+    "apartment": 0.3163627075516986
+  },
+  "fit_split": "validation",
+  "nominal_fraction": 0.9,
+  "guaranteed_coverage": false
+}

@@ -1,0 +1,2 @@
+# Current core pipeline and local/LAN API. Frontend: web/package-lock.json.
+-r requirements-api.txt

@@ -1,0 +1,162 @@
+[
+  {
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 7535,
+    "median_price_vnd": 4600000000.0,
+    "median_area_m2": 78.0,
+    "median_unit_price_vnd": 58095238.0952381
+  },
+  {
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 1668,
+    "median_price_vnd": 7800000000.0,
+    "median_area_m2": 63.0,
+    "median_unit_price_vnd": 132978723.40425532
+  },
+  {
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 10724,
+    "median_price_vnd": 4390000000.0,
+    "median_area_m2": 77.0,
+    "median_unit_price_vnd": 56256062.07565471
+  },
+  {
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 2058,
+    "median_price_vnd": 8200000000.0,
+    "median_area_m2": 64.0,
+    "median_unit_price_vnd": 138983050.84745762
+  },
+  {
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 9704,
+    "median_price_vnd": 4600000000.0,
+    "median_area_m2": 78.0,
+    "median_unit_price_vnd": 60000000.0
+  },
+  {
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 1846,
+    "median_price_vnd": 8600000000.0,
+    "median_area_m2": 60.5,
+    "median_unit_price_vnd": 144605263.15789473
+  },
+  {
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 10064,
+    "median_price_vnd": 4650000000.0,
+    "median_area_m2": 76.0,
+    "median_unit_price_vnd": 60937500.0
+  },
+  {
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 1711,
+    "median_price_vnd": 8190000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 139024390.24390244
+  },
+  {
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 13949,
+    "median_price_vnd": 4950000000.0,
+    "median_area_m2": 77.0,
+    "median_unit_price_vnd": 63492063.49206349
+  },
+  {
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 2509,
+    "median_price_vnd": 7800000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 142500000.0
+  },
+  {
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 13880,
+    "median_price_vnd": 4850000000.0,
+    "median_area_m2": 76.0,
+    "median_unit_price_vnd": 62790697.674418606
+  },
+  {
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 2400,
+    "median_price_vnd": 8200000000.0,
+    "median_area_m2": 61.0,
+    "median_unit_price_vnd": 142608695.6521739
+  },
+  {
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 15316,
+    "median_price_vnd": 5000000000.0,
+    "median_area_m2": 77.0,
+    "median_unit_price_vnd": 64615384.615384616
+  },
+  {
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 2570,
+    "median_price_vnd": 7800000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 141071428.57142857
+  },
+  {
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 11134,
+    "median_price_vnd": 5050000000.0,
+    "median_area_m2": 77.0,
+    "median_unit_price_vnd": 65211267.6056338
+  },
+  {
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 1738,
+    "median_price_vnd": 7600000000.0,
+    "median_area_m2": 58.0,
+    "median_unit_price_vnd": 135416666.66666666
+  },
+  {
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 5318,
+    "median_price_vnd": 5150000000.0,
+    "median_area_m2": 76.0,
+    "median_unit_price_vnd": 67567567.56756757
+  },
+  {
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 831,
+    "median_price_vnd": 7560000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 139423076.92307693
+  },
+  {
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 16688,
+    "median_price_vnd": 4900000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 65757575.75757576
+  },
+  {
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 2136,
+    "median_price_vnd": 7900000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 139285714.2857143
+  }
+]

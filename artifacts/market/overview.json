@@ -1,0 +1,16 @@
+[
+  {
+    "property_type_name": "Căn hộ chung cư",
+    "count": 114312,
+    "median_price_vnd": 4850000000.0,
+    "median_area_m2": 76.0,
+    "median_unit_price_vnd": 62786885.24590164
+  },
+  {
+    "property_type_name": "Nhà",
+    "count": 19467,
+    "median_price_vnd": 7900000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 139771283.35451078
+  }
+]

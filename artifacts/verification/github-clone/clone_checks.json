@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "date": "2026-10-14",
+  "method": "Actual local Git clone with fresh Python venv and npm ci. After runtime fixes, clone fetched/reset to the final disposable Git origin and launcher/prediction/rules/readiness were rechecked.",
+  "platform": "Windows 11 / Windows PowerShell 5.1",
+  "jdk": "Existing verified JDK 17 reused through setup -JavaHome; not a fresh JDK network download in this check.",
+  "demo_artifact_files": 264,
+  "python_install": true,
+  "npm_ci_and_production_build": true,
+  "original_api_calls": 35,
+  "product_api_calls": 41,
+  "desktop_mobile_and_error_journeys": true,
+  "contrast_samples": 56,
+  "demo_driver_memory": "2g",
+  "training_driver_memory": "4g unchanged",
+  "readiness_regressions": 4,
+  "repeated_prediction_and_spark_rule_rounds": 6,
+  "issues_found_and_resolved": [
+    "4g JVM native memory failure on busy host; inference/demo default now2g.",
+    "Health previously claimed ready after JVM death; now503 with restart guidance.",
+    "QA closes its owned browser on failure."
+  ],
+  "external_live_tiles": "Unavailable: connection to OSM refused. Positive live download not passed on this clone; fallback/error/retry tested.",
+  "data_and_models": "core_v1/models/v1 unchanged; frozen demo price3728469791.732773 preserved.",
+  "github_remote_created_or_pushed": false,
+  "final_git_fetched_clone_smoke": true
+}

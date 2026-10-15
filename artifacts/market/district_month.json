@@ -1,0 +1,4132 @@
+[
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 270,
+    "median_price_vnd": 22500000000.0,
+    "median_area_m2": 93.0,
+    "median_unit_price_vnd": 206000000.0
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 48,
+    "median_price_vnd": 13900000000.0,
+    "median_area_m2": 55.3,
+    "median_unit_price_vnd": 262500000.0
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 382,
+    "median_price_vnd": 14000000000.0,
+    "median_area_m2": 78.22,
+    "median_unit_price_vnd": 180206794.68242246
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 71,
+    "median_price_vnd": 18500000000.0,
+    "median_area_m2": 67.0,
+    "median_unit_price_vnd": 259259259.25925925
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 384,
+    "median_price_vnd": 11800000000.0,
+    "median_area_m2": 76.0,
+    "median_unit_price_vnd": 183794466.40316206
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 80,
+    "median_price_vnd": 18000000000.0,
+    "median_area_m2": 54.5,
+    "median_unit_price_vnd": 278350515.46391755
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 366,
+    "median_price_vnd": 12000000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 178120617.11079943
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 48,
+    "median_price_vnd": 16500000000.0,
+    "median_area_m2": 56.0,
+    "median_unit_price_vnd": 291176470.5882353
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 385,
+    "median_price_vnd": 10500000000.0,
+    "median_area_m2": 78.5,
+    "median_unit_price_vnd": 172027972.02797204
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 71,
+    "median_price_vnd": 16000000000.0,
+    "median_area_m2": 56.7,
+    "median_unit_price_vnd": 260000000.0
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 445,
+    "median_price_vnd": 11700000000.0,
+    "median_area_m2": 78.0,
+    "median_unit_price_vnd": 175315568.0224404
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 65,
+    "median_price_vnd": 14000000000.0,
+    "median_area_m2": 53.8,
+    "median_unit_price_vnd": 265333333.33333334
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 452,
+    "median_price_vnd": 11800000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 186000000.0
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 77,
+    "median_price_vnd": 10900000000.0,
+    "median_area_m2": 44.0,
+    "median_unit_price_vnd": 259259259.25925925
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 301,
+    "median_price_vnd": 12500000000.0,
+    "median_area_m2": 81.0,
+    "median_unit_price_vnd": 176000000.0
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 50,
+    "median_price_vnd": 10000000000.0,
+    "median_area_m2": 47.4,
+    "median_unit_price_vnd": 236966824.64454976
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 165,
+    "median_price_vnd": 14200000000.0,
+    "median_area_m2": 77.0,
+    "median_unit_price_vnd": 197222222.2222222
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 10,
+    "median_price_vnd": 8500000000.0,
+    "median_area_m2": 38.0,
+    "median_unit_price_vnd": 218181818.1818182
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 377,
+    "median_price_vnd": 13500000000.0,
+    "median_area_m2": 78.0,
+    "median_unit_price_vnd": 194117647.05882353
+  },
+  {
+    "district_code": "760",
+    "district_label": "Quận 1",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 64,
+    "median_price_vnd": 10000000000.0,
+    "median_area_m2": 49.21,
+    "median_unit_price_vnd": 258169934.64052287
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 137,
+    "median_price_vnd": 2250000000.0,
+    "median_area_m2": 65.0,
+    "median_unit_price_vnd": 34545454.54545455
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 200,
+    "median_price_vnd": 5490000000.0,
+    "median_area_m2": 56.0,
+    "median_unit_price_vnd": 91232227.48815165
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 217,
+    "median_price_vnd": 2500000000.0,
+    "median_area_m2": 65.0,
+    "median_unit_price_vnd": 39230769.23076923
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 132,
+    "median_price_vnd": 5800000000.0,
+    "median_area_m2": 63.7,
+    "median_unit_price_vnd": 88028169.0140845
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 130,
+    "median_price_vnd": 2300000000.0,
+    "median_area_m2": 65.0,
+    "median_unit_price_vnd": 35714285.71428572
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 89,
+    "median_price_vnd": 5890000000.0,
+    "median_area_m2": 73.0,
+    "median_unit_price_vnd": 86330935.25179856
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 200,
+    "median_price_vnd": 2410000000.0,
+    "median_area_m2": 65.0,
+    "median_unit_price_vnd": 36538461.538461536
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 91,
+    "median_price_vnd": 5950000000.0,
+    "median_area_m2": 69.8,
+    "median_unit_price_vnd": 88076923.07692307
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 281,
+    "median_price_vnd": 2550000000.0,
+    "median_area_m2": 65.0,
+    "median_unit_price_vnd": 40476190.47619048
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 103,
+    "median_price_vnd": 6200000000.0,
+    "median_area_m2": 76.0,
+    "median_unit_price_vnd": 75995174.90952955
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 280,
+    "median_price_vnd": 2800000000.0,
+    "median_area_m2": 65.0,
+    "median_unit_price_vnd": 43384615.384615384
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 136,
+    "median_price_vnd": 5900000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 82692307.6923077
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 227,
+    "median_price_vnd": 2800000000.0,
+    "median_area_m2": 65.0,
+    "median_unit_price_vnd": 43269230.76923077
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 160,
+    "median_price_vnd": 6000000000.0,
+    "median_area_m2": 66.0,
+    "median_unit_price_vnd": 89830508.47457626
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 222,
+    "median_price_vnd": 2790000000.0,
+    "median_area_m2": 65.0,
+    "median_unit_price_vnd": 43859649.12280702
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 98,
+    "median_price_vnd": 6190000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 93181818.18181819
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 58,
+    "median_price_vnd": 2950000000.0,
+    "median_area_m2": 65.5,
+    "median_unit_price_vnd": 45038167.9389313
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 59,
+    "median_price_vnd": 6290000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 99807692.3076923
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 303,
+    "median_price_vnd": 2750000000.0,
+    "median_area_m2": 65.0,
+    "median_unit_price_vnd": 43333333.333333336
+  },
+  {
+    "district_code": "761",
+    "district_label": "Quận 12",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 122,
+    "median_price_vnd": 5900000000.0,
+    "median_area_m2": 70.2,
+    "median_unit_price_vnd": 83333333.33333333
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 159,
+    "median_price_vnd": 2300000000.0,
+    "median_area_m2": 71.0,
+    "median_unit_price_vnd": 35217391.30434783
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 128,
+    "median_price_vnd": 6900000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 117952522.25519286
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 198,
+    "median_price_vnd": 2950000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 42533333.333333336
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 208,
+    "median_price_vnd": 7600000000.0,
+    "median_area_m2": 64.0,
+    "median_unit_price_vnd": 121212121.21212122
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 144,
+    "median_price_vnd": 2800000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 38356164.38356164
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 183,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 58.6,
+    "median_unit_price_vnd": 126950354.60992908
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 157,
+    "median_price_vnd": 2300000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 36190476.190476194
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 168,
+    "median_price_vnd": 6990000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 121250000.0
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 149,
+    "median_price_vnd": 2600000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 39041095.89041096
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 278,
+    "median_price_vnd": 7250000000.0,
+    "median_area_m2": 59.0,
+    "median_unit_price_vnd": 121164021.16402118
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 188,
+    "median_price_vnd": 3800000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 48076923.07692308
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 222,
+    "median_price_vnd": 7600000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 131627056.6727605
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 150,
+    "median_price_vnd": 3850000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 51333333.333333336
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 234,
+    "median_price_vnd": 7450000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 130000000.0
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 146,
+    "median_price_vnd": 3200000000.0,
+    "median_area_m2": 71.0,
+    "median_unit_price_vnd": 48452380.952380955
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 219,
+    "median_price_vnd": 7450000000.0,
+    "median_area_m2": 57.3,
+    "median_unit_price_vnd": 134380453.7521815
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 72,
+    "median_price_vnd": 3200000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 53174603.17460317
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 78,
+    "median_price_vnd": 7100000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 120000000.0
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 184,
+    "median_price_vnd": 3600000000.0,
+    "median_area_m2": 74.0,
+    "median_unit_price_vnd": 52777777.777777776
+  },
+  {
+    "district_code": "764",
+    "district_label": "Quận Gò Vấp",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 241,
+    "median_price_vnd": 7400000000.0,
+    "median_area_m2": 57.1,
+    "median_unit_price_vnd": 130980392.15686275
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 380,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 94.0,
+    "median_unit_price_vnd": 94444444.44444445
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 200,
+    "median_price_vnd": 10200000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 173267326.73267326
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 549,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 91.0,
+    "median_unit_price_vnd": 79069767.44186047
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 285,
+    "median_price_vnd": 12000000000.0,
+    "median_area_m2": 68.1,
+    "median_unit_price_vnd": 170235546.03854388
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 523,
+    "median_price_vnd": 8200000000.0,
+    "median_area_m2": 89.0,
+    "median_unit_price_vnd": 95588235.29411764
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 278,
+    "median_price_vnd": 9300000000.0,
+    "median_area_m2": 58.9,
+    "median_unit_price_vnd": 161818181.8181818
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 614,
+    "median_price_vnd": 6000000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 73529411.76470588
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 197,
+    "median_price_vnd": 9800000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 173333333.33333334
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 607,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 85.0,
+    "median_unit_price_vnd": 85714285.71428572
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 303,
+    "median_price_vnd": 9200000000.0,
+    "median_area_m2": 50.0,
+    "median_unit_price_vnd": 180000000.0
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 576,
+    "median_price_vnd": 6600000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 82178217.82178217
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 257,
+    "median_price_vnd": 9900000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 168000000.0
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 794,
+    "median_price_vnd": 8300000000.0,
+    "median_area_m2": 82.0,
+    "median_unit_price_vnd": 95588235.29411764
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 330,
+    "median_price_vnd": 9200000000.0,
+    "median_area_m2": 56.0,
+    "median_unit_price_vnd": 177272727.27272728
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 491,
+    "median_price_vnd": 9700000000.0,
+    "median_area_m2": 88.0,
+    "median_unit_price_vnd": 107071428.57142857
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 159,
+    "median_price_vnd": 8900000000.0,
+    "median_area_m2": 51.0,
+    "median_unit_price_vnd": 179230769.23076922
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 247,
+    "median_price_vnd": 6150000000.0,
+    "median_area_m2": 79.1,
+    "median_unit_price_vnd": 80419580.41958041
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 75,
+    "median_price_vnd": 8900000000.0,
+    "median_area_m2": 59.0,
+    "median_unit_price_vnd": 155555555.55555555
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 692,
+    "median_price_vnd": 8000000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 103333333.33333333
+  },
+  {
+    "district_code": "765",
+    "district_label": "Quận Bình Thạnh",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 260,
+    "median_price_vnd": 8800000000.0,
+    "median_area_m2": 53.0,
+    "median_unit_price_vnd": 179948586.11825192
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 285,
+    "median_price_vnd": 3900000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 52500000.0
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 203,
+    "median_price_vnd": 11000000000.0,
+    "median_area_m2": 65.0,
+    "median_unit_price_vnd": 162121212.12121212
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 706,
+    "median_price_vnd": 4200000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 55882352.941176474
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 285,
+    "median_price_vnd": 10000000000.0,
+    "median_area_m2": 63.0,
+    "median_unit_price_vnd": 161463939.72012916
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 617,
+    "median_price_vnd": 3400000000.0,
+    "median_area_m2": 71.0,
+    "median_unit_price_vnd": 49018669.21972235
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 246,
+    "median_price_vnd": 9800000000.0,
+    "median_area_m2": 63.0,
+    "median_unit_price_vnd": 153061224.48979592
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 648,
+    "median_price_vnd": 3850000000.0,
+    "median_area_m2": 73.0,
+    "median_unit_price_vnd": 54657534.24657534
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 283,
+    "median_price_vnd": 9900000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 166666666.66666666
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 886,
+    "median_price_vnd": 3900000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 56666666.666666664
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 429,
+    "median_price_vnd": 9500000000.0,
+    "median_area_m2": 61.0,
+    "median_unit_price_vnd": 169014084.50704226
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 848,
+    "median_price_vnd": 3900000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 53636363.63636363
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 444,
+    "median_price_vnd": 9200000000.0,
+    "median_area_m2": 62.0,
+    "median_unit_price_vnd": 158536585.36585367
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 749,
+    "median_price_vnd": 4350000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 54651162.79069767
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 384,
+    "median_price_vnd": 9500000000.0,
+    "median_area_m2": 61.0,
+    "median_unit_price_vnd": 156734693.87755102
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 479,
+    "median_price_vnd": 4600000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 60000000.0
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 259,
+    "median_price_vnd": 9400000000.0,
+    "median_area_m2": 61.0,
+    "median_unit_price_vnd": 152941176.47058824
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 189,
+    "median_price_vnd": 4700000000.0,
+    "median_area_m2": 73.0,
+    "median_unit_price_vnd": 71428571.42857143
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 136,
+    "median_price_vnd": 9500000000.0,
+    "median_area_m2": 62.0,
+    "median_unit_price_vnd": 159459459.45945945
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 608,
+    "median_price_vnd": 4650000000.0,
+    "median_area_m2": 69.0,
+    "median_unit_price_vnd": 74285714.28571428
+  },
+  {
+    "district_code": "766",
+    "district_label": "Quận Tân Bình",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 298,
+    "median_price_vnd": 9300000000.0,
+    "median_area_m2": 61.0,
+    "median_unit_price_vnd": 154255319.14893618
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 771,
+    "median_price_vnd": 3800000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 50000000.0
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 83,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 63.0,
+    "median_unit_price_vnd": 118309859.15492958
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1280,
+    "median_price_vnd": 3990000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 50000000.0
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 90,
+    "median_price_vnd": 7300000000.0,
+    "median_area_m2": 56.0,
+    "median_unit_price_vnd": 122413793.10344827
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1109,
+    "median_price_vnd": 3680000000.0,
+    "median_area_m2": 77.0,
+    "median_unit_price_vnd": 50684931.50684932
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 97,
+    "median_price_vnd": 7600000000.0,
+    "median_area_m2": 60.2,
+    "median_unit_price_vnd": 124750000.0
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 761,
+    "median_price_vnd": 4000000000.0,
+    "median_area_m2": 78.0,
+    "median_unit_price_vnd": 54925373.13432836
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 70,
+    "median_price_vnd": 6800000000.0,
+    "median_area_m2": 57.0,
+    "median_unit_price_vnd": 112857142.85714285
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1068,
+    "median_price_vnd": 4100000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 54375000.0
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 128,
+    "median_price_vnd": 7390000000.0,
+    "median_area_m2": 64.0,
+    "median_unit_price_vnd": 113333333.33333333
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1383,
+    "median_price_vnd": 4350000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 54545454.54545455
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 100,
+    "median_price_vnd": 6800000000.0,
+    "median_area_m2": 58.0,
+    "median_unit_price_vnd": 115384615.38461539
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1149,
+    "median_price_vnd": 4350000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 57608695.652173914
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 93,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 62.0,
+    "median_unit_price_vnd": 122321428.57142857
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 891,
+    "median_price_vnd": 4200000000.0,
+    "median_area_m2": 76.0,
+    "median_unit_price_vnd": 55000000.0
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 80,
+    "median_price_vnd": 7470000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 125000000.0
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 256,
+    "median_price_vnd": 4800000000.0,
+    "median_area_m2": 84.0,
+    "median_unit_price_vnd": 59375000.0
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 16,
+    "median_price_vnd": 7390000000.0,
+    "median_area_m2": 74.0,
+    "median_unit_price_vnd": 120000000.0
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1344,
+    "median_price_vnd": 4350000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 55952380.952380955
+  },
+  {
+    "district_code": "767",
+    "district_label": "Quận Tân Phú",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 113,
+    "median_price_vnd": 7000000000.0,
+    "median_area_m2": 64.1,
+    "median_unit_price_vnd": 120000000.0
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 162,
+    "median_price_vnd": 6200000000.0,
+    "median_area_m2": 85.0,
+    "median_unit_price_vnd": 70000000.0
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 147,
+    "median_price_vnd": 10900000000.0,
+    "median_area_m2": 59.0,
+    "median_unit_price_vnd": 181250000.0
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 288,
+    "median_price_vnd": 6200000000.0,
+    "median_area_m2": 83.0,
+    "median_unit_price_vnd": 72972972.97297297
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 128,
+    "median_price_vnd": 11500000000.0,
+    "median_area_m2": 58.2,
+    "median_unit_price_vnd": 200000000.0
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 265,
+    "median_price_vnd": 6300000000.0,
+    "median_area_m2": 90.0,
+    "median_unit_price_vnd": 73333333.33333333
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 165,
+    "median_price_vnd": 10000000000.0,
+    "median_area_m2": 54.4,
+    "median_unit_price_vnd": 197693574.95881385
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 295,
+    "median_price_vnd": 6250000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 80000000.0
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 114,
+    "median_price_vnd": 12800000000.0,
+    "median_area_m2": 59.0,
+    "median_unit_price_vnd": 199230769.23076922
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 513,
+    "median_price_vnd": 6400000000.0,
+    "median_area_m2": 83.0,
+    "median_unit_price_vnd": 79710144.92753623
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 232,
+    "median_price_vnd": 8500000000.0,
+    "median_area_m2": 48.0,
+    "median_unit_price_vnd": 185185185.1851852
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 476,
+    "median_price_vnd": 6200000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 76521739.13043478
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 222,
+    "median_price_vnd": 8900000000.0,
+    "median_area_m2": 52.0,
+    "median_unit_price_vnd": 207407407.4074074
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 592,
+    "median_price_vnd": 6050000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 80555555.55555555
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 195,
+    "median_price_vnd": 7700000000.0,
+    "median_area_m2": 46.2,
+    "median_unit_price_vnd": 197727272.72727272
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 272,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 85.0,
+    "median_unit_price_vnd": 85507246.3768116
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 115,
+    "median_price_vnd": 8600000000.0,
+    "median_area_m2": 47.0,
+    "median_unit_price_vnd": 207182320.44198895
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 95,
+    "median_price_vnd": 7800000000.0,
+    "median_area_m2": 90.0,
+    "median_unit_price_vnd": 88073394.49541284
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 57,
+    "median_price_vnd": 8600000000.0,
+    "median_area_m2": 44.0,
+    "median_unit_price_vnd": 210526315.78947368
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 470,
+    "median_price_vnd": 6950000000.0,
+    "median_area_m2": 74.0,
+    "median_unit_price_vnd": 91621621.62162162
+  },
+  {
+    "district_code": "768",
+    "district_label": "Quận Phú Nhuận",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 174,
+    "median_price_vnd": 8650000000.0,
+    "median_area_m2": 46.0,
+    "median_unit_price_vnd": 196000000.0
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1903,
+    "median_price_vnd": 6500000000.0,
+    "median_area_m2": 76.0,
+    "median_unit_price_vnd": 80000000.0
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 338,
+    "median_price_vnd": 7000000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 104166666.66666666
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1694,
+    "median_price_vnd": 5000000000.0,
+    "median_area_m2": 74.0,
+    "median_unit_price_vnd": 66875000.0
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 347,
+    "median_price_vnd": 6900000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 96330275.2293578
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1555,
+    "median_price_vnd": 5800000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 73469387.75510204
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 255,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 81.6,
+    "median_unit_price_vnd": 97058823.52941176
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1683,
+    "median_price_vnd": 5600000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 71875000.0
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 288,
+    "median_price_vnd": 7300000000.0,
+    "median_area_m2": 69.0,
+    "median_unit_price_vnd": 110864745.01108646
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 2223,
+    "median_price_vnd": 6500000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 83909180.65153012
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 382,
+    "median_price_vnd": 7200000000.0,
+    "median_area_m2": 68.3,
+    "median_unit_price_vnd": 100000000.0
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 2039,
+    "median_price_vnd": 6000000000.0,
+    "median_area_m2": 74.2,
+    "median_unit_price_vnd": 79113924.05063291
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 377,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 74.5,
+    "median_unit_price_vnd": 109090909.0909091
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1985,
+    "median_price_vnd": 5400000000.0,
+    "median_area_m2": 73.0,
+    "median_unit_price_vnd": 71014492.75362319
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 416,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 67.7,
+    "median_unit_price_vnd": 109756097.56097561
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1668,
+    "median_price_vnd": 5600000000.0,
+    "median_area_m2": 73.0,
+    "median_unit_price_vnd": 74181818.18181819
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 279,
+    "median_price_vnd": 7100000000.0,
+    "median_area_m2": 68.0,
+    "median_unit_price_vnd": 105128205.12820514
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1356,
+    "median_price_vnd": 6200000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 78787878.78787878
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 127,
+    "median_price_vnd": 7600000000.0,
+    "median_area_m2": 74.3,
+    "median_unit_price_vnd": 107792207.79220779
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 3061,
+    "median_price_vnd": 5100000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 69873417.721519
+  },
+  {
+    "district_code": "769",
+    "district_label": "Thành phố Thủ Đức",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 309,
+    "median_price_vnd": 7000000000.0,
+    "median_area_m2": 68.0,
+    "median_unit_price_vnd": 104947526.23688155
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 76,
+    "median_price_vnd": 3700000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 52857142.85714286
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 40,
+    "median_price_vnd": 14500000000.0,
+    "median_area_m2": 60.6,
+    "median_unit_price_vnd": 234323432.34323433
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 125,
+    "median_price_vnd": 4680000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 59285714.28571428
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 68,
+    "median_price_vnd": 9790000000.0,
+    "median_area_m2": 58.0,
+    "median_unit_price_vnd": 197727272.72727272
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 106,
+    "median_price_vnd": 5800000000.0,
+    "median_area_m2": 76.0,
+    "median_unit_price_vnd": 75609756.09756097
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 73,
+    "median_price_vnd": 11300000000.0,
+    "median_area_m2": 46.0,
+    "median_unit_price_vnd": 232000000.0
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 83,
+    "median_price_vnd": 5500000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 90769230.76923077
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 75,
+    "median_price_vnd": 11900000000.0,
+    "median_area_m2": 55.0,
+    "median_unit_price_vnd": 228000000.0
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 91,
+    "median_price_vnd": 5880000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 90476190.47619048
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 92,
+    "median_price_vnd": 8300000000.0,
+    "median_area_m2": 48.0,
+    "median_unit_price_vnd": 216279069.76744187
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 89,
+    "median_price_vnd": 4800000000.0,
+    "median_area_m2": 65.0,
+    "median_unit_price_vnd": 66666666.666666664
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 86,
+    "median_price_vnd": 9000000000.0,
+    "median_area_m2": 50.0,
+    "median_unit_price_vnd": 200000000.0
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 94,
+    "median_price_vnd": 6700000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 71028037.38317756
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 92,
+    "median_price_vnd": 9900000000.0,
+    "median_area_m2": 56.0,
+    "median_unit_price_vnd": 223529411.7647059
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 115,
+    "median_price_vnd": 6000000000.0,
+    "median_area_m2": 100.0,
+    "median_unit_price_vnd": 60975609.75609756
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 48,
+    "median_price_vnd": 9000000000.0,
+    "median_area_m2": 39.1,
+    "median_unit_price_vnd": 234500000.0
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 22,
+    "median_price_vnd": 5850000000.0,
+    "median_area_m2": 80.5,
+    "median_unit_price_vnd": 59848484.84848485
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 25,
+    "median_price_vnd": 11750000000.0,
+    "median_area_m2": 43.0,
+    "median_unit_price_vnd": 246031746.03174603
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 112,
+    "median_price_vnd": 6500000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 83950617.28395061
+  },
+  {
+    "district_code": "770",
+    "district_label": "Quận 3",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 56,
+    "median_price_vnd": 8680000000.0,
+    "median_area_m2": 42.6,
+    "median_unit_price_vnd": 200000000.0
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 126,
+    "median_price_vnd": 4800000000.0,
+    "median_area_m2": 74.0,
+    "median_unit_price_vnd": 64189189.18918919
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 53,
+    "median_price_vnd": 11000000000.0,
+    "median_area_m2": 52.5,
+    "median_unit_price_vnd": 221621621.6216216
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 217,
+    "median_price_vnd": 4780000000.0,
+    "median_area_m2": 71.0,
+    "median_unit_price_vnd": 65340909.09090909
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 97,
+    "median_price_vnd": 10500000000.0,
+    "median_area_m2": 52.0,
+    "median_unit_price_vnd": 222891566.26506025
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 206,
+    "median_price_vnd": 5200000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 64431818.18181818
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 52,
+    "median_price_vnd": 11000000000.0,
+    "median_area_m2": 51.0,
+    "median_unit_price_vnd": 229166666.66666666
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 205,
+    "median_price_vnd": 4950000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 72727272.72727273
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 42,
+    "median_price_vnd": 8800000000.0,
+    "median_area_m2": 50.0,
+    "median_unit_price_vnd": 207207207.2072072
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 310,
+    "median_price_vnd": 5000000000.0,
+    "median_area_m2": 74.0,
+    "median_unit_price_vnd": 67567567.56756757
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 70,
+    "median_price_vnd": 8500000000.0,
+    "median_area_m2": 45.0,
+    "median_unit_price_vnd": 203488372.09302327
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 440,
+    "median_price_vnd": 3750000000.0,
+    "median_area_m2": 69.0,
+    "median_unit_price_vnd": 56857142.85714286
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 70,
+    "median_price_vnd": 10890000000.0,
+    "median_area_m2": 55.0,
+    "median_unit_price_vnd": 218750000.0
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 484,
+    "median_price_vnd": 3400000000.0,
+    "median_area_m2": 65.0,
+    "median_unit_price_vnd": 54000000.0
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 84,
+    "median_price_vnd": 9000000000.0,
+    "median_area_m2": 50.0,
+    "median_unit_price_vnd": 237735849.05660376
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 258,
+    "median_price_vnd": 3800000000.0,
+    "median_area_m2": 68.0,
+    "median_unit_price_vnd": 64545454.54545455
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 60,
+    "median_price_vnd": 8000000000.0,
+    "median_area_m2": 42.0,
+    "median_unit_price_vnd": 225000000.0
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 92,
+    "median_price_vnd": 6500000000.0,
+    "median_area_m2": 71.0,
+    "median_unit_price_vnd": 88888888.8888889
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 31,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 50.0,
+    "median_unit_price_vnd": 201785714.2857143
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 432,
+    "median_price_vnd": 6500000000.0,
+    "median_area_m2": 74.0,
+    "median_unit_price_vnd": 90000000.0
+  },
+  {
+    "district_code": "771",
+    "district_label": "Quận 10",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 67,
+    "median_price_vnd": 7700000000.0,
+    "median_area_m2": 43.3,
+    "median_unit_price_vnd": 207692307.69230768
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 143,
+    "median_price_vnd": 4300000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 47636363.63636363
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 19,
+    "median_price_vnd": 9600000000.0,
+    "median_area_m2": 54.0,
+    "median_unit_price_vnd": 200516351.11876076
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 144,
+    "median_price_vnd": 3490000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 47157894.7368421
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 10,
+    "median_price_vnd": 10700000000.0,
+    "median_area_m2": 56.0,
+    "median_unit_price_vnd": 180000000.0
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 230,
+    "median_price_vnd": 3500000000.0,
+    "median_area_m2": 66.0,
+    "median_unit_price_vnd": 50000000.0
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 17,
+    "median_price_vnd": 8500000000.0,
+    "median_area_m2": 43.0,
+    "median_unit_price_vnd": 188571428.57142857
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 240,
+    "median_price_vnd": 3650000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 55813953.488372095
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 27,
+    "median_price_vnd": 9600000000.0,
+    "median_area_m2": 47.6,
+    "median_unit_price_vnd": 190476190.47619048
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 289,
+    "median_price_vnd": 4350000000.0,
+    "median_area_m2": 71.0,
+    "median_unit_price_vnd": 59692307.692307696
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 36,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 53.0,
+    "median_unit_price_vnd": 153333333.33333334
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 254,
+    "median_price_vnd": 4700000000.0,
+    "median_area_m2": 73.0,
+    "median_unit_price_vnd": 60000000.0
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 17,
+    "median_price_vnd": 7300000000.0,
+    "median_area_m2": 62.0,
+    "median_unit_price_vnd": 153125000.0
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 331,
+    "median_price_vnd": 3700000000.0,
+    "median_area_m2": 67.0,
+    "median_unit_price_vnd": 56153846.15384615
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 43,
+    "median_price_vnd": 7300000000.0,
+    "median_area_m2": 50.0,
+    "median_unit_price_vnd": 143933054.39330545
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 250,
+    "median_price_vnd": 4600000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 58181818.18181818
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 13,
+    "median_price_vnd": 6000000000.0,
+    "median_area_m2": 38.0,
+    "median_unit_price_vnd": 144522144.52214453
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 105,
+    "median_price_vnd": 3650000000.0,
+    "median_area_m2": 65.0,
+    "median_unit_price_vnd": 60416666.666666664
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 10,
+    "median_price_vnd": 6880000000.0,
+    "median_area_m2": 40.0,
+    "median_unit_price_vnd": 159615384.6153846
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 358,
+    "median_price_vnd": 3800000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 59444444.44444445
+  },
+  {
+    "district_code": "772",
+    "district_label": "Quận 11",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 23,
+    "median_price_vnd": 7400000000.0,
+    "median_area_m2": 50.9,
+    "median_unit_price_vnd": 146911764.70588234
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 312,
+    "median_price_vnd": 5500000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 73545454.54545455
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 23,
+    "median_price_vnd": 8490000000.0,
+    "median_area_m2": 45.0,
+    "median_unit_price_vnd": 178321678.3216783
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 364,
+    "median_price_vnd": 5500000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 75000000.0
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 43,
+    "median_price_vnd": 6800000000.0,
+    "median_area_m2": 35.0,
+    "median_unit_price_vnd": 193750000.0
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 304,
+    "median_price_vnd": 5800000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 78571428.57142857
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 48,
+    "median_price_vnd": 7190000000.0,
+    "median_area_m2": 41.0,
+    "median_unit_price_vnd": 156140350.87719297
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 311,
+    "median_price_vnd": 5300000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 70400000.0
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 53,
+    "median_price_vnd": 5200000000.0,
+    "median_area_m2": 40.0,
+    "median_unit_price_vnd": 132727272.72727273
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 420,
+    "median_price_vnd": 6100000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 79268292.68292683
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 64,
+    "median_price_vnd": 6200000000.0,
+    "median_area_m2": 42.4,
+    "median_unit_price_vnd": 147727272.72727272
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 421,
+    "median_price_vnd": 6300000000.0,
+    "median_area_m2": 77.2,
+    "median_unit_price_vnd": 83333333.33333333
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 45,
+    "median_price_vnd": 5680000000.0,
+    "median_area_m2": 28.3,
+    "median_unit_price_vnd": 203488372.09302327
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 445,
+    "median_price_vnd": 6500000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 85641025.64102565
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 41,
+    "median_price_vnd": 5890000000.0,
+    "median_area_m2": 40.0,
+    "median_unit_price_vnd": 162564102.56410256
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 361,
+    "median_price_vnd": 7000000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 85555555.55555555
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 30,
+    "median_price_vnd": 5800000000.0,
+    "median_area_m2": 44.0,
+    "median_unit_price_vnd": 167500000.0
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 193,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 77.0,
+    "median_unit_price_vnd": 97058823.52941176
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 25,
+    "median_price_vnd": 6500000000.0,
+    "median_area_m2": 40.0,
+    "median_unit_price_vnd": 198437500.0
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 484,
+    "median_price_vnd": 6500000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 93125000.0
+  },
+  {
+    "district_code": "773",
+    "district_label": "Quận 4",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 33,
+    "median_price_vnd": 6399000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 125925925.92592593
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 92,
+    "median_price_vnd": 3550000000.0,
+    "median_area_m2": 74.0,
+    "median_unit_price_vnd": 52727272.72727273
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 14,
+    "median_price_vnd": 11000000000.0,
+    "median_area_m2": 56.6,
+    "median_unit_price_vnd": 227272727.27272728
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 121,
+    "median_price_vnd": 3500000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 51612903.22580645
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 12,
+    "median_price_vnd": 14500000000.0,
+    "median_area_m2": 48.1,
+    "median_unit_price_vnd": 223333333.33333334
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 83,
+    "median_price_vnd": 3400000000.0,
+    "median_area_m2": 67.0,
+    "median_unit_price_vnd": 51546391.75257732
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 11,
+    "median_price_vnd": 12000000000.0,
+    "median_area_m2": 57.0,
+    "median_unit_price_vnd": 200000000.0
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 120,
+    "median_price_vnd": 3300000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 52307692.307692304
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 21,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 42.0,
+    "median_unit_price_vnd": 211267605.63380283
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 161,
+    "median_price_vnd": 3600000000.0,
+    "median_area_m2": 77.6,
+    "median_unit_price_vnd": 56451612.90322581
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 15,
+    "median_price_vnd": 10000000000.0,
+    "median_area_m2": 56.0,
+    "median_unit_price_vnd": 217283950.61728394
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 206,
+    "median_price_vnd": 4300000000.0,
+    "median_area_m2": 83.0,
+    "median_unit_price_vnd": 56034482.75862069
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 27,
+    "median_price_vnd": 12000000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 210526315.78947368
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 282,
+    "median_price_vnd": 3550000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 54615384.615384616
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 41,
+    "median_price_vnd": 9300000000.0,
+    "median_area_m2": 55.0,
+    "median_unit_price_vnd": 216438356.16438356
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 241,
+    "median_price_vnd": 6500000000.0,
+    "median_area_m2": 86.0,
+    "median_unit_price_vnd": 69230769.23076923
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 19,
+    "median_price_vnd": 12500000000.0,
+    "median_area_m2": 56.8,
+    "median_unit_price_vnd": 213333333.33333334
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 75,
+    "median_price_vnd": 4600000000.0,
+    "median_area_m2": 85.1,
+    "median_unit_price_vnd": 59523809.52380952
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 12,
+    "median_price_vnd": 6000000000.0,
+    "median_area_m2": 24.0,
+    "median_unit_price_vnd": 196875000.0
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 274,
+    "median_price_vnd": 4200000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 60000000.0
+  },
+  {
+    "district_code": "774",
+    "district_label": "Quận 5",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 26,
+    "median_price_vnd": 8650000000.0,
+    "median_area_m2": 55.0,
+    "median_unit_price_vnd": 241636363.63636363
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 155,
+    "median_price_vnd": 3650000000.0,
+    "median_area_m2": 78.0,
+    "median_unit_price_vnd": 47142857.14285714
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 19,
+    "median_price_vnd": 11900000000.0,
+    "median_area_m2": 68.1,
+    "median_unit_price_vnd": 148750000.0
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 277,
+    "median_price_vnd": 3800000000.0,
+    "median_area_m2": 78.0,
+    "median_unit_price_vnd": 46511627.906976745
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 22,
+    "median_price_vnd": 6350000000.0,
+    "median_area_m2": 56.7,
+    "median_unit_price_vnd": 120817843.86617102
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 365,
+    "median_price_vnd": 3700000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 47058823.52941176
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 12,
+    "median_price_vnd": 6400000000.0,
+    "median_area_m2": 53.8,
+    "median_unit_price_vnd": 135937500.0
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 307,
+    "median_price_vnd": 3700000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 46296296.2962963
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 18,
+    "median_price_vnd": 5800000000.0,
+    "median_area_m2": 48.9,
+    "median_unit_price_vnd": 101012658.2278481
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 431,
+    "median_price_vnd": 4000000000.0,
+    "median_area_m2": 83.0,
+    "median_unit_price_vnd": 49484536.082474224
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 18,
+    "median_price_vnd": 6100000000.0,
+    "median_area_m2": 59.5,
+    "median_unit_price_vnd": 104121475.05422993
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 481,
+    "median_price_vnd": 4000000000.0,
+    "median_area_m2": 83.0,
+    "median_unit_price_vnd": 50000000.0
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 23,
+    "median_price_vnd": 5450000000.0,
+    "median_area_m2": 47.0,
+    "median_unit_price_vnd": 141666666.66666666
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 486,
+    "median_price_vnd": 4300000000.0,
+    "median_area_m2": 83.0,
+    "median_unit_price_vnd": 52325581.39534884
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 28,
+    "median_price_vnd": 5950000000.0,
+    "median_area_m2": 45.5,
+    "median_unit_price_vnd": 143442622.95081967
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 343,
+    "median_price_vnd": 3800000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 52419354.838709675
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 19,
+    "median_price_vnd": 6250000000.0,
+    "median_area_m2": 52.0,
+    "median_unit_price_vnd": 121153846.15384616
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 103,
+    "median_price_vnd": 5000000000.0,
+    "median_area_m2": 86.0,
+    "median_unit_price_vnd": 56000000.0
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 10,
+    "median_price_vnd": 6300000000.0,
+    "median_area_m2": 52.0,
+    "median_unit_price_vnd": 139750000.0
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 488,
+    "median_price_vnd": 4100000000.0,
+    "median_area_m2": 77.0,
+    "median_unit_price_vnd": 54000000.0
+  },
+  {
+    "district_code": "775",
+    "district_label": "Quận 6",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 20,
+    "median_price_vnd": 8380000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 120000000.0
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 364,
+    "median_price_vnd": 2900000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 40000000.0
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 24,
+    "median_price_vnd": 6390000000.0,
+    "median_area_m2": 59.0,
+    "median_unit_price_vnd": 93150684.93150684
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 507,
+    "median_price_vnd": 2850000000.0,
+    "median_area_m2": 74.0,
+    "median_unit_price_vnd": 40000000.0
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 26,
+    "median_price_vnd": 5500000000.0,
+    "median_area_m2": 54.0,
+    "median_unit_price_vnd": 125000000.0
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 535,
+    "median_price_vnd": 3300000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 45569620.25316456
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 35,
+    "median_price_vnd": 6500000000.0,
+    "median_area_m2": 58.5,
+    "median_unit_price_vnd": 136577708.00627944
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 582,
+    "median_price_vnd": 3500000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 43888888.88888889
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 32,
+    "median_price_vnd": 6200000000.0,
+    "median_area_m2": 49.8,
+    "median_unit_price_vnd": 125000000.0
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 784,
+    "median_price_vnd": 3400000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 48351648.35164835
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 31,
+    "median_price_vnd": 6800000000.0,
+    "median_area_m2": 62.0,
+    "median_unit_price_vnd": 115631691.64882226
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 616,
+    "median_price_vnd": 3500000000.0,
+    "median_area_m2": 73.0,
+    "median_unit_price_vnd": 47777777.777777776
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 56,
+    "median_price_vnd": 6800000000.0,
+    "median_area_m2": 55.0,
+    "median_unit_price_vnd": 133200000.0
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 861,
+    "median_price_vnd": 3750000000.0,
+    "median_area_m2": 78.0,
+    "median_unit_price_vnd": 47671232.87671233
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 73,
+    "median_price_vnd": 7000000000.0,
+    "median_area_m2": 55.0,
+    "median_unit_price_vnd": 125000000.0
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 618,
+    "median_price_vnd": 3400000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 46794871.79487179
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 56,
+    "median_price_vnd": 6400000000.0,
+    "median_area_m2": 51.0,
+    "median_unit_price_vnd": 127800000.0
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 348,
+    "median_price_vnd": 3500000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 50714285.71428572
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 20,
+    "median_price_vnd": 6180000000.0,
+    "median_area_m2": 41.0,
+    "median_unit_price_vnd": 141250000.0
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1010,
+    "median_price_vnd": 3500000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 49264705.88235294
+  },
+  {
+    "district_code": "776",
+    "district_label": "Quận 8",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 75,
+    "median_price_vnd": 7000000000.0,
+    "median_area_m2": 54.0,
+    "median_unit_price_vnd": 127800000.0
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 221,
+    "median_price_vnd": 2850000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 40000000.0
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 41,
+    "median_price_vnd": 6200000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 98471986.41765705
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 413,
+    "median_price_vnd": 3000000000.0,
+    "median_area_m2": 68.0,
+    "median_unit_price_vnd": 42647058.823529415
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 65,
+    "median_price_vnd": 5300000000.0,
+    "median_area_m2": 59.0,
+    "median_unit_price_vnd": 93478260.86956522
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 267,
+    "median_price_vnd": 2800000000.0,
+    "median_area_m2": 68.0,
+    "median_unit_price_vnd": 42148760.33057851
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 69,
+    "median_price_vnd": 5790000000.0,
+    "median_area_m2": 64.0,
+    "median_unit_price_vnd": 99983333.33333333
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 302,
+    "median_price_vnd": 3150000000.0,
+    "median_area_m2": 68.0,
+    "median_unit_price_vnd": 43125000.0
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 60,
+    "median_price_vnd": 5400000000.0,
+    "median_area_m2": 57.0,
+    "median_unit_price_vnd": 102051282.05128205
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 392,
+    "median_price_vnd": 2980000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 45454545.45454545
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 95,
+    "median_price_vnd": 5550000000.0,
+    "median_area_m2": 54.0,
+    "median_unit_price_vnd": 101739130.43478261
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 417,
+    "median_price_vnd": 2850000000.0,
+    "median_area_m2": 68.0,
+    "median_unit_price_vnd": 44444444.44444445
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 95,
+    "median_price_vnd": 6650000000.0,
+    "median_area_m2": 63.0,
+    "median_unit_price_vnd": 110666666.66666667
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 482,
+    "median_price_vnd": 3100000000.0,
+    "median_area_m2": 68.0,
+    "median_unit_price_vnd": 47142857.14285714
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 99,
+    "median_price_vnd": 5780000000.0,
+    "median_area_m2": 53.0,
+    "median_unit_price_vnd": 106250000.0
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 403,
+    "median_price_vnd": 2920000000.0,
+    "median_area_m2": 67.0,
+    "median_unit_price_vnd": 46226415.094339624
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 85,
+    "median_price_vnd": 6300000000.0,
+    "median_area_m2": 58.0,
+    "median_unit_price_vnd": 107954545.45454545
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 202,
+    "median_price_vnd": 3140000000.0,
+    "median_area_m2": 67.0,
+    "median_unit_price_vnd": 46969696.96969697
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 42,
+    "median_price_vnd": 6000000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 109677419.35483871
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 562,
+    "median_price_vnd": 3100000000.0,
+    "median_area_m2": 67.0,
+    "median_unit_price_vnd": 48679245.283018865
+  },
+  {
+    "district_code": "777",
+    "district_label": "Quận Bình Tân",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 95,
+    "median_price_vnd": 5800000000.0,
+    "median_area_m2": 64.0,
+    "median_unit_price_vnd": 93137254.90196079
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1510,
+    "median_price_vnd": 6000000000.0,
+    "median_area_m2": 88.0,
+    "median_unit_price_vnd": 68686868.68686868
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 47,
+    "median_price_vnd": 8800000000.0,
+    "median_area_m2": 74.3,
+    "median_unit_price_vnd": 141935483.87096775
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 2393,
+    "median_price_vnd": 6200000000.0,
+    "median_area_m2": 87.0,
+    "median_unit_price_vnd": 71313959.70761277
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 109,
+    "median_price_vnd": 7470000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 130000000.0
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 2143,
+    "median_price_vnd": 6800000000.0,
+    "median_area_m2": 90.0,
+    "median_unit_price_vnd": 75000000.0
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 85,
+    "median_price_vnd": 10800000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 151086956.52173913
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 2433,
+    "median_price_vnd": 6600000000.0,
+    "median_area_m2": 88.0,
+    "median_unit_price_vnd": 76595744.68085106
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 74,
+    "median_price_vnd": 5990000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 115192307.6923077
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 3722,
+    "median_price_vnd": 6700000000.0,
+    "median_area_m2": 88.0,
+    "median_unit_price_vnd": 75471698.11320755
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 106,
+    "median_price_vnd": 7100000000.0,
+    "median_area_m2": 59.0,
+    "median_unit_price_vnd": 119341563.78600822
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 3457,
+    "median_price_vnd": 6600000000.0,
+    "median_area_m2": 85.0,
+    "median_unit_price_vnd": 76923076.92307693
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 86,
+    "median_price_vnd": 6900000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 114583333.33333333
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 4209,
+    "median_price_vnd": 7150000000.0,
+    "median_area_m2": 89.0,
+    "median_unit_price_vnd": 80188679.24528302
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 104,
+    "median_price_vnd": 6300000000.0,
+    "median_area_m2": 61.3,
+    "median_unit_price_vnd": 100000000.0
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 2846,
+    "median_price_vnd": 7000000000.0,
+    "median_area_m2": 88.0,
+    "median_unit_price_vnd": 80000000.0
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 80,
+    "median_price_vnd": 6750000000.0,
+    "median_area_m2": 58.0,
+    "median_unit_price_vnd": 113636363.63636364
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1212,
+    "median_price_vnd": 6600000000.0,
+    "median_area_m2": 88.0,
+    "median_unit_price_vnd": 78225806.4516129
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 54,
+    "median_price_vnd": 7300000000.0,
+    "median_area_m2": 63.5,
+    "median_unit_price_vnd": 122659780.50355068
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 4282,
+    "median_price_vnd": 6650000000.0,
+    "median_area_m2": 88.0,
+    "median_unit_price_vnd": 77678571.42857143
+  },
+  {
+    "district_code": "778",
+    "district_label": "Quận 7",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 74,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 65.5,
+    "median_unit_price_vnd": 132890365.44850498
+  },
+  {
+    "district_code": "783",
+    "district_label": "Huyện Củ Chi",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 3,
+    "median_price_vnd": 1700000000.0,
+    "median_area_m2": 188.0,
+    "median_unit_price_vnd": 9042553.191489361
+  },
+  {
+    "district_code": "783",
+    "district_label": "Huyện Củ Chi",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 7,
+    "median_price_vnd": 3100000000.0,
+    "median_area_m2": 86.0,
+    "median_unit_price_vnd": 21472392.63803681
+  },
+  {
+    "district_code": "783",
+    "district_label": "Huyện Củ Chi",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 3,
+    "median_price_vnd": 2800000000.0,
+    "median_area_m2": 170.0,
+    "median_unit_price_vnd": 16470588.235294119
+  },
+  {
+    "district_code": "783",
+    "district_label": "Huyện Củ Chi",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 11,
+    "median_price_vnd": 2200000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 26250000.0
+  },
+  {
+    "district_code": "783",
+    "district_label": "Huyện Củ Chi",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 6,
+    "median_price_vnd": 1800000000.0,
+    "median_area_m2": 115.0,
+    "median_unit_price_vnd": 13636363.636363637
+  },
+  {
+    "district_code": "783",
+    "district_label": "Huyện Củ Chi",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 4,
+    "median_price_vnd": 1600000000.0,
+    "median_area_m2": 100.0,
+    "median_unit_price_vnd": 16176470.588235294
+  },
+  {
+    "district_code": "783",
+    "district_label": "Huyện Củ Chi",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 4,
+    "median_price_vnd": 1650000000.0,
+    "median_area_m2": 95.7,
+    "median_unit_price_vnd": 17241379.310344826
+  },
+  {
+    "district_code": "783",
+    "district_label": "Huyện Củ Chi",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 3,
+    "median_price_vnd": 5500000000.0,
+    "median_area_m2": 240.0,
+    "median_unit_price_vnd": 16620370.370370371
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1,
+    "median_price_vnd": 970000000.0,
+    "median_area_m2": 69.0,
+    "median_unit_price_vnd": 14057971.014492754
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 12,
+    "median_price_vnd": 3900000000.0,
+    "median_area_m2": 86.0,
+    "median_unit_price_vnd": 37313432.8358209
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 3,
+    "median_price_vnd": 1250000000.0,
+    "median_area_m2": 67.0,
+    "median_unit_price_vnd": 18656716.41791045
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 18,
+    "median_price_vnd": 5000000000.0,
+    "median_area_m2": 92.0,
+    "median_unit_price_vnd": 35326086.95652174
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 5,
+    "median_price_vnd": 1050000000.0,
+    "median_area_m2": 50.0,
+    "median_unit_price_vnd": 21000000.0
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 22,
+    "median_price_vnd": 5250000000.0,
+    "median_area_m2": 85.0,
+    "median_unit_price_vnd": 54545454.54545455
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 2,
+    "median_price_vnd": 1250000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 19402985.074626867
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 9,
+    "median_price_vnd": 7900000000.0,
+    "median_area_m2": 166.0,
+    "median_unit_price_vnd": 47590361.44578313
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1,
+    "median_price_vnd": 1150000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 19166666.666666668
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 15,
+    "median_price_vnd": 3750000000.0,
+    "median_area_m2": 88.0,
+    "median_unit_price_vnd": 45180722.89156626
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1,
+    "median_price_vnd": 1500000000.0,
+    "median_area_m2": 65.0,
+    "median_unit_price_vnd": 23076923.076923076
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 23,
+    "median_price_vnd": 6200000000.0,
+    "median_area_m2": 98.9,
+    "median_unit_price_vnd": 51470588.23529412
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 6,
+    "median_price_vnd": 1250000000.0,
+    "median_area_m2": 67.0,
+    "median_unit_price_vnd": 18571428.57142857
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 23,
+    "median_price_vnd": 5300000000.0,
+    "median_area_m2": 85.0,
+    "median_unit_price_vnd": 46840958.60566449
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 4,
+    "median_price_vnd": 1100000000.0,
+    "median_area_m2": 51.0,
+    "median_unit_price_vnd": 21568627.45098039
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 20,
+    "median_price_vnd": 4300000000.0,
+    "median_area_m2": 94.0,
+    "median_unit_price_vnd": 40833333.333333336
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 3,
+    "median_price_vnd": 1150000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 20000000.0
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 10,
+    "median_price_vnd": 3500000000.0,
+    "median_area_m2": 85.0,
+    "median_unit_price_vnd": 36496350.3649635
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 12,
+    "median_price_vnd": 1150000000.0,
+    "median_area_m2": 56.0,
+    "median_unit_price_vnd": 20535714.285714287
+  },
+  {
+    "district_code": "784",
+    "district_label": "Huyện Hóc Môn",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 34,
+    "median_price_vnd": 4390000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 58163265.30612245
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 261,
+    "median_price_vnd": 2700000000.0,
+    "median_area_m2": 78.0,
+    "median_unit_price_vnd": 35526315.78947368
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 10,
+    "median_price_vnd": 1710000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 23913043.47826087
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 470,
+    "median_price_vnd": 2550000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 33636363.63636363
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 6,
+    "median_price_vnd": 5000000000.0,
+    "median_area_m2": 105.0,
+    "median_unit_price_vnd": 47619047.61904762
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 404,
+    "median_price_vnd": 2800000000.0,
+    "median_area_m2": 78.0,
+    "median_unit_price_vnd": 41538461.538461536
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 5,
+    "median_price_vnd": 4600000000.0,
+    "median_area_m2": 139.4,
+    "median_unit_price_vnd": 36111111.11111111
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 390,
+    "median_price_vnd": 3000000000.0,
+    "median_area_m2": 69.0,
+    "median_unit_price_vnd": 42203389.83050848
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 4,
+    "median_price_vnd": 4600000000.0,
+    "median_area_m2": 150.0,
+    "median_unit_price_vnd": 23000000.0
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 624,
+    "median_price_vnd": 3300000000.0,
+    "median_area_m2": 69.0,
+    "median_unit_price_vnd": 47101449.27536232
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 11,
+    "median_price_vnd": 5600000000.0,
+    "median_area_m2": 95.0,
+    "median_unit_price_vnd": 73529411.76470588
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 681,
+    "median_price_vnd": 3500000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 46753246.753246754
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 11,
+    "median_price_vnd": 3380000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 71914893.61702128
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 830,
+    "median_price_vnd": 3300000000.0,
+    "median_area_m2": 69.0,
+    "median_unit_price_vnd": 47457627.118644066
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 7,
+    "median_price_vnd": 6900000000.0,
+    "median_area_m2": 96.0,
+    "median_unit_price_vnd": 85185185.18518518
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 636,
+    "median_price_vnd": 3400000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 49382716.04938272
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 7,
+    "median_price_vnd": 7750000000.0,
+    "median_area_m2": 138.5,
+    "median_unit_price_vnd": 66622251.832111925
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 258,
+    "median_price_vnd": 3250000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 48305084.74576271
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 10,
+    "median_price_vnd": 6000000000.0,
+    "median_area_m2": 82.8,
+    "median_unit_price_vnd": 48913043.47826087
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 805,
+    "median_price_vnd": 3530000000.0,
+    "median_area_m2": 72.0,
+    "median_unit_price_vnd": 50847457.62711865
+  },
+  {
+    "district_code": "785",
+    "district_label": "Huyện Bình Chánh",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 13,
+    "median_price_vnd": 4700000000.0,
+    "median_area_m2": 64.7,
+    "median_unit_price_vnd": 73333333.33333333
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2025-06",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 207,
+    "median_price_vnd": 4350000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 56122448.97959184
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2025-06",
+    "property_type_name": "Nhà",
+    "count": 16,
+    "median_price_vnd": 4700000000.0,
+    "median_area_m2": 60.0,
+    "median_unit_price_vnd": 68888888.8888889
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2025-07",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 376,
+    "median_price_vnd": 4500000000.0,
+    "median_area_m2": 79.7,
+    "median_unit_price_vnd": 53472222.222222224
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2025-07",
+    "property_type_name": "Nhà",
+    "count": 29,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 83.0,
+    "median_unit_price_vnd": 93975903.61445783
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2025-08",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 329,
+    "median_price_vnd": 4500000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 54166666.666666664
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2025-08",
+    "property_type_name": "Nhà",
+    "count": 21,
+    "median_price_vnd": 6800000000.0,
+    "median_area_m2": 82.5,
+    "median_unit_price_vnd": 93975903.61445783
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 364,
+    "median_price_vnd": 4500000000.0,
+    "median_area_m2": 81.0,
+    "median_unit_price_vnd": 51724137.93103448
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2025-09",
+    "property_type_name": "Nhà",
+    "count": 26,
+    "median_price_vnd": 6290000000.0,
+    "median_area_m2": 78.0,
+    "median_unit_price_vnd": 65094339.62264151
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 604,
+    "median_price_vnd": 4700000000.0,
+    "median_area_m2": 76.0,
+    "median_unit_price_vnd": 63855421.686746985
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2025-10",
+    "property_type_name": "Nhà",
+    "count": 24,
+    "median_price_vnd": 5900000000.0,
+    "median_area_m2": 78.1,
+    "median_unit_price_vnd": 77777777.77777778
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 581,
+    "median_price_vnd": 4700000000.0,
+    "median_area_m2": 76.0,
+    "median_unit_price_vnd": 62666666.666666664
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 33,
+    "median_price_vnd": 6950000000.0,
+    "median_area_m2": 107.8,
+    "median_unit_price_vnd": 53086419.75308642
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2025-12",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 708,
+    "median_price_vnd": 4850000000.0,
+    "median_area_m2": 82.0,
+    "median_unit_price_vnd": 58333333.333333336
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2025-12",
+    "property_type_name": "Nhà",
+    "count": 42,
+    "median_price_vnd": 7500000000.0,
+    "median_area_m2": 81.1,
+    "median_unit_price_vnd": 72222222.22222222
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 587,
+    "median_price_vnd": 5000000000.0,
+    "median_area_m2": 80.0,
+    "median_unit_price_vnd": 66981132.0754717
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2026-01",
+    "property_type_name": "Nhà",
+    "count": 42,
+    "median_price_vnd": 4800000000.0,
+    "median_area_m2": 67.8,
+    "median_unit_price_vnd": 75000000.0
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2026-02",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 267,
+    "median_price_vnd": 4300000000.0,
+    "median_area_m2": 76.0,
+    "median_unit_price_vnd": 54666666.666666664
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2026-02",
+    "property_type_name": "Nhà",
+    "count": 24,
+    "median_price_vnd": 6000000000.0,
+    "median_area_m2": 76.0,
+    "median_unit_price_vnd": 68702290.07633588
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2026-03",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 830,
+    "median_price_vnd": 4860000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 65040650.406504065
+  },
+  {
+    "district_code": "786",
+    "district_label": "Huyện Nhà Bè",
+    "published_month": "2026-03",
+    "property_type_name": "Nhà",
+    "count": 36,
+    "median_price_vnd": 7600000000.0,
+    "median_area_m2": 75.0,
+    "median_unit_price_vnd": 84162203.51951034
+  },
+  {
+    "district_code": "787",
+    "district_label": "Huyện Cần Giờ",
+    "published_month": "2025-09",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1,
+    "median_price_vnd": 14000000000.0,
+    "median_area_m2": 70.0,
+    "median_unit_price_vnd": 200000000.0
+  },
+  {
+    "district_code": "787",
+    "district_label": "Huyện Cần Giờ",
+    "published_month": "2025-10",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 8,
+    "median_price_vnd": 1850000000.0,
+    "median_area_m2": 47.0,
+    "median_unit_price_vnd": 39361702.127659574
+  },
+  {
+    "district_code": "787",
+    "district_label": "Huyện Cần Giờ",
+    "published_month": "2025-11",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 1,
+    "median_price_vnd": 3200000000.0,
+    "median_area_m2": 81.0,
+    "median_unit_price_vnd": 39506172.83950617
+  },
+  {
+    "district_code": "787",
+    "district_label": "Huyện Cần Giờ",
+    "published_month": "2025-11",
+    "property_type_name": "Nhà",
+    "count": 1,
+    "median_price_vnd": 5300000000.0,
+    "median_area_m2": 100.0,
+    "median_unit_price_vnd": 53000000.0
+  },
+  {
+    "district_code": "787",
+    "district_label": "Huyện Cần Giờ",
+    "published_month": "2026-01",
+    "property_type_name": "Căn hộ chung cư",
+    "count": 2,
+    "median_price_vnd": 5000000000.0,
+    "median_area_m2": 50.0,
+    "median_unit_price_vnd": 100000000.0
+  }
+]

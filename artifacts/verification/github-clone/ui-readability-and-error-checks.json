@@ -1,0 +1,686 @@
+{
+  "passed": true,
+  "representativeContrast": [
+    {
+      "page": "Tổng quan",
+      "selector": ".page-heading h1",
+      "ratio": 11.833178101502789,
+      "font": 34,
+      "foreground": "rgb(22, 52, 72)",
+      "background": [
+        241,
+        245,
+        248
+      ]
+    },
+    {
+      "page": "Tổng quan",
+      "selector": ".page-heading p",
+      "ratio": 5.584400995562833,
+      "font": 15,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        241,
+        245,
+        248
+      ]
+    },
+    {
+      "page": "Tổng quan",
+      "selector": ".research-scope",
+      "ratio": 8.070241321691784,
+      "font": 13,
+      "foreground": "rgb(103, 69, 22)",
+      "background": [
+        255,
+        247,
+        229
+      ]
+    },
+    {
+      "page": "Tổng quan",
+      "selector": ".research-scope strong",
+      "ratio": 8.070241321691784,
+      "font": 13,
+      "foreground": "rgb(103, 69, 22)",
+      "background": [
+        255,
+        247,
+        229
+      ]
+    },
+    {
+      "page": "Tổng quan",
+      "selector": ".panel h2",
+      "ratio": 12.971874077780923,
+      "font": 20,
+      "foreground": "rgb(22, 52, 72)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Tổng quan",
+      "selector": ".panel-heading p",
+      "ratio": 6.121782828999737,
+      "font": 13,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Tổng quan",
+      "selector": ".stat-label",
+      "ratio": 6.121782828999737,
+      "font": 13,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Tổng quan",
+      "selector": ".stat-note",
+      "ratio": 6.121782828999737,
+      "font": 13,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Tìm khu vực",
+      "selector": ".page-heading h1",
+      "ratio": 11.833178101502789,
+      "font": 30,
+      "foreground": "rgb(22, 52, 72)",
+      "background": [
+        241,
+        245,
+        248
+      ]
+    },
+    {
+      "page": "Tìm khu vực",
+      "selector": ".page-heading p",
+      "ratio": 5.584400995562833,
+      "font": 15,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        241,
+        245,
+        248
+      ]
+    },
+    {
+      "page": "Tìm khu vực",
+      "selector": ".research-scope",
+      "ratio": 8.070241321691784,
+      "font": 13,
+      "foreground": "rgb(103, 69, 22)",
+      "background": [
+        255,
+        247,
+        229
+      ]
+    },
+    {
+      "page": "Tìm khu vực",
+      "selector": ".research-scope strong",
+      "ratio": 8.070241321691784,
+      "font": 13,
+      "foreground": "rgb(103, 69, 22)",
+      "background": [
+        255,
+        247,
+        229
+      ]
+    },
+    {
+      "page": "Tìm khu vực",
+      "selector": ".panel h2",
+      "ratio": 12.971874077780923,
+      "font": 20,
+      "foreground": "rgb(22, 52, 72)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Tìm khu vực",
+      "selector": ".panel-heading p",
+      "ratio": 6.121782828999737,
+      "font": 13,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Tìm khu vực",
+      "selector": ".body-copy",
+      "ratio": 6.121782828999737,
+      "font": 14,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Tìm khu vực",
+      "selector": ".form-grid label",
+      "ratio": 9.651752606507273,
+      "font": 14,
+      "foreground": "rgb(41, 72, 92)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Tìm khu vực",
+      "selector": ".match-card p",
+      "ratio": 6.121782828999737,
+      "font": 14,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Tìm khu vực",
+      "selector": ".muted",
+      "ratio": 6.121782828999737,
+      "font": 14,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Bản đồ giá",
+      "selector": ".page-heading h1",
+      "ratio": 11.833178101502789,
+      "font": 34,
+      "foreground": "rgb(22, 52, 72)",
+      "background": [
+        241,
+        245,
+        248
+      ]
+    },
+    {
+      "page": "Bản đồ giá",
+      "selector": ".page-heading p",
+      "ratio": 5.584400995562833,
+      "font": 15,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        241,
+        245,
+        248
+      ]
+    },
+    {
+      "page": "Bản đồ giá",
+      "selector": ".research-scope",
+      "ratio": 8.070241321691784,
+      "font": 13,
+      "foreground": "rgb(103, 69, 22)",
+      "background": [
+        255,
+        247,
+        229
+      ]
+    },
+    {
+      "page": "Bản đồ giá",
+      "selector": ".research-scope strong",
+      "ratio": 8.070241321691784,
+      "font": 13,
+      "foreground": "rgb(103, 69, 22)",
+      "background": [
+        255,
+        247,
+        229
+      ]
+    },
+    {
+      "page": "Bản đồ giá",
+      "selector": ".panel h2",
+      "ratio": 12.971874077780923,
+      "font": 20,
+      "foreground": "rgb(22, 52, 72)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Bản đồ giá",
+      "selector": ".panel-heading p",
+      "ratio": 6.121782828999737,
+      "font": 13,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Bản đồ giá",
+      "selector": ".body-copy",
+      "ratio": 6.121782828999737,
+      "font": 14,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Bản đồ giá",
+      "selector": ".caption",
+      "ratio": 6.121782828999737,
+      "font": 13,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Ước tính giá rao bán",
+      "selector": ".page-heading h1",
+      "ratio": 11.833178101502789,
+      "font": 34,
+      "foreground": "rgb(22, 52, 72)",
+      "background": [
+        241,
+        245,
+        248
+      ]
+    },
+    {
+      "page": "Ước tính giá rao bán",
+      "selector": ".page-heading p",
+      "ratio": 5.584400995562833,
+      "font": 15,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        241,
+        245,
+        248
+      ]
+    },
+    {
+      "page": "Ước tính giá rao bán",
+      "selector": ".research-scope",
+      "ratio": 8.070241321691784,
+      "font": 13,
+      "foreground": "rgb(103, 69, 22)",
+      "background": [
+        255,
+        247,
+        229
+      ]
+    },
+    {
+      "page": "Ước tính giá rao bán",
+      "selector": ".research-scope strong",
+      "ratio": 8.070241321691784,
+      "font": 13,
+      "foreground": "rgb(103, 69, 22)",
+      "background": [
+        255,
+        247,
+        229
+      ]
+    },
+    {
+      "page": "Ước tính giá rao bán",
+      "selector": ".panel h2",
+      "ratio": 12.971874077780923,
+      "font": 20,
+      "foreground": "rgb(22, 52, 72)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Ước tính giá rao bán",
+      "selector": ".panel-heading p",
+      "ratio": 6.121782828999737,
+      "font": 13,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Ước tính giá rao bán",
+      "selector": ".form-grid label",
+      "ratio": 9.651752606507273,
+      "font": 14,
+      "foreground": "rgb(41, 72, 92)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Ước tính giá rao bán",
+      "selector": ".predict-submit",
+      "ratio": 11.126035780049444,
+      "font": 14,
+      "foreground": "rgb(255, 255, 255)",
+      "background": [
+        24,
+        63,
+        87
+      ]
+    },
+    {
+      "page": "Độ chính xác dự đoán",
+      "selector": ".page-heading h1",
+      "ratio": 11.833178101502789,
+      "font": 34,
+      "foreground": "rgb(22, 52, 72)",
+      "background": [
+        241,
+        245,
+        248
+      ]
+    },
+    {
+      "page": "Độ chính xác dự đoán",
+      "selector": ".page-heading p",
+      "ratio": 5.584400995562833,
+      "font": 15,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        241,
+        245,
+        248
+      ]
+    },
+    {
+      "page": "Độ chính xác dự đoán",
+      "selector": ".research-scope",
+      "ratio": 8.070241321691784,
+      "font": 13,
+      "foreground": "rgb(103, 69, 22)",
+      "background": [
+        255,
+        247,
+        229
+      ]
+    },
+    {
+      "page": "Độ chính xác dự đoán",
+      "selector": ".research-scope strong",
+      "ratio": 8.070241321691784,
+      "font": 13,
+      "foreground": "rgb(103, 69, 22)",
+      "background": [
+        255,
+        247,
+        229
+      ]
+    },
+    {
+      "page": "Độ chính xác dự đoán",
+      "selector": ".panel h2",
+      "ratio": 12.971874077780923,
+      "font": 20,
+      "foreground": "rgb(22, 52, 72)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Độ chính xác dự đoán",
+      "selector": ".panel-heading p",
+      "ratio": 6.121782828999737,
+      "font": 13,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Độ chính xác dự đoán",
+      "selector": ".stat-label",
+      "ratio": 6.121782828999737,
+      "font": 13,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Độ chính xác dự đoán",
+      "selector": ".stat-note",
+      "ratio": 6.121782828999737,
+      "font": 13,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Độ chính xác dự đoán",
+      "selector": ".body-copy",
+      "ratio": 6.121782828999737,
+      "font": 14,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Độ chính xác dự đoán",
+      "selector": ".caption",
+      "ratio": 6.121782828999737,
+      "font": 13,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Độ chính xác dự đoán",
+      "selector": ".muted",
+      "ratio": 5.584400995562833,
+      "font": 14,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        241,
+        245,
+        248
+      ]
+    },
+    {
+      "page": "Độ chính xác dự đoán",
+      "selector": ".notice p",
+      "ratio": 8.070241321691784,
+      "font": 14,
+      "foreground": "rgb(103, 69, 22)",
+      "background": [
+        255,
+        247,
+        229
+      ]
+    },
+    {
+      "page": "Dữ liệu & phương pháp",
+      "selector": ".page-heading h1",
+      "ratio": 11.833178101502789,
+      "font": 34,
+      "foreground": "rgb(22, 52, 72)",
+      "background": [
+        241,
+        245,
+        248
+      ]
+    },
+    {
+      "page": "Dữ liệu & phương pháp",
+      "selector": ".page-heading p",
+      "ratio": 5.584400995562833,
+      "font": 15,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        241,
+        245,
+        248
+      ]
+    },
+    {
+      "page": "Dữ liệu & phương pháp",
+      "selector": ".research-scope",
+      "ratio": 8.070241321691784,
+      "font": 13,
+      "foreground": "rgb(103, 69, 22)",
+      "background": [
+        255,
+        247,
+        229
+      ]
+    },
+    {
+      "page": "Dữ liệu & phương pháp",
+      "selector": ".research-scope strong",
+      "ratio": 8.070241321691784,
+      "font": 13,
+      "foreground": "rgb(103, 69, 22)",
+      "background": [
+        255,
+        247,
+        229
+      ]
+    },
+    {
+      "page": "Dữ liệu & phương pháp",
+      "selector": ".panel h2",
+      "ratio": 12.971874077780923,
+      "font": 20,
+      "foreground": "rgb(22, 52, 72)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Dữ liệu & phương pháp",
+      "selector": ".panel-heading p",
+      "ratio": 6.121782828999737,
+      "font": 13,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Dữ liệu & phương pháp",
+      "selector": ".body-copy",
+      "ratio": 6.121782828999737,
+      "font": 14,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Dữ liệu & phương pháp",
+      "selector": ".caption",
+      "ratio": 6.121782828999737,
+      "font": 13,
+      "foreground": "rgb(76, 101, 118)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Dữ liệu & phương pháp",
+      "selector": ".form-grid label",
+      "ratio": 9.651752606507273,
+      "font": 14,
+      "foreground": "rgb(41, 72, 92)",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "page": "Dữ liệu & phương pháp",
+      "selector": ".pipeline-steps button.active",
+      "ratio": 11.126035780049444,
+      "font": 13,
+      "foreground": "rgb(255, 255, 255)",
+      "background": [
+        24,
+        63,
+        87
+      ]
+    }
+  ],
+  "checks": [
+    "real empty results and 0/dash comparison",
+    "search 503 and retry",
+    "predict 429 then real recovery",
+    "representative normal text at least4.5:1 on six pages"
+  ],
+  "limitations": [
+    "Representative samples, not a full WCAG certification or user study."
+  ]
+}

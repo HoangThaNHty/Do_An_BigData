@@ -1,0 +1,8 @@
+'use client';
+import {useState} from 'react';
+import {Button} from './ui/button';
+import {request} from '@/lib/types';
+export default function GeographyLookup({onSelect}:{onSelect:(code:string)=>void}){
+ const [q,setQ]=useState('');const [data,setData]=useState<{matches:{district_code:string;label:string;district_label?:string;note?:string}[];notice:string;total_matches:number}|null>(null);const [error,setError]=useState('');const [busy,setBusy]=useState(false);
+ return <details className="geo-lookup"><summary>Tra cứu địa danh và hiểu địa bàn sau sáp nhập</summary><p>Tập nghiên cứu giữ phạm vi TP.HCM trước hợp nhất. Quận/huyện bên dưới là nhóm lịch sử, không phải cấp hành chính hiện hành. Tin sau 07/2025 vẫn có thể dùng tên địa chỉ cũ.</p><form onSubmit={async e=>{e.preventDefault();setBusy(true);setError('');setData(null);try{setData(await request('geography/lookup?q='+encodeURIComponent(q)));}catch(e){setError((e as Error).message);}finally{setBusy(false);}}}><input aria-label="Tra địa danh" value={q} onChange={e=>setQ(e.target.value)} minLength={2} maxLength={120} required placeholder="Ví dụ: Quận 9, Bình Thạnh, Linh Trung"/><Button size="sm" disabled={busy}>{busy?'Đang tra…':'Tra cứu'}</Button></form>{error&&<p role="alert">{error}</p>}{data&&<><p>{data.notice}</p>{!data.matches.length?<p>Chưa tìm thấy trong danh mục lịch sử. Không tự gán tên phường mới; hãy xác định khu vực cũ của địa chỉ.</p>:<ul>{data.matches.map((r,i)=><li key={i}><button onClick={()=>onSelect(r.district_code)}>{r.label}{r.district_label?' · '+r.district_label:''}</button>{r.note&&<small>{r.note}</small>}</li>)}</ul>}{data.total_matches>30&&<p>Hiển thị 30/{data.total_matches} kết quả. Nhập tên cụ thể hơn.</p>}</>}</details>;
+}
